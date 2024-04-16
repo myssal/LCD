@@ -1,0 +1,10 @@
+{
+  "list": [
+    {
+      "dungeonId": 3,
+      "typeIndex": 0,
+      "encounters": [
+      ]
+    }
+  ]
+}

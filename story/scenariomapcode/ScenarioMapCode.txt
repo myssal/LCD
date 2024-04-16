@@ -1,0 +1,808 @@
+{
+  "assetData": [
+    {
+      "id": "blackbg",
+      "name": "blackbg",
+      "lightFilterColor": "#000000",
+      "bg": [
+        {
+          "depth": 1,
+          "sprite": "blackbg"
+        }
+      ]
+    },
+    {
+      "id": "story_lobotomy_dungeon",
+      "name": "로보토미 지부 2층",
+      "lightFilterColor": "#351614",
+      "bg": [
+        {
+          "depth": 1,
+          "sprite": "story_lobotomy_dungeon"
+        }
+      ]
+    },
+    {
+      "id": "Bus_dawn_R",
+      "name": "메피스토펠레스 내부",
+      "lightFilterColor": "#FBD48F",
+      "bg": [
+        {
+          "depth": 2,
+          "sprite": "far_dawn_R"
+        },
+        {
+          "depth": 1.5,
+          "sprite": "bus_dawn_R"
+        }
+      ]
+    },
+    {
+      "id": "Bus_dawn_L",
+      "name": "메피스토텔리스 내부",
+      "fileName": "Bus_dawn_L",
+      "lightFilterColor": "#FBD48F",
+      "bg": [
+        {
+          "depth": 2,
+          "sprite": "far_dawn_R"
+        },
+        {
+          "depth": 1,
+          "sprite": "bus_dawn_R"
+        }
+      ]
+    },
+    {
+      "id": "Mephitz_Inside",
+      "name": "메피스토펠레스 내부",
+      "lightFilterColor": "#D2E5EC",
+      "bg": [
+        {
+          "depth": 1,
+          "sprite": "Mephitz_Inside"
+        }
+      ]
+    },
+    {
+      "id": "Forest_Bus",
+      "name": "숲에서 나온 버스",
+      "lightFilterColor": "#617b80",
+      "bg": [
+        {
+          "depth": 2,
+          "sprite": "Forest_Bus_2"
+        },
+        {
+          "depth": 1.5,
+          "sprite": "Forest_Bus_1"
+        },
+        {
+          "depth": 1.5,
+          "sprite": "Forest_Bus_0"
+        }
+      ]
+    },
+    {
+      "id": "Bus_Inside_1",
+      "name": "버스 내부",
+      "lightFilterColor": "#912B1F",
+      "bg": [
+        {
+          "depth": 2,
+          "sprite": "Forest_Bus_2"
+        }
+      ]
+    },
+    {
+      "id": "black",
+      "name": "검정????",
+      "lightFilterColor": "#E4F1F9",
+      "bg": [
+        {
+          "depth": 2,
+          "sprite": "Forest_Bus_2"
+        }
+      ]
+    },
+    {
+      "id": "Lobotomy_Center_Deep2",
+      "name": "로보토미 지부 1층",
+      "lightFilterColor": "#351614",
+      "bg": [
+        {
+          "depth": 1,
+          "sprite": "Lobotomy_Center_Deep2"
+        }
+      ]
+    },
+    {
+      "id": "Lobotomy_Center_Entrance",
+      "name": "로보토미 지부 입구",
+      "lightFilterColor": "#D2E5EC",
+      "bg": [
+        {
+          "depth": 1,
+          "sprite": "Lobotomy_Center_Entrance"
+        }
+      ]
+    },
+    {
+      "id": "story_lobotomy_dungeonL",
+      "name": "로보토미 지부 2층 회전",
+      "lightFilterColor": "#351614",
+      "bg": [
+        {
+          "depth": 1,
+          "sprite": "story_lobotomy_dungeonL"
+        }
+      ]
+    },
+    {
+      "id": "BackStreet_1",
+      "name": "4구 뒷골목 어딘가 1",
+      "lightFilterColor": "#D2E5EC",
+      "bg": [
+        {
+          "depth": 1,
+          "sprite": "BackStreet_1"
+        }
+      ]
+    },
+    {
+      "id": "story_lobotomy_lastF",
+      "name": "로보토미 마지막 층",
+      "lightFilterColor": "#351614",
+      "bg": [
+        {
+          "depth": 1,
+          "sprite": "story_lobotomy_lastF"
+        }
+      ]
+    },
+    {
+      "id": "story_gregor_smokewar",
+      "name": "연기전쟁 한복판",
+      "lightFilterColor": "#351614",
+      "bg": [
+        {
+          "depth": 1,
+          "sprite": "story_gregor_smokewar"
+        }
+      ]
+    },
+    {
+      "id": "Bus_evening_L",
+      "name": "메피스토텔리스 카지노 밤 내부 왼쪽",
+      "fileName": "Bus_evening_L",
+      "lightFilterColor": "#FBD48F",
+      "bg": [
+        {
+          "depth": 2,
+          "sprite": "far_casino_L"
+        },
+        {
+          "depth": 1,
+          "sprite": "bus_casino_L"
+        }
+      ]
+    },
+    {
+      "id": "Bus_evening_R",
+      "name": "메피스토텔리스 카지노 밤 내부 오른쪽",
+      "fileName": "Bus_evening_R",
+      "lightFilterColor": "#FBD48F",
+      "bg": [
+        {
+          "depth": 2,
+          "sprite": "far_casino_R"
+        },
+        {
+          "depth": 1,
+          "sprite": "bus_casino_R"
+        }
+      ]
+    },
+    {
+      "id": "Bus_sunset_L",
+      "name": "메피스토텔리스 노을 내부 왼쪽",
+      "fileName": "Bus_sunset_L",
+      "lightFilterColor": "#FBD48F",
+      "bg": [
+        {
+          "depth": 2,
+          "sprite": "far_sunset_L"
+        },
+        {
+          "depth": 1,
+          "sprite": "bus_sunset_L"
+        }
+      ]
+    },
+    {
+      "id": "Bus_sunset_R",
+      "name": "메피스토텔리스 노을 내부 오른쪽",
+      "fileName": "Bus_sunset_R",
+      "lightFilterColor": "#FBD48F",
+      "bg": [
+        {
+          "depth": 2,
+          "sprite": "far_sunset_R"
+        },
+        {
+          "depth": 1,
+          "sprite": "bus_sunset_R"
+        }
+      ]
+    },
+    {
+      "id": "Bus_cloudy_R",
+      "name": "메피스토텔리스 흐린 날 오른쪽",
+      "fileName": "Bus_cloudy_R",
+      "lightFilterColor": "#FBD48F",
+      "bg": [
+        {
+          "depth": 2,
+          "sprite": "far_cloudy_R"
+        },
+        {
+          "depth": 1,
+          "sprite": "bus_cloudy_R"
+        }
+      ]
+    },
+    {
+      "id": "Bus_cloudy_L",
+      "name": "메피스토텔리스 흐린 날 왼쪽",
+      "fileName": "Bus_cloudy_L",
+      "lightFilterColor": "#FBD48F",
+      "bg": [
+        {
+          "depth": 2,
+          "sprite": "far_cloudy_L"
+        },
+        {
+          "depth": 1,
+          "sprite": "bus_cloudy_L"
+        }
+      ]
+    },
+    {
+      "id": "story_casino_far",
+      "name": "카지노 원경",
+      "lightFilterColor": "#351614",
+      "bg": [
+        {
+          "depth": 1,
+          "sprite": "story_casino_far"
+        }
+      ]
+    },
+    {
+      "id": "story_pawnshop",
+      "name": "전당포",
+      "lightFilterColor": "#351614",
+      "bg": [
+        {
+          "depth": 1,
+          "sprite": "story_pawnshop"
+        }
+      ]
+    },
+    {
+      "id": "story_casino_entrance",
+      "name": "카지노 차탑",
+      "lightFilterColor": "#351614",
+      "bg": [
+        {
+          "depth": 1,
+          "sprite": "story_casino_entrance"
+        }
+      ]
+    },
+    {
+      "id": "story_casino_1F",
+      "name": "카지노 1층",
+      "lightFilterColor": "#351614",
+      "bg": [
+        {
+          "depth": 1,
+          "sprite": "story_casino_1F"
+        }
+      ]
+    },
+    {
+      "id": "story_casino_2f",
+      "name": "카지노 2층",
+      "lightFilterColor": "#351614",
+      "bg": [
+        {
+          "depth": 1,
+          "sprite": "story_casino_2f"
+        }
+      ]
+    },
+    {
+      "id": "story_casino3F",
+      "name": "카지노 3층",
+      "lightFilterColor": "#351614",
+      "bg": [
+        {
+          "depth": 1,
+          "sprite": "story_casino3F"
+        }
+      ]
+    },
+    {
+      "id": "story_casino_privycamber",
+      "name": "카지노 개인실",
+      "lightFilterColor": "#351614",
+      "bg": [
+        {
+          "depth": 1,
+          "sprite": "story_casino_privycamber"
+        }
+      ]
+    },
+    {
+      "id": "story_B1_vault",
+      "name": "광산 1층",
+      "lightFilterColor": "#351614",
+      "bg": [
+        {
+          "depth": 1,
+          "sprite": "story_B1_vault"
+        }
+      ]
+    },
+    {
+      "id": "story_B2_mine",
+      "name": "광산 2층",
+      "lightFilterColor": "#351614",
+      "bg": [
+        {
+          "depth": 1,
+          "sprite": "story_B2_mine"
+        }
+      ]
+    },
+    {
+      "id": "story_b3_Fathoms of the Ego_entrance",
+      "name": "광산 3층",
+      "lightFilterColor": "#351614",
+      "bg": [
+        {
+          "depth": 1,
+          "sprite": "story_b3_Fathoms of the Ego_entrance"
+        }
+      ]
+    },
+    {
+      "id": "story_B3_Fathoms of the Ego",
+      "name": "이웃들이 잠든 얼음 성",
+      "lightFilterColor": "#351614",
+      "bg": [
+        {
+          "depth": 1,
+          "sprite": "story_B3_Fathoms of the Ego"
+        }
+      ]
+    },
+    {
+      "id": "battle_b3_Fathoms of the Ego_entrance_R",
+      "name": "바바예거 전투맵",
+      "lightFilterColor": "#351614",
+      "bg": [
+        {
+          "depth": 1,
+          "sprite": "battle_b3_Fathoms of the Ego_entrance_R"
+        }
+      ]
+    },
+    {
+      "id": "story_Immigration checkpoint",
+      "name": "k사 심사관",
+      "lightFilterColor": "#351614",
+      "bg": [
+        {
+          "depth": 1,
+          "sprite": "story_Immigration checkpoint"
+        }
+      ]
+    },
+    {
+      "id": "story_Immigration checkpoint_warning light",
+      "name": "k사 심사관 사이렌",
+      "lightFilterColor": "#351614",
+      "bg": [
+        {
+          "depth": 1,
+          "sprite": "story_Immigration checkpoint_warning light"
+        }
+      ]
+    },
+    {
+      "id": "story_sinclair_foreststreet",
+      "name": "싱클레어 마을로 가는 숲길",
+      "lightFilterColor": "#351614",
+      "bg": [
+        {
+          "depth": 1,
+          "sprite": "story_sinclair_foreststreet"
+        }
+      ]
+    },
+    {
+      "id": "story_sinclair_village",
+      "name": "싱클레어 마을",
+      "lightFilterColor": "#351614",
+      "bg": [
+        {
+          "depth": 1,
+          "sprite": "story_sinclair_village"
+        }
+      ]
+    },
+    {
+      "id": "story_sinclair_mansion",
+      "name": "싱클레어 저택 크로머 없음",
+      "lightFilterColor": "#351614",
+      "bg": [
+        {
+          "depth": 1,
+          "sprite": "story_sinclair_mansion"
+        }
+      ]
+    },
+    {
+      "id": "story_sinclair_mansion+cromer",
+      "name": "싱클레어 저택 크로머 있음",
+      "lightFilterColor": "#351614",
+      "bg": [
+        {
+          "depth": 1,
+          "sprite": "story_sinclair_mansion+cromer"
+        }
+      ]
+    },
+    {
+      "id": "story_sinclair_b1_lobotomy",
+      "name": "로보토미 지하 1층 감옥",
+      "lightFilterColor": "#351614",
+      "bg": [
+        {
+          "depth": 1,
+          "sprite": "story_sinclair_b1_lobotomy"
+        }
+      ]
+    },
+    {
+      "id": "story_sinclair_b2_lobotomy",
+      "name": "로보토미 지하 2층 감옥",
+      "lightFilterColor": "#351614",
+      "bg": [
+        {
+          "depth": 1,
+          "sprite": "story_sinclair_b2_lobotomy"
+        }
+      ]
+    },
+    {
+      "id": "story_B3_Fathoms of the Ego_3",
+      "name": "시체들의 언덕",
+      "lightFilterColor": "#351614",
+      "bg": [
+        {
+          "depth": 1,
+          "sprite": "story_B3_Fathoms of the Ego_3"
+        }
+      ]
+    },
+    {
+      "id": "story_underground_passage",
+      "name": "지하통로",
+      "lightFilterColor": "#351614",
+      "bg": [
+        {
+          "depth": 1,
+          "sprite": "story_underground_passage"
+        }
+      ]
+    },
+    {
+      "id": "story_lobotomy_dungeon_entrance",
+      "name": "로보토미 지부 어딘가",
+      "lightFilterColor": "#351614",
+      "bg": [
+        {
+          "depth": 1,
+          "sprite": "story_lobotomy_dungeon_entrance"
+        }
+      ]
+    },
+    {
+      "id": "Bus_city_L",
+      "name": "메피스토텔리스 내부",
+      "fileName": "Bus_city_L",
+      "lightFilterColor": "#FBD48F",
+      "bg": [
+        {
+          "depth": 2,
+          "sprite": "far_city_L"
+        },
+        {
+          "depth": 1,
+          "sprite": "bus_city_L"
+        }
+      ]
+    },
+    {
+      "id": "Bus_city_R",
+      "name": "메피스토텔리스 내부",
+      "fileName": "Bus_city_R",
+      "lightFilterColor": "#FBD48F",
+      "bg": [
+        {
+          "depth": 2,
+          "sprite": "far_city_R"
+        },
+        {
+          "depth": 1,
+          "sprite": "bus_city_R"
+        }
+      ]
+    },
+    {
+      "id": "story_lab_next_F",
+      "name": "story_lab_next_F",
+      "lightFilterColor": "#FFFFFF",
+      "bg": [
+        {
+          "depth": 1,
+          "sprite": "story_lab_next_F",
+          "heightPercentage" : 2.0
+        }
+      ]
+    },
+    {
+      "id": "Bus_beach_R",
+      "name": "메피스토펠레스 내부",
+      "fileName": "Bus_beach_R",
+      "lightFilterColor": "#FBD48F",
+      "bg": [
+        {
+          "depth": 2,
+          "sprite": "far_beach_R"
+        },
+        {
+          "depth": 1,
+          "sprite": "bus_beach_R"
+        }
+      ]
+    },
+    {
+      "id": "Bus_beach_L",
+      "name": "메피스토펠레스 내부",
+      "fileName": "Bus_beach_L",
+      "lightFilterColor": "#FBD48F",
+      "bg": [
+        {
+          "depth": 2,
+          "sprite": "far_beach_L"
+        },
+        {
+          "depth": 1,
+          "sprite": "bus_beach_L"
+        }
+      ]
+    },
+    {
+      "id": "Bus_tunnel_L",
+      "name": "메피스토펠레스 내부",
+      "fileName": "Bus_tunnel_L",
+      "lightFilterColor": "#FBD48F",
+      "bg": [
+        {
+          "depth": 2,
+          "sprite": "far_tunnel_L"
+        },
+        {
+          "depth": 1,
+          "sprite": "bus_tunnel_L"
+        }
+      ]
+    },
+    {
+      "id": "Bus_tunnel_R",
+      "name": "메피스토펠레스 내부",
+      "fileName": "Bus_tunnel_R",
+      "lightFilterColor": "#FBD48F",
+      "bg": [
+        {
+          "depth": 2,
+          "sprite": "far_tunnel_R"
+        },
+        {
+          "depth": 1,
+          "sprite": "bus_tunnel_R"
+        }
+      ]
+    },
+    {
+      "id": "Bus_boat_L",
+      "name": "메피스토펠레스 내부",
+      "fileName": "Bus_boat_L",
+      "lightFilterColor": "#FBD48F",
+      "bg": [
+        {
+          "depth": 2,
+          "sprite": "far_clearsky_L"
+        },
+        {
+          "depth": 1,
+          "sprite": "ship_clearsky_L"
+        }
+      ]
+    },
+    {
+      "id": "Bus_boat_R",
+      "name": "메피스토펠레스 내부",
+      "fileName": "Bus_boat_R",
+      "lightFilterColor": "#FBD48F",
+      "bg": [
+        {
+          "depth": 2,
+          "sprite": "far_clearsky_R"
+        },
+        {
+          "depth": 1,
+          "sprite": "ship_clearsky_R"
+        }
+      ]
+    },
+    {
+      "id": "Bus_Pinkboat_L",
+      "name": "메피스토펠레스 내부",
+      "fileName": "Bus_Pinkboat_L",
+      "lightFilterColor": "#FBD48F",
+      "bg": [
+        {
+          "depth": 2,
+          "sprite": "far_pinksea_L"
+        },
+        {
+          "depth": 1,
+          "sprite": "ship_pinksea_L"
+        }
+      ]
+    },
+    {
+      "id": "Bus_Pinkboat_R",
+      "name": "메피스토펠레스 내부",
+      "fileName": "Bus_Pinkboat_R",
+      "lightFilterColor": "#FBD48F",
+      "bg": [
+        {
+          "depth": 2,
+          "sprite": "far_pinksea_R"
+        },
+        {
+          "depth": 1,
+          "sprite": "ship_pinksea_R"
+        }
+      ]
+    },
+    {
+      "id": "Bus_Sunsetboat_L",
+      "name": "메피스토펠레스 내부",
+      "fileName": "Bus_Sunsetboat_L",
+      "lightFilterColor": "#FBD48F",
+      "bg": [
+        {
+          "depth": 2,
+          "sprite": "far_sunset_L"
+        },
+        {
+          "depth": 1,
+          "sprite": "ship_sunset_L"
+        }
+      ]
+    },
+    {
+      "id": "Bus_t_backstreet_L",
+      "name": "메피스토펠레스 내부",
+      "fileName": "Bus_t_backstreet_L",
+      "lightFilterColor": "#FBD48F",
+      "bg": [
+        {
+          "depth": 2,
+          "sprite": "far_t_backstreet_L"
+        },
+        {
+          "depth": 1,
+          "sprite": "bus_t_backstreet_L"
+        }
+      ]
+    },
+    {
+      "id": "Bus_t_backstreet_R",
+      "name": "메피스토펠레스 내부",
+      "fileName": "Bus_t_backstreet_R",
+      "lightFilterColor": "#FBD48F",
+      "bg": [
+        {
+          "depth": 2,
+          "sprite": "far_t_backstreet_R"
+        },
+        {
+          "depth": 1,
+          "sprite": "bus_t_backstreet_R"
+        }
+      ]
+    },
+    {
+      "id": "Bus_t_stormOff_L",
+      "name": "메피스토펠레스 내부",
+      "fileName": "Bus_t_stormOff_L",
+      "lightFilterColor": "#FBD48F",
+      "bg": [
+        {
+          "depth": 2,
+          "sprite": "far_storm_l_off"
+        },
+        {
+          "depth": 1,
+          "sprite": "bus_storm_l_off"
+        }
+      ]
+    },
+    {
+      "id": "Bus_t_stormOff_R",
+      "name": "메피스토펠레스 내부",
+      "fileName": "Bus_t_stormOff_R",
+      "lightFilterColor": "#FBD48F",
+      "bg": [
+        {
+          "depth": 2,
+          "sprite": "far_storm_r_off"
+        },
+        {
+          "depth": 1,
+          "sprite": "bus_storm_r_off"
+        }
+      ]
+    },
+    {
+      "id": "Bus_t_storm_L",
+      "name": "메피스토펠레스 내부",
+      "fileName": "Bus_t_stormOff_L",
+      "lightFilterColor": "#FBD48F",
+      "bg": [
+        {
+          "depth": 2,
+          "sprite": "far_storm_l"
+        },
+        {
+          "depth": 1,
+          "sprite": "bus_storm_l"
+        }
+      ]
+    },
+    {
+      "id": "Bus_t_storm_R",
+      "name": "메피스토펠레스 내부",
+      "fileName": "Bus_t_stormOff_R",
+      "lightFilterColor": "#FBD48F",
+      "bg": [
+        {
+          "depth": 2,
+          "sprite": "far_storm_r"
+        },
+        {
+          "depth": 1,
+          "sprite": "bus_storm_r"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+    {
+      "id": 1,
+      "stageType": "Normal",
+      "staminaCost": 0,
+      "participantInfo": {
+        "min": 5,
+        "max": 5
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+			"mapName": "DAreaStreet_A",
+            "mapSize": 28.0
+          },
+          "unitList": [
+            {
+              "unitID": 1,
+              "unitCount": 5,
+              "unitLevel": 1
+            }
+          ],
+		  "bgmList": [
+            "Battle_Cp1_Ally_1",
+            "Battle_Cp1_Enemy_1"
+          ]
+        }
+      ],
+      "turnLimit": 99,
+      "rewardList": [
+      ]
+    }

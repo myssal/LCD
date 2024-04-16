@@ -1,0 +1,1 @@
+{"dataList":[{"id":-1},{"id":0,"characterlist":"G사부장:3,그레고르:7","bg":"story_lobotomy_dungeon","bgm":"Cellar"},{"id":1},{"id":2},{"id":3},{"id":4},{"id":5},{"id":6},{"id":7},{"id":8},{"id":9,"effect":"FadeOut"}]}

@@ -1,0 +1,12 @@
+{
+  "loginUI": [
+    "LoginUIText",
+    "UserAgreements"
+  ],
+  "fileDownloadDesc": [
+    "FileDownloadDesc"
+  ],
+  "battleHint": [
+    "BattleHint"
+  ]
+}

@@ -1,0 +1,1 @@
+{"dataList":[{"id":-1},{"id":0,"bg":"Lobotomy_Center_Deep2","bgm":"Anxiety"},{"id":1,"emotion":"Angry"},{"id":2},{"id":3},{"id":4,"emotion":"Music"},{"id":5},{"id":6},{"id":7,"effect":"FadeOut"}]}

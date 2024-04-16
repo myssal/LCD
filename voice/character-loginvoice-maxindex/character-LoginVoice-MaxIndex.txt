@@ -1,0 +1,52 @@
+{
+  "characterList": [
+    {
+      "character": 1,
+      "index": 4
+    },
+    {
+      "character": 2,
+      "index": 4
+    },
+    {
+      "character": 3,
+      "index": 5
+    },
+    {
+      "character": 4,
+      "index": 4
+    },
+    {
+      "character": 5,
+      "index": 4
+    },
+    {
+      "character": 6,
+      "index": 3
+    },
+    {
+      "character":7,
+      "index": 3
+    },
+    {
+      "character": 8,
+      "index": 2
+    },
+    {
+      "character": 9,
+      "index": 4
+    },
+    {
+      "character": 10,
+      "index": 4
+    },
+    {
+      "character": 11,
+      "index": 3
+    },
+    {
+      "character": 12,
+      "index": 4
+    }
+  ]
+}

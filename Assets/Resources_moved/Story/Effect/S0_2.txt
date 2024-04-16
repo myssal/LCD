@@ -1,0 +1,1 @@
+{"dataList":[{"id":0,"bg":"BackStreet_1","cg":"black:FadeIn,S6_1:FadeIn","bgm":"Backstreet"},{"id":1,"soundeffect":"Guguguk"},{"id":2},{"id":3,"feeling":"smile","cg":"S6_2:FadeIn"},{"id":4,"feeling":"surprise","cg":"S6_3:FadeIn"},{"id":5},{"id":6},{"id":7},{"id":8,"feeling":"surprise"}]}

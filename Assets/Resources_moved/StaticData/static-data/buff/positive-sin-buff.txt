@@ -1,0 +1,33 @@
+{
+  "list": [
+    {
+      "id": "Breath",
+      "buffClass": "SinBuff",
+      "attributeType": "INDIGO",
+      "buffType": "Positive",
+      "canBeDespelled": true,
+      "list": [
+        {
+          "ability": "Breath",
+          "value": 0.05
+        }
+      ],
+      "categoryKeywordList": [ "SIN", "BREATH" ]
+    },
+    {
+      "id": "Charge",
+      "buffClass": "SinBuff",
+      "attributeType": "VIOLET",
+      "buffType": "Positive",
+      "maxTurn": 20,
+      "canBeDespelled": true,
+      "list": [
+        {
+          "ability": "LoseTurnOnRoundEnd",
+          "value": 1
+        }
+      ],
+      "categoryKeywordList": [ "SIN", "CHARGE" ]
+    }
+  ]
+}

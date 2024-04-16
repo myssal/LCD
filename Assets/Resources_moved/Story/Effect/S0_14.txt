@@ -1,0 +1,1 @@
+{"dataList":[{"id":-1},{"id":0,"bgm":"Anxiety"},{"id":1},{"id":2},{"id":3},{"id":4},{"id":6,"cg":"white:FadeIn"},{"id":7},{"id":9},{"id":10},{"id":11,"cg":"white:FadeOut"},{"id":12},{"id":13,"effect":"FadeOut"}]}

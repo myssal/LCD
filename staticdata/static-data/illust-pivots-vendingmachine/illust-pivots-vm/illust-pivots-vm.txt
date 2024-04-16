@@ -1,0 +1,480 @@
+{
+    "list": [
+        {
+            "id": "10101_normal",
+            "offsetX": 18.0,
+            "offsetY": -18.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10102_gacksung",
+            "offsetX": -90.0,
+            "offsetY": -39.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10102_normal",
+            "offsetX": 78.0,
+            "offsetY": -29.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10103_gacksung",
+            "offsetX": -66.0,
+            "offsetY": -39.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10103_normal",
+            "offsetX": 0.0,
+            "offsetY": -34.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10201_normal",
+            "offsetX": 18.0,
+            "offsetY": -18.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10202_gacksung",
+            "offsetX": 13.0,
+            "offsetY": -30.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10202_normal",
+            "offsetX": 8.0,
+            "offsetY": -38.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10203_gacksung",
+            "offsetX": -2.0,
+            "offsetY": -42.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10203_normal",
+            "offsetX": 54.0,
+            "offsetY": -39.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10301_normal",
+            "offsetX": 18.0,
+            "offsetY": -18.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10302_gacksung",
+            "offsetX": 95.0,
+            "offsetY": -41.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10302_normal",
+            "offsetX": 12.0,
+            "offsetY": -6.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10303_gacksung",
+            "offsetX": -50.0,
+            "offsetY": -44.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10303_normal",
+            "offsetX": 49.0,
+            "offsetY": -34.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10401_normal",
+            "offsetX": 18.0,
+            "offsetY": -18.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10402_gacksung",
+            "offsetX": 99.0,
+            "offsetY": -32.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10402_normal",
+            "offsetX": 0.0,
+            "offsetY": -39.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10403_gacksung",
+            "offsetX": -48.0,
+            "offsetY": -2.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10403_normal",
+            "offsetX": -77.0,
+            "offsetY": -36.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10501_normal",
+            "offsetX": 18.0,
+            "offsetY": -18.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10502_gacksung",
+            "offsetX": 18.0,
+            "offsetY": -30.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10502_normal",
+            "offsetX": 72.0,
+            "offsetY": -45.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10503_gacksung",
+            "offsetX": -8.0,
+            "offsetY": -41.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10503_normal",
+            "offsetX": 38.0,
+            "offsetY": -48.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10504_gacksung",
+            "offsetX": 2.0,
+            "offsetY": -42.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10504_normal",
+            "offsetX": 91.0,
+            "offsetY": -36.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10601_normal",
+            "offsetX": 18.0,
+            "offsetY": -18.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10602_gacksung",
+            "offsetX": -5.0,
+            "offsetY": -41.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10602_normal",
+            "offsetX": -29.0,
+            "offsetY": -53.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10603_gacksung",
+            "offsetX": 7.0,
+            "offsetY": -36.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10603_normal",
+            "offsetX": 87.0,
+            "offsetY": -16.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10701_normal",
+            "offsetX": 18.0,
+            "offsetY": -18.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10702_gacksung",
+            "offsetX": 171.0,
+            "offsetY": -76.0,
+            "scaleFactor": 1.2000000476837159,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10702_normal",
+            "offsetX": 125.0,
+            "offsetY": -34.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10703_gacksung",
+            "offsetX": 2.0,
+            "offsetY": -34.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10703_normal",
+            "offsetX": 15.0,
+            "offsetY": -47.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10801_normal",
+            "offsetX": 18.0,
+            "offsetY": -18.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10802_gacksung",
+            "offsetX": 127.96099853515625,
+            "offsetY": -34.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10802_normal",
+            "offsetX": -97.0,
+            "offsetY": -35.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10803_gacksung",
+            "offsetX": 96.0,
+            "offsetY": -18.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10803_normal",
+            "offsetX": -22.0,
+            "offsetY": -35.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10804_gacksung",
+            "offsetX": 56.0,
+            "offsetY": -31.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10804_normal",
+            "offsetX": -97.0,
+            "offsetY": -38.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10901_normal",
+            "offsetX": 18.0,
+            "offsetY": -18.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10902_gacksung",
+            "offsetX": 28.0,
+            "offsetY": -46.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10902_normal",
+            "offsetX": -70.0,
+            "offsetY": -40.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10903_gacksung",
+            "offsetX": -54.0,
+            "offsetY": -36.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10903_normal",
+            "offsetX": 0.0,
+            "offsetY": -43.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10904_gacksung",
+            "offsetX": -92.0,
+            "offsetY": -22.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "10904_normal",
+            "offsetX": -96.0,
+            "offsetY": 6.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "11001_normal",
+            "offsetX": 18.0,
+            "offsetY": -18.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "11002_gacksung",
+            "offsetX": 14.0,
+            "offsetY": -40.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "11002_normal",
+            "offsetX": 0.0,
+            "offsetY": -40.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "11003_gacksung",
+            "offsetX": -70.0,
+            "offsetY": -43.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "11003_normal",
+            "offsetX": 49.0,
+            "offsetY": -31.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "11004_gacksung",
+            "offsetX": 8.0,
+            "offsetY": -35.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "11004_normal",
+            "offsetX": -35.0,
+            "offsetY": -24.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "11101_normal",
+            "offsetX": 18.0,
+            "offsetY": -18.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "11102_gacksung",
+            "offsetX": -118.0,
+            "offsetY": -16.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "11102_normal",
+            "offsetX": -47.0,
+            "offsetY": -29.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "11103_gacksung",
+            "offsetX": 92.0,
+            "offsetY": -8.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "11103_normal",
+            "offsetX": -99.0,
+            "offsetY": -33.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "11201_normal",
+            "offsetX": 18.0,
+            "offsetY": -18.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "11202_gacksung",
+            "offsetX": -33.0,
+            "offsetY": -46.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "11202_normal",
+            "offsetX": 81.0,
+            "offsetY": -30.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "11203_gacksung",
+            "offsetX": 17.0,
+            "offsetY": -37.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        },
+        {
+            "id": "11203_normal",
+            "offsetX": 20.0,
+            "offsetY": -42.0,
+            "scaleFactor": 1.0,
+            "rotateZ": 0.0
+        }
+    ]
+}
