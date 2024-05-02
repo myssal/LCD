@@ -1,0 +1,221 @@
+{
+  "list": [
+    {
+      "id": 9403,
+      "attributeType": "SHAMROCK",
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 9403,
+          "abilityIDList": [ 9403, 94031 ]
+        }
+      ],
+      "tag": [
+        "TIER_2"
+      ],
+      "keyword": "Burst",
+      "lockType": false,
+      "price": 100
+    },
+    {
+      "id": 9404,
+      "attributeType": "AMBER",
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 9404,
+          "abilityIDList": [ 9404, 94041 ]
+        }
+      ],
+      "tag": [
+        "TIER_3"
+      ],
+      "keyword": "Laceration",
+      "lockType": false,
+      "price": 100
+    },
+    {
+      "id": 9413,
+      "attributeType": "CRIMSON",
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 9413,
+          "abilityIDList": [ 9413, 94131 ]
+        }
+      ],
+      "tag": [
+        "TIER_2"
+      ],
+      "keyword": "Laceration",
+      "lockType": false,
+      "price": 100
+    },
+    {
+      "id": 9414,
+      "attributeType": "SCARLET",
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 9414,
+          "abilityIDList": [ 9414, 94141 ]
+        }
+      ],
+      "tag": [
+        "TIER_2"
+      ],
+      "lockType": false,
+      "price": 100
+    },
+    {
+      "id": 9423,
+      "attributeType": "AZURE",
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 9423,
+          "abilityIDList": [ 9423, 94231, 94232 ]
+        }
+      ],
+      "tag": [
+        "TIER_2"
+      ],
+      "lockType": false,
+      "price": 100
+    },
+    {
+      "id": 9424,
+      "attributeType": "VIOLET",
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 9424,
+          "abilityIDList": [ 9424, 94241 ]
+        }
+      ],
+      "tag": [
+        "TIER_4"
+      ],
+      "keyword": "Burst",
+      "lockType": false,
+      "price": 100
+    },
+    {
+      "id": 9701,
+      "attributeType": "CRIMSON",
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 9701,
+          "abilityIDList": [ 9701 ]
+        }
+      ],
+      "tag": [
+        "TIER_3"
+      ],
+      "keyword": "Combustion",
+      "lockType": false,
+      "price": 100
+    },
+    {
+      "id": 9702,
+      "attributeType": "SHAMROCK",
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 9702,
+          "abilityIDList": [ 9702 ]
+        }
+      ],
+      "tag": [
+        "TIER_3"
+      ],
+      "keyword": "Burst",
+      "lockType": false,
+      "price": 100
+    },
+    {
+      "id": 9706,
+      "attributeType": "CRIMSON",
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 9706,
+          "abilityIDList": [ 9706, 97061 ]
+        }
+      ],
+      "tag": [
+        "TIER_1"
+      ],
+      "keyword": "Vibration",
+      "lockType": false,
+      "price": 100
+    },
+    {
+      "id": 9707,
+      "attributeType": "CRIMSON",
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 9707,
+          "abilityIDList": [ 9707 ]
+        }
+      ],
+      "tag": [
+        "TIER_2"
+      ],
+      "lockType": false,
+      "price": 100
+    },
+    {
+      "id": 9712,
+      "attributeType": "SHAMROCK",
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 9712,
+          "abilityIDList": [ 9712, 97121 ]
+        }
+      ],
+      "tag": [
+        "TIER_2"
+      ],
+      "lockType": false,
+      "price": 195
+    },
+    {
+      "id": 9713,
+      "attributeType": "VIOLET",
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 9713,
+          "abilityIDList": [ 9713, 97131 ]
+        }
+      ],
+      "tag": [
+        "TIER_3"
+      ],
+      "keyword": "Slash",
+      "lockType": false,
+      "price": 235
+    },
+    {
+      "id": 9714,
+      "attributeType": "SCARLET",
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 9714,
+          "abilityIDList": [ 9714, 97141 ]
+        }
+      ],
+      "tag": [
+        "TIER_3"
+      ],
+      "keyword": "Laceration",
+      "lockType": false,
+      "price": 244
+    }
+  ]
+}

@@ -51,11 +51,13 @@
             "abnormality-part-a1c5p2",
             "abnormality-part-a1c5p3",
             "abnormality-mirror3-part",
+            "abnormality-mirror4-part",
             "abnormality-part-a1c951",
             "abnormality-part-event1",
             "abnormality-part-ycgd",
             "abnormality-part-a1c6p2",
-            "abnormality-part-a1c6p3"
+            "abnormality-part-a1c6p3",
+            "abnormality-part-wp3"
           ]
         },
         {
@@ -71,11 +73,13 @@
             "abnormality-unit-a1c5p2",
             "abnormality-unit-a1c5p3",
             "abnormality-mirror3-unit",
+            "abnormality-mirror4-unit",
             "abnormality-unit-a1c951",
             "abnormality-unit-event1",
             "abnormality-unit-ycgd",
             "abnormality-unit-a1c6p2",
-            "abnormality-unit-a1c6p3"
+            "abnormality-unit-a1c6p3",
+            "abnormality-unit-wp3"
           ]
         },
         {
@@ -94,6 +98,7 @@
             "mirror-dungeon-floor-buff",
             "negative-nonvolatile-buff",
             "mirror-dungeon-floor-buff",
+            "mirror-dungeon-4-floor-buff",
             "negative-sin-buff",
             "negative-volatile-buff",
             "neutral-nonvolatile-buff",
@@ -115,6 +120,7 @@
             "buff-enemy-a1c6p1",
             "buff-enemy-a1c6p2",
             "buff-enemy-a1c6p3",
+            "buff-enemy-wp3",
             "special-buff"
           ]
         },
@@ -175,11 +181,11 @@
         {
             "dataClass": "ego-gift",
             "fileList": [
-                "ego-gift",
-                "hidden-ego-gift-storydungeon",
-                "ego-gift-a1c5p1",
-                "ego-gift-a1c5p2",
-                "ego-gift-a1c5p3"
+              "ego-gift",
+              "hidden-ego-gift-storydungeon",
+              "ego-gift-a1c5p1",
+              "ego-gift-a1c5p2",
+              "ego-gift-a1c5p3"
             ]
         },
         {
@@ -188,9 +194,12 @@
             "ego-gift-mirrordungeon",
             "ego-gift-mirrordungeon2",
             "ego-gift-mirrordungeon3",
+            "ego-gift-mirrordungeon4",
+            "ego-gift-story-reuse-at-mirrordungeon4",
             "ego-gift-hellschickendungeon",
             "hidden-ego-gift-mirrordungeon",
-            "ego-gift-story-ycgd"
+            "ego-gift-story-ycgd",
+            "ego-gift-mirrordungeon4"
           ]
         },
         {
@@ -207,7 +216,8 @@
             "enemy-ycgd",
             "enemy-a1c6p1",
             "enemy-a1c6p2",
-            "enemy-a1c6p3"
+            "enemy-a1c6p3",
+            "enemy-mirrordungeon4"
           ]
         },
         {
@@ -234,7 +244,11 @@
 				"gacha-164",
 				"gacha-165",
 				"gacha-166",
-				"gacha-167"
+				"gacha-167",
+				"gacha-168",
+				"gacha-169",
+				"gacha-170",
+				"gacha-171"
             ]
         },
         {
@@ -275,7 +289,8 @@
             "passive-enemy-a1c6p3",
             "passive-enemy-event1",
             "passive-enemy-refraction3",
-            "passive-enemy-ycgd"
+            "passive-enemy-ycgd",
+            "passive-enemy-wp3"
           ]
         },
         {
@@ -322,6 +337,7 @@
             "abnormality-refraction2-skill",
             "abnormality-refraction3-skill",
             "abnormality-mirror-skill",
+            "abnormality-mirror4-skill",
             "ego-skill-1",
             "ego-skill-2",
             "ego-skill-3",
@@ -367,7 +383,8 @@
             "skill-enemy-a1c6p3",
             "skill-abnormality-a1c6p2",
             "skill-abnormality-a1c6p3",
-            "ego-skill-a1c6p3"
+            "ego-skill-a1c6p3",
+            "skill-abnormality-wp3"
           ]
         },
         {
@@ -379,7 +396,6 @@
             "storybattle91-3",
             "storybattle91-4",
             "storybattle1-4",
-            "stage_Test",
             "stage_Tutorial",
             "storybattle-a1c5p1",
             "storybattle-a1c5p2",
@@ -389,7 +405,8 @@
             "storybattle-ycgd",
             "storybattle-a1c6p1",
             "storybattle-a1c6p2",
-            "storybattle-a1c6p3"
+            "storybattle-a1c6p3",
+            "storybattle-wp3"
           ]
         },
         {
@@ -432,7 +449,9 @@
                 "mirrordungeon-abbattle2-0",
                 "mirrordungeon-abbattle2-1",
                 "mirrordungeon-abbattle3-0",
-                "mirrordungeon-abbattle3-1"
+                "mirrordungeon-abbattle3-1",
+                "mirrordungeon-battle4-0",
+                "mirrordungeon-abbattle4-0"
             ]
         },
         {
@@ -451,6 +470,7 @@
                 "stagenodereward91-5",
                 "stagenodereward91-6",
                 "stagenodereward91-7",
+                "stagenodereward91-8",
                 "stagenodereward-a1c6p1",
                 "stagenodereward-a1c6p2",
                 "stagenodereward-a1c6p3"
@@ -554,21 +574,27 @@
             "dataClass": "mirrordungeon",
             "fileList": [
                 "mirrordungeon-03",
-                "mirrordungeon-03-hard"
+                "mirrordungeon-03-hard",
+                "mirrordungeon-04",
+                "mirrordungeon-04-hard"
             ]
         },
         {
             "dataClass": "mirrordungeon-encounterinfo",
             "fileList": [
                 "mirrordungeon-encounterinfos-03-normal",
-                "mirrordungeon-encounterinfos-03-hard"
+                "mirrordungeon-encounterinfos-03-hard",
+                "mirrordungeon-encounterinfos-04-normal",
+                "mirrordungeon-encounterinfos-04-hard"
             ]
         },
         {
             "dataClass": "mirrordungeon-global-encounterinfo",
             "fileList": [
                 "mirrordungeon-global-encounterinfos-3-0",
-                "mirrordungeon-global-encounterinfos-3-1"
+                "mirrordungeon-global-encounterinfos-3-1",
+                "mirrordungeon-global-encounterinfos-4-0",
+                "mirrordungeon-global-encounterinfos-4-1"
             ]
         },
         {
@@ -627,7 +653,8 @@
               "storytheater-other-9013",
               "storytheater-other-9014",
               "storytheater-other-9107",
-              "storytheater-other-9015"
+              "storytheater-other-9015",
+              "storytheater-other-9016"
             ]
         },
         {
@@ -652,13 +679,25 @@
                 "announcer-a1c5p3",
                 "announcer-event1",
                 "announcer-ycgd",
-                "announcer-a1c6p1"
+                "announcer-a1c6p1",
+                "announcer-wp3"
             ]
         },
         {
             "dataClass": "mirrordungeon-egogift-droppool",
             "fileList": [
-                "mirrordungeon-egogift-droppool-3"
+                "mirrordungeon-egogift-droppool-3",
+                "mirrordungeon-egogift-droppool-4"
+            ]
+        },
+        {
+            "dataClass":"mirrordungeon-battle-reward-case-group",
+            "fileList":[
+                "mirrordungeon-battle-reward-case-group-A",
+                "mirrordungeon-battle-reward-case-group-B",
+                "mirrordungeon-battle-reward-case-group-C",
+                "mirrordungeon-battle-reward-case-group-D",
+                "mirrordungeon-battle-reward-case-group-E"
             ]
         },
         {
@@ -668,6 +707,16 @@
                 "mirrordungeon-generatenodepool-event-3-0",
                 "mirrordungeon-generatenodepool-3-1",
                 "mirrordungeon-generatenodepool-event-3-1"
+            ]
+        },
+        {
+            "dataClass": "mirrordungeon-theme-floor",
+            "fileList": [
+                "mirrordungeon-theme-floor-t1",
+                "mirrordungeon-theme-floor-t2",
+                "mirrordungeon-theme-floor-t3",
+                "mirrordungeon-theme-floor-t4",
+                "mirrordungeon-theme-floor-t5"
             ]
         },
         {
@@ -691,8 +740,7 @@
         {
           "dataClass": "userbanner",
           "fileList": [
-            "userbanner",
-            "userbanner-a1c6p1"
+            "userbanner"
           ]
         },
         {
@@ -704,22 +752,19 @@
         {
             "dataClass": "userticket-l",
             "fileList": [
-                "userticket-l",
-                "userticket-l-a1c6p1"
+                "userticket-l"
             ]
         },
         {
             "dataClass": "userticket-r",
             "fileList": [
-                "userticket-r",
-                "userticket-r-a1c6p1"
+                "userticket-r"
             ]
         },
         {
             "dataClass": "userticket-egobg",
             "fileList": [
-                "userticket-ego-bg",
-                "userticket-ego-bg-a1c6p1"
+                "userticket-ego-bg"
             ]
         },
         {
@@ -993,7 +1038,8 @@
             "restrict-participation-a1c5p1",
             "restrict-participation-a1c5p2",
             "restrict-participation-a1c5p3",
-            "restrict-participation-a1c6p2"
+            "restrict-participation-a1c6p2",
+            "restrict-participation-walpu3"
           ]
         },
         {
@@ -1005,14 +1051,16 @@
         {
             "dataClass": "mirrordungeon-start-buffs",
             "fileList": [
-                "mirrordungeon-start-buffs-03"
+                "mirrordungeon-start-buffs-04"
             ]
         },
         {
             "dataClass": "mirrordungeon-acquire-cost-in-battle",
             "fileList": [
                 "mirrordungeon-acquire-cost-in-battle-3-0",
-                "mirrordungeon-acquire-cost-in-battle-3-1"
+                "mirrordungeon-acquire-cost-in-battle-3-1",
+                "mirrordungeon-acquire-cost-in-battle-4-0",
+                "mirrordungeon-acquire-cost-in-battle-4-1"
             ]
         },
         {
@@ -1020,7 +1068,8 @@
             "fileList": [
                 "ycgd-event",
                 "limbus-1st-gift-240227",
-                "limbus-1st-anniversary-attendance"
+                "limbus-1st-anniversary-attendance",
+                "walpu3-event"
             ]
         },
         {
@@ -1082,19 +1131,22 @@
         {
             "dataClass": "event-mission",
             "fileList": [
-                "event-newyear-2024"
+                "event-newyear-2024",
+                "event-walpu3"
             ]
         },
         {
             "dataClass": "mission",
             "fileList": [
-                "event-newyear-2024-mission"
+                "event-newyear-2024-mission",
+                "event-walpu3-mission"
             ]
         },
         {
             "dataClass": "mission-condition",
             "fileList": [
-                "event-newyear-2024-mission-condition"
+                "event-newyear-2024-mission-condition",
+                "event-walpu3-mission-condition"
             ]
         },
         {
@@ -1125,6 +1177,12 @@
           "dataClass": "loading-cg-exception",
           "fileList": [
             "loading-cg-exception"
+          ]
+        },
+        {
+          "dataClass": "guide-ui",
+          "fileList": [
+            "guide-ui-mirrordungeon-egogift-combine"
           ]
         }
     ]

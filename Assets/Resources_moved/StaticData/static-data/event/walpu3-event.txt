@@ -1,0 +1,20 @@
+{
+	"list": [
+		{
+			"id": 11,
+
+			"startDate": "2024-05-02T01:00:00.000Z",
+			"startDateForUI": "2024-05-02T03:00:00.000Z",
+
+			"endDate": "2024-05-16T01:00:00.000Z",
+			"endDateForUI": "2024-05-16T01:00:00.000Z",
+
+			"gracePeriod": "2024-05-23T01:00:00.000Z",
+			"eventRewardDatas": [
+			],
+			"eventBonusParticipateOrder": [
+				1
+			]
+		}
+	]
+}

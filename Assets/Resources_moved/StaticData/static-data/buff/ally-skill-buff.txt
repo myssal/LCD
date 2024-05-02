@@ -267,6 +267,59 @@
           "value": 1
         }
       ]
+    },
+    {
+      "id": "MarkOfButler",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Negative",
+      "maxStack": 3,
+      "canBeDespelled": true,
+      "list": [
+        {
+          "ability": "LoseStackOnRoundEnd",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "id": "UnstableFeeling",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "maxStack": 8,
+      "canBeDespelled": false,
+      "list": [
+        {
+          "ability": "GiveBuffOnSA",
+          "buffData": {
+            "buffKeyword": "Combustion",
+            "target": "Target",
+            "stack": 1,
+            "turn": 0,
+            "activeRound": 0
+          }
+        },
+        {
+          "ability": "SkillPowerResultAdderIfSatisfied",
+          "value": 1,
+          "buffData": {
+            "buffKeyword": "Combustion",
+            "buffOwner": "Target",
+            "stack": 1,
+            "turn": 0,
+            "value": 1
+          }
+        },
+        {
+          "ability": "UnstableFeeling",
+          "buffData": {
+            "buffKeyword": "Combustion",
+            "target": "Target",
+            "stack": 1,
+            "turn": 0,
+            "activeRound": 0
+          }
+        }
+      ]
     }
   ]
 }

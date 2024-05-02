@@ -3843,7 +3843,7 @@
             {
               "operatorType": "ADD",
               "scale": 4,
-              "cutsceneStart":  true,
+              "cutsceneStart": true,
               "abilityScriptList": [
                 {
                   "scriptName": "CriticalDmgUpByRatio30"
@@ -3953,6 +3953,857 @@
           "gaksungLevel": 4,
           "attributeType": "SHAMROCK",
           "iconID": "1100804_4"
+        }
+      ]
+    },
+    {
+      "id": 1100901,
+      "skillType": "SKILL",
+      "skillTier": 1,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "AZURE",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "skillLevelCorrection": 2,
+          "defaultValue": 2,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveMpDmgOnUseSelf5ViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "UnstableFeeling",
+                "target": "",
+                "buffOwner": "Self",
+                "stack": 1,
+                "turn": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 7,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "RerollOnSAHViaBuffCheckUpto1",
+                  "buffData": {
+                    "buffKeyword": "UnstableFeeling",
+                    "target": "",
+                    "buffOwner": "Self",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 2,
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveMpDmgOnUseSelf5ViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "UnstableFeeling",
+                "target": "",
+                "buffOwner": "Self",
+                "stack": 1,
+                "turn": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 7,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "RerollOnSAHViaBuffCheckUpto1",
+                  "buffData": {
+                    "buffKeyword": "UnstableFeeling",
+                    "target": "",
+                    "buffOwner": "Self",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 3,
+          "defaultValue": 3
+        }
+      ]
+    },
+    {
+      "id": 1100902,
+      "skillType": "SKILL",
+      "skillTier": 2,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "VIOLET",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "range": 5,
+          "arearange" : 3,
+          "skillLevelCorrection": 2,
+          "defaultValue": 4,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveMpDmgOnUseSelf5ViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "UnstableFeeling",
+                "target": "",
+                "buffOwner": "Self",
+                "stack": 1,
+                "turn": 0
+              }
+            },
+            {
+              "scriptName": "TagetNumAdderBBViaBuffCheck1",
+              "buffData": {
+                "buffKeyword": "UnstableFeeling",
+                "target": "",
+                "buffOwner": "Self",
+                "stack": 1,
+                "turn": 0,
+                "value": 1
+              }
+            },
+            {
+              "scriptName": "GiveMpDmgOnEndSkillSelfViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "UnstableFeeling",
+                "target": "",
+                "buffOwner": "Self",
+                "stack": 1,
+                "turn": 0,
+                "value": 5
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "actionIndex": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 2,
+          "abilityScriptList": [
+            {
+              "scriptName": "TagetNumAdderBBViaBuffCheck1",
+              "buffData": {
+                "buffKeyword": "UnstableFeeling",
+                "target": "",
+                "buffOwner": "Self",
+                "stack": 1,
+                "turn": 0,
+                "value": 1
+              }
+            },
+            {
+              "scriptName": "ParryingPowerResultAdderSelfViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "Combustion",
+                "target": "",
+                "buffOwner": "Target",
+                "stack": 4,
+                "turn": 0,
+                "value": 1
+              }
+            },
+            {
+              "scriptName": "GiveMpDmgOnUseSelf5ViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "UnstableFeeling",
+                "target": "",
+                "buffOwner": "Self",
+                "stack": 1,
+                "turn": 0
+              }
+            },
+            {
+              "scriptName": "GiveMpDmgOnEndSkillSelfViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "UnstableFeeling",
+                "target": "",
+                "buffOwner": "Self",
+                "stack": 1,
+                "turn": 0,
+                "value": 5
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "actionIndex": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 3,
+          "defaultValue": 5
+        },
+        {
+          "gaksungLevel": 4,
+          "abilityScriptList": [
+            {
+              "scriptName": "11000902",
+              "buffData": {
+                "buffKeyword": "UnstableFeeling",
+                "target": "",
+                "buffOwner": "Self",
+                "stack": 1,
+                "turn": 0,
+                "value": 1
+              }
+            },
+            {
+              "scriptName": "ParryingPowerResultAdderSelfViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "Combustion",
+                "target": "",
+                "buffOwner": "Target",
+                "stack": 4,
+                "turn": 0,
+                "value": 1
+              }
+            },
+            {
+              "scriptName": "GiveMpDmgOnUseSelf5ViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "UnstableFeeling",
+                "target": "",
+                "buffOwner": "Self",
+                "stack": 1,
+                "turn": 0
+              }
+            },
+            {
+              "scriptName": "GiveMpDmgOnEndSkillSelfViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "UnstableFeeling",
+                "target": "",
+                "buffOwner": "Self",
+                "stack": 1,
+                "turn": 0,
+                "value": 5
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "actionIndex" :  3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1100903,
+      "skillType": "SKILL",
+      "skillTier": 3,
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ],
+      "skillData": [
+        {
+          "gaksungLevel": 3,
+          "attributeType": "CRIMSON",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "skillLevelCorrection": 3,
+          "defaultValue": 4,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "S3",
+          "viewType": "ENCOUNTER",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "CoinScaleAdderViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "Combustion",
+                "target": "",
+                "buffOwner": "Target",
+                "stack": 10,
+                "turn": 0,
+                "value": 1
+              }
+            },
+            {
+              "scriptName": "Empty"
+            },
+            {
+              "scriptName": "HealMpOnWinDuelSelf10"
+            },
+            {
+              "scriptName": "GiveMpDmgOnLoseDuelSelf10"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 7,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 7,
+              "cutsceneStart": true,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 4,
+          "abilityScriptList": [
+            {
+              "scriptName": "CoinScaleAdderViaBuffCheckDevideByStackWithLimit2",
+              "buffData": {
+                "buffKeyword": "Combustion",
+                "target": "",
+                "buffOwner": "Target",
+                "stack": 7,
+                "turn": 0,
+                "value": 1
+              }
+            },
+            {
+              "scriptName": "Empty"
+            },
+            {
+              "scriptName": "HealMpOnWinDuelSelf10"
+            },
+            {
+              "scriptName": "GiveMpDmgOnLoseDuelSelf10"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 7,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 7,
+              "cutsceneStart": true,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1100904,
+      "skillType": "SKILL",
+      "skillTier": 1,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "NEUTRAL",
+          "atkType": "NONE",
+          "defType": "GUARD",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "skillLevelCorrection": 5,
+          "defaultValue": 15,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "Default",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "SkillPowerAdderViaBuffDevide",
+              "buffData": {
+                "buffKeyword": "Combustion",
+                "target": "",
+                "buffOwner": "Target",
+                "stack": 2,
+                "turn": 0,
+                "value": 1,
+                "limit": 10
+              }
+            },
+            {
+              "scriptName": "GiveMpDmgOnUseSelf5ViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "UnstableFeeling",
+                "target": "",
+                "buffOwner": "Self",
+                "stack": 1,
+                "turn": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 5
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 4,
+          "attributeType": "SCARLET",
+          "iconID": "1100904_4",
+          "abilityScriptList": [
+            {
+              "scriptName": "SkillPowerAdderViaBuffDevide",
+              "buffData": {
+                "buffKeyword": "Combustion",
+                "target": "",
+                "buffOwner": "Target",
+                "stack": 2,
+                "turn": 0,
+                "value": 1,
+                "limit": 20
+              }
+            },
+            {
+              "scriptName": "GiveMpDmgOnUseSelf5ViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "UnstableFeeling",
+                "target": "",
+                "buffOwner": "Self",
+                "stack": 1,
+                "turn": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1100905,
+      "skillType": "SKILL",
+      "skillTier": 3,
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ],
+      "skillData": [
+        {
+          "gaksungLevel": 3,
+          "attributeType": "CRIMSON",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "range" :  8,
+          "skillLevelCorrection": 5,
+          "defaultValue": 13,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "S3",
+          "viewType": "ENCOUNTER",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "1100905_1",
+              "buffData": {
+                "buffKeyword": "Combustion",
+                "stack": 4,
+                "turn": 0,
+                "value": 1,
+                "limit": 8
+              }
+            },
+            {
+              "scriptName": "HealMpOnWinDuelSelf10"
+            },
+            {
+              "scriptName": "GiveMpDmgOnLoseDuelSelf30"
+            },
+            {
+              "scriptName": "1100905_3"
+            },
+            {
+              "scriptName": "GiveMpDmgOnEndSkillSelf15"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 15,
+              "cutsceneStart": true,
+              "abilityScriptList": [
+                {
+                  "scriptName": "DmgUpByBuffStackWithLimit100",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "",
+                    "buffOwner": "Target",
+                    "stack": 1,
+                    "turn": 0,
+                    "value": 0.025
+                  }
+                },
+                {
+                  "scriptName": "1100905_2_3",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Custom",
+                    "buffOwner": "Target",
+                    "stack": 10,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 10,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "1100905_4",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "",
+                    "buffOwner": "Custom",
+                    "limit": 10,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 4,
+          "abilityScriptList": [
+            {
+              "scriptName": "1100905_1",
+              "buffData": {
+                "buffKeyword": "Combustion",
+                "stack": 4,
+                "turn": 0,
+                "value": 2,
+                "limit": 8
+              }
+            },
+            {
+              "scriptName": "HealMpOnWinDuelSelf10"
+            },
+            {
+              "scriptName": "GiveMpDmgOnLoseDuelSelf30"
+            },
+            {
+              "scriptName": "1100905_4"
+            },
+            {
+              "scriptName": "GiveMpDmgOnEndSkillSelf15"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 15,
+              "cutsceneStart": true,
+              "abilityScriptList": [
+                {
+                  "scriptName": "DmgUpByBuffStackWithLimit120",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "",
+                    "buffOwner": "Target",
+                    "stack": 1,
+                    "turn": 0,
+                    "value": 0.04
+                  }
+                },
+                {
+                  "scriptName": "1100905_2_4",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "buffOwner": "Target",
+                    "stack": 10,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 10,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "1100905_4",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "limit": 10,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
         }
       ]
     }

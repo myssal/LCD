@@ -1389,7 +1389,7 @@
       "appearance": "8577_FireMothAppearance",
       "unitKeywordList": [ "ARDOR_BLOSSOM_MOTH" ],
       "classType": "HE",
-      "attributeType": "Combustion",
+      "attributeType": "CRIMSON",
       "hp": {
         "defaultStat": 678,
         "incrementByLevel": 30.39

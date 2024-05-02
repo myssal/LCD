@@ -218,7 +218,7 @@
         {
           "level": 1,
           "name": "死体袋",
-          "desc": "[WhenUse] 対象の[Laceration]5につき、基本威力 +1(最大3)\n[WhenUse] 対象のマイナス効果数だけ、マッチ威力 +1(最大2)\n[DefeatDuel] [DefenseDown]10を得る\n[DefeatDuel] 解放されない哀しみ 1を得る",
+          "desc": "[WhenUse] 対象の[Laceration]5につき、基本威力 +1(最大3)\n[WhenUse] 対象のマイナス効果数だけ、マッチ威力 +1(最大2)\n[DefeatDuel] [DefenseDown]20を得る\n[DefeatDuel] 解放されない哀しみ 1を得る",
           "coinlist": [
             {
               "coindescs": [
@@ -253,7 +253,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] このスキルの前金が表面なら、次のターンに[Vulnerable]2を付与"
+                  "desc": "[OnSucceedAttack] このスキルの全コインが表面なら、次のターンに[Vulnerable]2を付与"
                 }
               ]
             }
@@ -513,7 +513,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 次のターンに [Agility]1を得る"
+                  "desc": "[OnSucceedAttack] 次のターンに[Agility]1を得る"
                 },
                 {
                   "desc": "[OnSucceedAttack] 対象のマイナス効果が4以上なら、ダメージ量の30%分斬撃ダメージ"
@@ -1280,7 +1280,7 @@
                   "desc": "[OnSucceedAttack] [AttackUp]1を得る"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] 次のターンに [Agility]1を得る"
+                  "desc": "[OnSucceedAttackHead] 次のターンに[Agility]1を得る"
                 }
               ]
             }
@@ -1328,7 +1328,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] 次のターンに [Agility]1を得る"
+                  "desc": "[OnSucceedAttack] 次のターンに[Agility]1を得る"
                 },
                 {
                   "desc": "[OnSucceedAttack] [Vulnerable]1を付与"

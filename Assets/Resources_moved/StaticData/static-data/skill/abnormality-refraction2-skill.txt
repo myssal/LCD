@@ -3764,8 +3764,8 @@
                 {
                   "scriptName": "DamageFirstBreakSectionOnSuccessAttackViaBuffStack",
                   "buffData": {
-                    "buffKeyword": "AccumulatedPast",
-                    "buffOwner": "AbnormalitySelf",
+                    "buffKeyword": "Breath",
+                    "buffOwner": "Self",
                     "target": "",
                     "stack": 1,
                     "turn": 0
@@ -3841,13 +3841,14 @@
               "scale": 8,
               "abilityScriptList": [
                 {
-                  "scriptName": "DamageFirstBreakSectionOnSuccessAttackViaBuffStack",
+                  "scriptName": "DamageFirstBreakSectionOnSuccessAttackByDamageRatioViaBuffCheck",
                   "buffData": {
-                    "buffKeyword": "AccumulatedPast",
-                    "buffOwner": "AbnormalitySelf",
+                    "buffKeyword": "Breath",
+                    "buffOwner": "Self",
                     "target": "",
-                    "stack": 1,
-                    "turn": 0
+                    "stack": 5,
+                    "turn": 0,
+                    "value": 0.5
                   }
                 },
                 {

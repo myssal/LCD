@@ -343,6 +343,18 @@
     {
       "id": "MirrorWorld_Story_Title_P10209",
       "content": "ワザリング・ハイツ バトラー, ファウストの物語"
+    },
+    {
+      "id": "MirrorWorld_Story_Title_P10408",
+      "content": "エドガー家チーフバトラー, 良秀の物語"
+    },
+    {
+      "id": "MirrorWorld_Story_Title_P10809",
+      "content": "エドガー家バトラー, イシュメールの物語"
+    },
+    {
+      "id": "MirrorWorld_Story_Title_P11009",
+      "content": "夜明事務所フィクサー, シンクレアの物語"
     }
   ]
 }

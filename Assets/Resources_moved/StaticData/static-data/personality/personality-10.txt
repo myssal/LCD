@@ -788,6 +788,111 @@
           "number": 1
         }
       ]
+    },
+    {
+      "id": 11009,
+      "appearance": "11009_Sinclair_PhilipAppearance",
+      "associationList": [ "DAWN" ],
+      "characterId": 10,
+      "panicType": 9999,
+      "unitScriptID": "11009",
+      "season": 9103,
+      "walpurgisType": "LOR",
+      "defenseSkillIDList": [
+        1100904
+      ],
+      "panicSkillOnErosion": 1000104,
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "rank": 3,
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 2.28
+      },
+      "defCorrection": 0,
+      "minSpeedList": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "maxSpeedList": [
+        5,
+        6,
+        7,
+        7
+      ],
+      "uniqueAttribute": "AZURE",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply15AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply15"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply10"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio15"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          70,
+          40,
+          20
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1100901,
+          "number": 3
+        },
+        {
+          "skillId": 1100902,
+          "number": 2
+        },
+        {
+          "skillId": 1100903,
+          "number": 1
+        },
+        {
+          "skillId": 1100905,
+          "number": 0
+        }
+      ]
     }
   ]
 }

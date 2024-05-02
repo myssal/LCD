@@ -63,5 +63,7 @@
   "isActiveUnlinkAccount": true,
   "isHideOpenMailPopup": false,
   "isBlockBlackScreenCleaner": false,
-  "isWhUseGc": false
+  "isWhUseGc": false,
+  "rollingCoinUpdateUI": true,
+  "isMirrorDungeonShopShowRefreshByChipWarningPopupOnce" : false
 }

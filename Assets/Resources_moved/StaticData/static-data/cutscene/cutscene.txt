@@ -545,6 +545,23 @@
       ]
     },
     {
+      "id": 10408,
+      "pivotList": [
+        {
+          "cutsceneType": "GACKSUNG_BEFORE",
+          "offsetX": 0.01,
+          "offsetY": 0.18,
+          "closeUp": 0.51
+        },
+        {
+          "cutsceneType": "GACKSUNG_AFTER",
+          "offsetX": 0.03,
+          "offsetY": 0.18,
+          "closeUp": 0.57
+        }
+      ]
+    },
+    {
       "id": 10501,
       "pivotList": [
         {
@@ -1106,6 +1123,23 @@
       ]
     },
     {
+      "id": 10809,
+      "pivotList": [
+        {
+          "cutsceneType": "GACKSUNG_BEFORE",
+          "offsetX": -0.07,
+          "offsetY": 0.09,
+          "closeUp": 0.61
+        },
+        {
+          "cutsceneType": "GACKSUNG_AFTER",
+          "offsetX": 0.01,
+          "offsetY": 0.18,
+          "closeUp": 0.61
+        }
+      ]
+    },
+    {
       "id": 10901,
       "pivotList": [
         {
@@ -1374,6 +1408,23 @@
           "offsetX": 0.16,
           "offsetY": 0.06,
           "closeUp": 0.67
+        }
+      ]
+    },
+    {
+      "id": 11009,
+      "pivotList": [
+        {
+          "cutsceneType": "GACKSUNG_BEFORE",
+          "offsetX": -0.03,
+          "offsetY": 0.18,
+          "closeUp": 0.55
+        },
+        {
+          "cutsceneType": "GACKSUNG_AFTER",
+          "offsetX": -0.18,
+          "offsetY": 0.18,
+          "closeUp": 0.55
         }
       ]
     },

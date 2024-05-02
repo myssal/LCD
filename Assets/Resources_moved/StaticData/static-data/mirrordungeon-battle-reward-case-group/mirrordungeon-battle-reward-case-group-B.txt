@@ -1,0 +1,102 @@
+{
+  "list":[
+    {
+      "groupID":2,
+      "rewardCaseList": [
+        {
+          "id": 201,
+          "rewardType": "COST_EGOGIFT",
+          "rewardLV": 1,
+          "rewardParams": {
+            "acquireCostMin": 8,
+            "acquireCostMax": 10,
+            "egoGiftAcquirableProb": 0.25,
+            "egoGiftTierRange": {
+              "min": 1,
+              "max": 1
+            }
+          },
+          "localizeTextFormat": "dungeon_battle_reward_case_format_cost_and_gift_acquisition"
+        },
+        {
+          "id": 202,
+          "rewardType": "COST_EGOGIFT",
+          "rewardLV": 2,
+          "rewardParams": {
+            "acquireCostMin": 11,
+            "acquireCostMax": 13,
+            "egoGiftAcquirableProb": 0.25,
+            "egoGiftTierRange": {
+              "min": 1,
+              "max": 2
+            }
+          },
+          "localizeTextFormat": "dungeon_battle_reward_case_format_cost_and_gift_acquisition"
+        },
+        {
+          "id": 203,
+          "rewardType": "COST_EGOGIFT",
+          "rewardLV": 3,
+          "rewardParams": {
+            "acquireCostMin": 14,
+            "acquireCostMax": 16,
+            "egoGiftAcquirableProb": 0.25,
+            "egoGiftTierRange": {
+              "min": 1,
+              "max": 3
+            }
+          },
+          "localizeTextFormat": "dungeon_battle_reward_case_format_cost_and_gift_acquisition"
+        },
+        {
+          "id": 204,
+          "rewardType": "COST_EGOGIFT",
+          "rewardLV": 4,
+          "rewardParams": {
+            "acquireCostMin": 17,
+            "acquireCostMax": 20,
+            "egoGiftAcquirableProb": 0.50,
+            "egoGiftTierRange": {
+              "min": 1,
+              "max": 3
+            }
+          },
+          "localizeTextFormat": "dungeon_battle_reward_case_format_cost_and_gift_acquisition"
+        },
+        {
+          "id": 205,
+          "rewardType": "COST_EGOGIFT",
+          "rewardLV": 5,
+          "rewardParams": {
+            "acquireCostMin": 21,
+            "acquireCostMax": 27,
+            "egoGiftAcquirableProb": 0.50
+          },
+          "localizeTextFormat": "dungeon_battle_reward_case_format_cost_and_all_tier_gift_acquisition"
+        },
+        {
+          "id": 206,
+          "rewardType": "COST_EGOGIFT",
+          "rewardLV": 6,
+          "rewardParams": {
+            "acquireCostMin": 28,
+            "acquireCostMax": 35,
+            "egoGiftAcquirableProb": 0.75
+          },
+          "localizeTextFormat": "dungeon_battle_reward_case_format_cost_and_all_tier_gift_acquisition"
+        },
+        {
+          "id": 207,
+          "rewardType": "COST_EGOGIFT",
+          "rewardLV": 7,
+          "rewardParams": {
+            "acquireCostMin": 36,
+            "acquireCostMax": 50,
+            "egoGiftAcquirableProb": 0.75
+          },
+          "localizeTextFormat": "dungeon_battle_reward_case_format_cost_and_all_tier_gift_acquisition"
+        }
+      ]
+    }
+  ]
+}

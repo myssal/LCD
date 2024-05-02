@@ -8643,8 +8643,8 @@
                 ]
             },
             "startActionSlotNumList": [
-                1,
-                2,
+                3,
+                3,
                 3
             ],
             "passiveSet": {
@@ -10792,8 +10792,8 @@
                 ]
             },
             "startActionSlotNumList": [
-                1,
-                2,
+                3,
+                3,
                 3
             ],
             "passiveSet": {
@@ -16925,7 +16925,7 @@
             "id": 71013,
             "nameID": 91013,
             "sdPortrait": 91013,
-            "appearance": "91013_Kurokumo_MiddleBossAppearance",
+            "appearance": "91013_Kurokumo_MiddleBoss_v1Appearance",
             "associationList": [ "BLACK_CLOUD" ],
             "level": 3,
             "slotWeightConditionList": [
@@ -17925,6 +17925,385 @@
               "passiveIdList": [
                 9011001,
                 9011301
+              ]
+            }
+          },
+          {
+            "id": 70083,
+            "nameID": 90083,
+            "sdPortrait": 90083,
+            "appearance": "90083_FishCreatureAppearance",
+            "unitKeywordList": [ "MERMAID", "ON_THE_LAKE" ],
+            "level": 2,
+            "slotWeightConditionList": [
+              "Default1"
+            ],
+            "hp": {
+              "defaultStat": 51,
+              "incrementByLevel": 1.76
+            },
+            "defCorrection": 1,
+            "minSpeedList": [
+              1
+            ],
+            "maxSpeedList": [
+              3
+            ],
+            "breakSection": {
+              "sectionList": [
+                70,
+                30,
+                0
+              ]
+            },
+            "mp": 0,
+            "hasMp": false,
+            "lowMorale": 0,
+            "panic": 0,
+            "panicType": 1013,
+            "resistInfo": {
+              "atkResistList": [
+                {
+                  "type": "SLASH",
+                  "value": 1
+                },
+                {
+                  "type": "PENETRATE",
+                  "value": 2
+                },
+                {
+                  "type": "HIT",
+                  "value": 1
+                }
+              ],
+              "attributeResistList": [
+                {
+                  "type": "CRIMSON",
+                  "value": 1.5
+                },
+                {
+                  "type": "SCARLET",
+                  "value": 1
+                },
+                {
+                  "type": "AMBER",
+                  "value": 1
+                },
+                {
+                  "type": "SHAMROCK",
+                  "value": 1
+                },
+                {
+                  "type": "AZURE",
+                  "value": 0.75
+                },
+                {
+                  "type": "INDIGO",
+                  "value": 2
+                },
+                {
+                  "type": "VIOLET",
+                  "value": 1
+                },
+                {
+                  "type": "WHITE",
+                  "value": 2
+                },
+                {
+                  "type": "BLACK",
+                  "value": 2
+                }
+              ]
+            },
+            "startActionSlotNumList": [
+              1,
+              2,
+              2
+            ],
+            "maxActionSlotNum": 2,
+            "attributeList": [
+              {
+                "skillId": 9008301,
+                "number": 3
+              },
+              {
+                "skillId": 9008302,
+                "number": 2
+              },
+              {
+                "skillId": 9008303,
+                "number": 1
+              },
+              {
+                "skillId": 9008304,
+                "number": 1
+              }
+            ],
+            "passiveSet": {
+              "passiveIdList": [
+                9008301,
+                9008302
+              ]
+            }
+          },
+          {
+            "id": 71011,
+            "nameID": 91011,
+            "sdPortrait": 91011,
+            "appearance": "91011_FishCreature_EliteAppearance",
+            "unitKeywordList": [ "MERMAID", "ON_THE_LAKE" ],
+            "level": 2,
+            "slotWeightConditionList": [
+              "Default1"
+            ],
+            "hp": {
+              "defaultStat": 135,
+              "incrementByLevel": 4.66
+            },
+            "defCorrection": 1,
+            "minSpeedList": [
+              4
+            ],
+            "maxSpeedList": [
+              5
+            ],
+            "breakSection": {
+              "sectionList": [
+                40,
+                0,
+                0
+              ]
+            },
+            "mp": 0,
+            "hasMp": false,
+            "lowMorale": 0,
+            "panic": 0,
+            "panicType": 1013,
+            "resistInfo": {
+              "atkResistList": [
+                {
+                  "type": "SLASH",
+                  "value": 1
+                },
+                {
+                  "type": "PENETRATE",
+                  "value": 2
+                },
+                {
+                  "type": "HIT",
+                  "value": 1
+                }
+              ],
+              "attributeResistList": [
+                {
+                  "type": "CRIMSON",
+                  "value": 1.2
+                },
+                {
+                  "type": "SCARLET",
+                  "value": 1
+                },
+                {
+                  "type": "AMBER",
+                  "value": 1
+                },
+                {
+                  "type": "SHAMROCK",
+                  "value": 1
+                },
+                {
+                  "type": "AZURE",
+                  "value": 0.5
+                },
+                {
+                  "type": "INDIGO",
+                  "value": 1.5
+                },
+                {
+                  "type": "VIOLET",
+                  "value": 1
+                },
+                {
+                  "type": "WHITE",
+                  "value": 2
+                },
+                {
+                  "type": "BLACK",
+                  "value": 2
+                }
+              ]
+            },
+            "startActionSlotNumList": [
+              1,
+              2,
+              2
+            ],
+            "maxActionSlotNum": 3,
+            "attributeList": [
+              {
+                "skillId": 9101101,
+                "number": 3
+              },
+              {
+                "skillId": 9101102,
+                "number": 2
+              },
+              {
+                "skillId": 9101103,
+                "number": 1
+              },
+              {
+                "skillId": 9101104,
+                "number": 1
+              },
+              {
+                "skillId": 9101105,
+                "number": 1
+              }
+            ],
+            "passiveSet": {
+              "passiveIdList": [
+                9101101,
+                9008302
+              ]
+            }
+          },
+          {
+            "id": 70082,
+            "sdPortrait": 8523,
+            "appearance": "8502_KCorp_Grade3_FuryAppearance",
+            "associationList": [ "K_CORP" ],
+            "level": 3,
+            "slotWeightConditionList": [
+              "Default1"
+            ],
+            "hp": {
+              "defaultStat": 150,
+              "incrementByLevel": 5.17
+            },
+            "defCorrection": 1,
+            "minSpeedList": [
+              2
+            ],
+            "maxSpeedList": [
+              5
+            ],
+            "breakSection": {
+              "sectionList": [
+                40,
+                20
+              ]
+            },
+            "mp": 45,
+            "lowMorale": -20,
+            "panic": -45,
+            "panicType": 1004,
+            "mentalConditionInfo": {
+              "add": [
+                {
+                  "level": 1,
+                  "conditionIDList": [
+                    {
+                      "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+                    },
+                    {
+                      "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+                    },
+                    {
+                      "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+                    }
+                  ]
+                }
+              ],
+              "min": [
+                {
+                  "level": 1,
+                  "conditionIDList": [
+                    {
+                      "conditionID": "OnDieAllyAsLevelRatio10"
+                    }
+                  ]
+                }
+              ]
+            },
+            "resistInfo": {
+              "atkResistList": [
+                {
+                  "type": "SLASH",
+                  "value": 2
+                },
+                {
+                  "type": "PENETRATE",
+                  "value": 0.75
+                },
+                {
+                  "type": "HIT",
+                  "value": 1
+                }
+              ],
+              "attributeResistList": [
+                {
+                  "type": "CRIMSON",
+                  "value": 2
+                },
+                {
+                  "type": "SCARLET",
+                  "value": 1
+                },
+                {
+                  "type": "AMBER",
+                  "value": 1.5
+                },
+                {
+                  "type": "SHAMROCK",
+                  "value": 1
+                },
+                {
+                  "type": "AZURE",
+                  "value": 1
+                },
+                {
+                  "type": "INDIGO",
+                  "value": 2
+                },
+                {
+                  "type": "VIOLET",
+                  "value": 1
+                },
+                {
+                  "type": "WHITE",
+                  "value": 2
+                },
+                {
+                  "type": "BLACK",
+                  "value": 2
+                }
+              ]
+            },
+            "startActionSlotNumList": [
+              3,
+              3,
+              3
+            ],
+            "maxActionSlotNum": 3,
+            "attributeList": [
+              {
+                "skillId": 9008201,
+                "number": 3
+              },
+              {
+                "skillId": 9008202,
+                "number": 1
+              },
+              {
+                "skillId": 9008203,
+                "number": 1
+              }
+            ],
+            "passiveSet": {
+              "passiveIdList": [
+                852301,
+                852102
               ]
             }
           }

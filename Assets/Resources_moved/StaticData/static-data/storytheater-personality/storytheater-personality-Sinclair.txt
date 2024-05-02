@@ -126,6 +126,22 @@
           ],
           "profileId": "cinq_sinclair_profile",
           "analysisId": "cinq_sinclair_analysis"
+        },
+        {
+          "personalityId": 11009,
+          "releaseDay": 20240502,
+          "cv_Id": "",
+          "personalityStoryList": [
+            {
+              "storyId": "P11009",
+              "lockCondition": "gacksung",
+              "order": 2,
+              "reward":{"type":"ITEM","id":2,"num":40}
+            }
+          
+          ],
+          "profileId": "dawn_sinclair_profile",
+          "analysisId": "dawn_sinclair_analysis"
         }
         ]
     }

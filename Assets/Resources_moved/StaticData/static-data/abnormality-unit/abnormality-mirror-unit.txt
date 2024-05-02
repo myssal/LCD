@@ -1213,8 +1213,8 @@
       "classType": "WAW",
       "attributeType": "SCARLET",
       "hp": {
-        "defaultStat": 290,
-        "incrementByLevel": 19.5
+        "defaultStat": 588,
+        "incrementByLevel": 36.46
       },
       "patternID": "Statue",
       "startActionSlotNum": 1,
@@ -1503,8 +1503,8 @@
       "classType": "ZAYIN",
       "attributeType": "CRIMSON",
       "hp": {
-        "defaultStat": 100,
-        "incrementByLevel": 1.6
+        "defaultStat": 235,
+        "incrementByLevel": 11.35
       },
       "patternID": "AutoPick",
       "startActionSlotNum": 1,
@@ -1545,8 +1545,8 @@
       "classType": "ZAYIN",
       "attributeType": "SHAMROCK",
       "hp": {
-        "defaultStat": 100,
-        "incrementByLevel": 1.4
+        "defaultStat": 209,
+        "incrementByLevel": 10.08
       },
       "patternID": "AutoPick",
       "startActionSlotNum": 1,
@@ -1583,8 +1583,8 @@
       "classType": "ZAYIN",
       "attributeType": "CRIMSON",
       "hp": {
-        "defaultStat": 100,
-        "incrementByLevel": 1.8
+        "defaultStat": 209,
+        "incrementByLevel": 10.08
       },
       "patternID": "AutoPick",
       "startActionSlotNum": 1,
@@ -8506,7 +8506,7 @@
       }
     },
     {
-      "id": 8142,
+      "id": 8143,
       "viewid": 8043,
       "sdPortrait": 8043,
       "storyID": 8043,
@@ -8528,7 +8528,7 @@
       "panic": -45,
       "patternID": "Dongbaek_UmbrellaFox",
       "abnormalityPartList": [
-        814201
+        814301
       ],
       "mentalConditionInfo": {
         "add": [
@@ -8560,31 +8560,31 @@
       },
       "attributeList": [
         {
-          "skillId": 814201,
+          "skillId": 804301,
           "number": 0
         },
         {
-          "skillId": 814202,
+          "skillId": 804302,
           "number": 0
         },
         {
-          "skillId": 814203,
+          "skillId": 804303,
           "number": 0
         },
         {
-          "skillId": 814204,
+          "skillId": 804304,
           "number": 0
         },
         {
-          "skillId": 814205,
+          "skillId": 804305,
           "number": 0
         },
         {
-          "skillId": 814206,
+          "skillId": 804306,
           "number": 0
         },
         {
-          "skillId": 814207,
+          "skillId": 804307,
           "number": 0
         }
       ],
@@ -8596,7 +8596,7 @@
                 {
                   "skillChildList": [
                     {
-                      "skillID": 814201,
+                      "skillID": 804301,
                       "chance": 1
                     }
                   ],
@@ -8609,7 +8609,7 @@
                 {
                   "skillChildList": [
                     {
-                      "skillID": 814201,
+                      "skillID": 804301,
                       "chance": 1
                     }
                   ],
@@ -8622,7 +8622,7 @@
                 {
                   "skillChildList": [
                     {
-                      "skillID": 814202,
+                      "skillID": 804302,
                       "chance": 1
                     }
                   ],
@@ -8631,7 +8631,7 @@
                 {
                   "skillChildList": [
                     {
-                      "skillID": 814203,
+                      "skillID": 804303,
                       "chance": 1
                     }
                   ],
@@ -8644,7 +8644,7 @@
                 {
                   "skillChildList": [
                     {
-                      "skillID": 814206,
+                      "skillID": 804306,
                       "chance": 1
                     }
                   ],
@@ -8661,7 +8661,7 @@
                 {
                   "skillChildList": [
                     {
-                      "skillID": 814201,
+                      "skillID": 804301,
                       "chance": 1
                     }
                   ],
@@ -8674,7 +8674,7 @@
                 {
                   "skillChildList": [
                     {
-                      "skillID": 814202,
+                      "skillID": 804302,
                       "chance": 1
                     }
                   ],
@@ -8687,7 +8687,7 @@
                 {
                   "skillChildList": [
                     {
-                      "skillID": 814203,
+                      "skillID": 804303,
                       "chance": 1
                     }
                   ],
@@ -8700,7 +8700,7 @@
                 {
                   "skillChildList": [
                     {
-                      "skillID": 814206,
+                      "skillID": 804306,
                       "chance": 1
                     }
                   ],
@@ -8717,7 +8717,7 @@
                 {
                   "skillChildList": [
                     {
-                      "skillID": 814204,
+                      "skillID": 804304,
                       "chance": 1
                     }
                   ],
@@ -8730,7 +8730,7 @@
                 {
                   "skillChildList": [
                     {
-                      "skillID": 814204,
+                      "skillID": 804304,
                       "chance": 1
                     }
                   ],
@@ -8743,7 +8743,7 @@
                 {
                   "skillChildList": [
                     {
-                      "skillID": 814204,
+                      "skillID": 804304,
                       "chance": 1
                     }
                   ],
@@ -8756,7 +8756,7 @@
                 {
                   "skillChildList": [
                     {
-                      "skillID": 814201,
+                      "skillID": 804301,
                       "chance": 1
                     }
                   ],
@@ -8769,7 +8769,7 @@
                 {
                   "skillChildList": [
                     {
-                      "skillID": 814201,
+                      "skillID": 804301,
                       "chance": 1
                     }
                   ],
@@ -8786,7 +8786,7 @@
                 {
                   "skillChildList": [
                     {
-                      "skillID": 814204,
+                      "skillID": 804304,
                       "chance": 1
                     }
                   ],
@@ -8799,7 +8799,7 @@
                 {
                   "skillChildList": [
                     {
-                      "skillID": 814204,
+                      "skillID": 804304,
                       "chance": 1
                     }
                   ],
@@ -8812,7 +8812,7 @@
                 {
                   "skillChildList": [
                     {
-                      "skillID": 814204,
+                      "skillID": 804304,
                       "chance": 1
                     }
                   ],
@@ -8825,7 +8825,7 @@
                 {
                   "skillChildList": [
                     {
-                      "skillID": 814203,
+                      "skillID": 804303,
                       "chance": 1
                     }
                   ],
@@ -8838,7 +8838,7 @@
                 {
                   "skillChildList": [
                     {
-                      "skillID": 814206,
+                      "skillID": 804306,
                       "chance": 1
                     }
                   ],
@@ -8855,7 +8855,7 @@
                 {
                   "skillChildList": [
                     {
-                      "skillID": 814207,
+                      "skillID": 804307,
                       "chance": 1
                     }
                   ],
@@ -8872,7 +8872,7 @@
                 {
                   "skillChildList": [
                     {
-                      "skillID": 814205,
+                      "skillID": 804305,
                       "chance": 1
                     }
                   ],
@@ -8885,7 +8885,7 @@
                 {
                   "skillChildList": [
                     {
-                      "skillID": 814204,
+                      "skillID": 804304,
                       "chance": 1
                     }
                   ],
@@ -8898,7 +8898,7 @@
                 {
                   "skillChildList": [
                     {
-                      "skillID": 814204,
+                      "skillID": 804304,
                       "chance": 1
                     }
                   ],
@@ -8911,7 +8911,7 @@
                 {
                   "skillChildList": [
                     {
-                      "skillID": 814202,
+                      "skillID": 804302,
                       "chance": 1
                     }
                   ],
@@ -8928,7 +8928,7 @@
                 {
                   "skillChildList": [
                     {
-                      "skillID": 814206,
+                      "skillID": 804306,
                       "chance": 1
                     }
                   ],
@@ -8941,7 +8941,7 @@
                 {
                   "skillChildList": [
                     {
-                      "skillID": 814206,
+                      "skillID": 804306,
                       "chance": 1
                     }
                   ],
@@ -8954,7 +8954,7 @@
                 {
                   "skillChildList": [
                     {
-                      "skillID": 814206,
+                      "skillID": 804306,
                       "chance": 1
                     }
                   ],
@@ -8967,7 +8967,7 @@
                 {
                   "skillChildList": [
                     {
-                      "skillID": 814202,
+                      "skillID": 804302,
                       "chance": 1
                     }
                   ],
@@ -8980,7 +8980,7 @@
                 {
                   "skillChildList": [
                     {
-                      "skillID": 814201,
+                      "skillID": 804301,
                       "chance": 1
                     }
                   ],
@@ -9003,7 +9003,7 @@
       }
     },
     {
-      "id": 8143,
+      "id": 8196,
       "viewid": 8053,
       "sdPortrait": 8053,
       "storyID": 8053,
@@ -9021,7 +9021,7 @@
       "startActionSlotNum": 1,
       "maxActionSlotNum": 1,
       "abnormalityPartList": [
-        814301
+        819601
       ],
       "attributeList": [
         {
@@ -9047,8 +9047,8 @@
       "classType": "TETH",
       "attributeType": "AMBER",
       "hp": {
-        "defaultStat": 1105,
-        "incrementByLevel": 57.14
+        "defaultStat": 555,
+        "incrementByLevel": 28.69
       },
       "breakSection": {
         "sectionList": [
@@ -9057,7 +9057,7 @@
       "startActionSlotNum": 5,
       "maxActionSlotNum": 5,
       "hasMp": false,
-      "patternID": "Distorted_Dongrang",
+      "patternID": "Distorted_Dongrang_Mirror",
       "phaseIDList": [
         8144,
         81442,
@@ -9256,7 +9256,7 @@
       ],
       "passiveSet": {
         "passiveIdList": [
-          804901
+          814401
         ]
       }
     },
@@ -9416,7 +9416,7 @@
       ],
       "passiveSet": {
         "passiveIdList": [
-          804902
+          814402
         ]
       }
     },

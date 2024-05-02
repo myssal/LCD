@@ -2809,6 +2809,28 @@
       "nameTagColor": "#221f34",
       "nameFontColor": "#d6001e"
       
+    },
+    {
+      "name": "마왕히스클리프4",
+      "fileName": "Empty",
+      "nameTagColor": "#4B088A",
+      "nameFontColor": "#d0a94b",
+      "portraitSpritePath": "StoryLog_None_Extra"
+    },
+    {
+      "name": "히스클리프2",
+      "fileName": "Heathcliff2",
+      "scale": 1,
+      "bottomYPos": 10,
+      "portraitSpritePath": "StoryLog_Heathcliff",
+      "krname": "히스클리프",
+      "jpname": "ヒースクリフ",
+      "enname": "Heathcliff",
+      "nickName": "7번 수감자",
+      "jpNickName": "囚人7番",
+      "enNickName": "Sinner #7",
+      "staringSide": "left",
+      "nameTagColor": "#4e3076"
     }
   ]
 }

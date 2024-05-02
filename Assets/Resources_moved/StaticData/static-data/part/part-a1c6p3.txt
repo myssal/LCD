@@ -1793,6 +1793,16 @@
           "chapterId": 1,
           "subchapterId": 106,
           "type": "MAIN"
+        },
+        {
+          "subchapterId": 9016,
+          "storyIdInTheaterData": 1,
+          "type": "STORY_THEATER",
+          "relatedEventId": "Walpu3",
+          "uiConfig": {
+            "illustId": "story-id_E061X",
+            "customChapterText": 1
+          }
         }
       ]
     },
@@ -2257,6 +2267,26 @@
           "nextSubchapterid": 106,
           "lastnodeid": 910712,
           "relatedMainEventId": "YCGD"
+        },
+        {
+          "id": 9108,
+          "region": "u",
+          "unlockCondition": {
+            "unlockCode": 106
+          },
+          "stageNodeList": [
+            {
+              "nodeId": 910801,
+              "stageId": 10555,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 910802,
+              "stageId": 10556,
+              "stageNodeType": "NORMAL"
+            }
+          ],
+          "relatedMainEventId": "Walpu3"
         }
       ]
     }

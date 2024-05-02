@@ -1,0 +1,14 @@
+{
+  "list": [
+    {
+      "stageType": "EVENT_WALPU3",
+      "restrictList": [
+        {
+          "id": 10555,
+          "minPersonalityLevel": 45,
+          "minPersonalityGacksung" : 3
+        }
+      ]
+    }
+  ]
+}

@@ -3743,6 +3743,9 @@
               "scriptName": "805904_Mirror"
             },
             {
+              "scriptName": "805904"
+            },
+            {
               "scriptName": "AttackDmgUpByRatioViaBuffCheckOver",
               "buffData": {
                 "buffKeyword": "Laceration",

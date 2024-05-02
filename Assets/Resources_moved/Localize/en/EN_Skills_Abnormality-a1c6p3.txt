@@ -218,7 +218,7 @@
         {
           "level": 1,
           "name": "Bodysack",
-          "desc": "[WhenUse] Base Power +1 for every 5 [Laceration] on target (max 3)\n[WhenUse] Clash Power +1 for every negative effect on target (max 2)\n[DefeatDuel] Gain 10 [DefenseDown]\n[DefeatDuel] Gain 1 Fettered Woe",
+          "desc": "[WhenUse] Base Power +1 for every 5 [Laceration] on target (max 3)\n[WhenUse] Clash Power +1 for every negative effect on target (max 2)\n[DefeatDuel] Gain 20 [DefenseDown]\n[DefeatDuel] Gain 1 Fettered Woe",
           "coinlist": [
             {
               "coindescs": [
@@ -253,7 +253,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this Skill flips all Heads, inflict 5 [Vulnerable] next turn"
+                  "desc": "[OnSucceedAttack] If this Skill flips all Heads, inflict 2 [Vulnerable] next turn"
                 }
               ]
             }
