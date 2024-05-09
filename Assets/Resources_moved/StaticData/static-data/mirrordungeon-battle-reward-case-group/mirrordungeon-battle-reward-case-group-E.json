@@ -9,7 +9,7 @@
           "rewardLV": 1,
           "rewardParams": {
             "randomEgoStock": {
-              "kind": 1,
+              "kind": 2,
               "num": 4
             }
           },
@@ -21,8 +21,8 @@
           "rewardLV": 2,
           "rewardParams": {
             "randomEgoStock": {
-              "kind": 1,
-              "num": 6
+              "kind": 3,
+              "num": 4
             }
           },
           "localizeTextFormat": "dungeon_battle_reward_case_format_random_ego_resource_acquisition"
@@ -32,12 +32,12 @@
           "rewardType": "EGOSTOCK",
           "rewardLV": 3,
           "rewardParams": {
-            "randomEgoStock": {
+            "leastEgoStock": {
               "kind": 2,
-              "num": 5
+              "num": 6
             }
           },
-          "localizeTextFormat": "dungeon_battle_reward_case_format_random_ego_resource_acquisition"
+          "localizeTextFormat": "dungeon_battle_reward_case_format_least_ego_resource_acquisition"
         },
         {
           "id": 504,
@@ -45,8 +45,8 @@
           "rewardLV": 4,
           "rewardParams": {
             "leastEgoStock": {
-              "kind": 1,
-              "num": 7
+              "kind": 2,
+              "num": 8
             }
           },
           "localizeTextFormat": "dungeon_battle_reward_case_format_least_ego_resource_acquisition"
@@ -57,8 +57,8 @@
           "rewardLV": 5,
           "rewardParams": {
             "leastEgoStock": {
-              "kind": 1,
-              "num": 10
+              "kind": 3,
+              "num": 6
             }
           },
           "localizeTextFormat": "dungeon_battle_reward_case_format_least_ego_resource_acquisition"
@@ -69,8 +69,8 @@
           "rewardLV": 6,
           "rewardParams": {
             "leastEgoStock": {
-              "kind": 2,
-              "num": 7
+              "kind": 3,
+              "num": 8
             }
           },
           "localizeTextFormat": "dungeon_battle_reward_case_format_least_ego_resource_acquisition"
@@ -81,8 +81,8 @@
           "rewardLV": 7,
           "rewardParams": {
             "leastEgoStock": {
-              "kind": 3,
-              "num": 7
+              "kind": 4,
+              "num": 10
             }
           },
           "localizeTextFormat": "dungeon_battle_reward_case_format_least_ego_resource_acquisition"

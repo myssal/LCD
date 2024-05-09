@@ -10,7 +10,8 @@
         "priority": 100,
         "pickupIdList": [ 20906, 20806, 11009 ],
         "illustList": [ "gacha_171_illust" ],
-        "videoList": [ "20906", "20806", "11009_1" ]
+        "videoList": [ "20906", "20806", "11009_1" ],
+        "festival": true
       },
       "payments": [
         {

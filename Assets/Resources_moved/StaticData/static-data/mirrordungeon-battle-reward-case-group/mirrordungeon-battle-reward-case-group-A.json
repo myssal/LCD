@@ -8,8 +8,8 @@
           "rewardType": "COST",
           "rewardLV": 1,
           "rewardParams": {
-            "acquireCostMin": 15,
-            "acquireCostMax": 20
+            "acquireCostMin": 80,
+            "acquireCostMax": 120
           },
           "localizeTextFormat": "dungeon_battle_reward_case_format_cost_acquisition"
         },
@@ -18,8 +18,8 @@
           "rewardType": "COST",
           "rewardLV": 2,
           "rewardParams": {
-            "acquireCostMin": 21,
-            "acquireCostMax": 25
+            "acquireCostMin": 90,
+            "acquireCostMax": 135
           },
           "localizeTextFormat": "dungeon_battle_reward_case_format_cost_acquisition"
         },
@@ -28,8 +28,8 @@
           "rewardType": "COST",
           "rewardLV": 3,
           "rewardParams": {
-            "acquireCostMin": 26,
-            "acquireCostMax": 30
+            "acquireCostMin": 100,
+            "acquireCostMax": 150
           },
           "localizeTextFormat": "dungeon_battle_reward_case_format_cost_acquisition"
         },
@@ -38,8 +38,8 @@
           "rewardType": "COST",
           "rewardLV": 4,
           "rewardParams": {
-            "acquireCostMin": 31,
-            "acquireCostMax": 40
+            "acquireCostMin": 110,
+            "acquireCostMax": 165
           },
           "localizeTextFormat": "dungeon_battle_reward_case_format_cost_acquisition"
         },
@@ -48,8 +48,8 @@
           "rewardType": "COST",
           "rewardLV": 5,
           "rewardParams": {
-            "acquireCostMin": 41,
-            "acquireCostMax": 55
+            "acquireCostMin": 120,
+            "acquireCostMax": 180
           },
           "localizeTextFormat": "dungeon_battle_reward_case_format_cost_acquisition"
         },
@@ -58,8 +58,8 @@
           "rewardType": "COST",
           "rewardLV": 6,
           "rewardParams": {
-            "acquireCostMin": 56,
-            "acquireCostMax": 70
+            "acquireCostMin": 135,
+            "acquireCostMax": 210
           },
           "localizeTextFormat": "dungeon_battle_reward_case_format_cost_acquisition"
         },
@@ -68,8 +68,8 @@
           "rewardType": "COST",
           "rewardLV": 7,
           "rewardParams": {
-            "acquireCostMin": 71,
-            "acquireCostMax": 100
+            "acquireCostMin": 150,
+            "acquireCostMax": 230
           },
           "localizeTextFormat": "dungeon_battle_reward_case_format_cost_acquisition"
         }

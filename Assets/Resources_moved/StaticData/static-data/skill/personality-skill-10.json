@@ -3979,16 +3979,7 @@
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
           "abilityScriptList": [
-            {
-              "scriptName": "GiveMpDmgOnUseSelf5ViaBuffCheck",
-              "buffData": {
-                "buffKeyword": "UnstableFeeling",
-                "target": "",
-                "buffOwner": "Self",
-                "stack": 1,
-                "turn": 0
-              }
-            }
+            
           ],
           "coinList": [
             {
@@ -4024,16 +4015,7 @@
         {
           "gaksungLevel": 2,
           "abilityScriptList": [
-            {
-              "scriptName": "GiveMpDmgOnUseSelf5ViaBuffCheck",
-              "buffData": {
-                "buffKeyword": "UnstableFeeling",
-                "target": "",
-                "buffOwner": "Self",
-                "stack": 1,
-                "turn": 0
-              }
-            }
+            
           ],
           "coinList": [
             {
@@ -4577,16 +4559,6 @@
                 "value": 1,
                 "limit": 10
               }
-            },
-            {
-              "scriptName": "GiveMpDmgOnUseSelf5ViaBuffCheck",
-              "buffData": {
-                "buffKeyword": "UnstableFeeling",
-                "target": "",
-                "buffOwner": "Self",
-                "stack": 1,
-                "turn": 0
-              }
             }
           ],
           "coinList": [
@@ -4611,16 +4583,6 @@
                 "turn": 0,
                 "value": 1,
                 "limit": 20
-              }
-            },
-            {
-              "scriptName": "GiveMpDmgOnUseSelf5ViaBuffCheck",
-              "buffData": {
-                "buffKeyword": "UnstableFeeling",
-                "target": "",
-                "buffOwner": "Self",
-                "stack": 1,
-                "turn": 0
               }
             }
           ]

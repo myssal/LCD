@@ -56,95 +56,13 @@
       ]
     },
     {
-      "id": "MDEMba",
-      "buffClass": "NonvolatileBuff",
-      "buffType": "Positive",
-      "list": [
-        {
-          "ability": "AtkAdderByStack",
-          "value": 2
-        }
-      ]
-    },
-    {
-      "id": "MDEMbb",
-      "buffClass": "NonvolatileBuff",
-      "buffType": "Positive",
-      "list": [
-        {
-          "ability": "AtkAdderByStack",
-          "value": 1
-        },
-        {
-          "ability": "MaxHpMultiplierEnemy",
-          "value": 0.05
-        }
-      ]
-    },
-    {
-      "id": "MDEMbc",
-      "buffClass": "NonvolatileBuff",
-      "buffType": "Positive",
-      "list": [
-        {
-          "ability": "SkillPowerResultAdderAsStack",
-          "value": 1
-        },
-        {
-          "ability": "DefAdderByStack",
-          "value": -1
-        }
-      ]
-    },
-    {
-      "id": "MDEMbd",
-      "buffClass": "NonvolatileBuff",
-      "buffType": "Positive",
-      "list": [
-        {
-          "ability": "SkillPowerAdderAsStack",
-          "value": 1
-        },
-        {
-          "ability": "DefAdderByStack",
-          "value": -2
-        }
-      ]
-    },
-    {
-      "id": "MDEMbe",
-      "buffClass": "NonvolatileBuff",
-      "buffType": "Positive",
-      "list": [
-        {
-          "ability": "ParryingResultAdderAsStack",
-          "value": 1
-        }
-      ]
-    },
-    {
-      "id": "MDEMbf",
-      "buffClass": "NonvolatileBuff",
-      "buffType": "Positive",
-      "list": [
-        {
-          "ability": "TakeAtkDamageMultiplierByStack",
-          "value": -0.05
-        },
-        {
-          "ability": "AtkDamageMultiplierByStack",
-          "value": 0.05
-        }
-      ]
-    },
-    {
       "id": "MDEMca",
       "buffClass": "NonvolatileBuff",
       "buffType": "Positive",
       "list": [
         {
           "ability": "AtkAdderByStack",
-          "value": 1
+          "value": 2
         },
         {
           "ability": "DefAdderByStack",
@@ -163,7 +81,7 @@
       "list": [
         {
           "ability": "AtkAdderByStack",
-          "value": 1
+          "value": 2
         },
         {
           "ability": "DefAdderByStack",
@@ -178,7 +96,7 @@
       "list": [
         {
           "ability": "MaxHpMultiplierEnemy",
-          "value": 0.15
+          "value": 0.20
         }
       ]
     },
@@ -193,7 +111,7 @@
         },
         {
           "ability": "MaxHpMultiplierEnemy",
-          "value": 0.025
+          "value": 0.05
         }
       ]
     },
@@ -208,7 +126,7 @@
         },
         {
           "ability": "MaxHpMultiplierEnemy",
-          "value": 0.025
+          "value": 0.05
         }
       ]
     },
@@ -223,7 +141,7 @@
         },
         {
           "ability": "DefAdderByStack",
-          "value": -5
+          "value": -3
         }
       ]
     },

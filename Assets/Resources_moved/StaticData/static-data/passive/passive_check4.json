@@ -158,10 +158,10 @@
     },
     {
       "id": 1100911,
-      "attributeResonanceCondition": [
+      "attributeStockCondition": [
         {
           "type": "CRIMSON",
-          "value": 3
+          "value": 5
         }
       ],
       "requireIDList": [

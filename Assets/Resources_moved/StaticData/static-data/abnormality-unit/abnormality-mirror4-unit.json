@@ -11,8 +11,8 @@
       "classType": "HE",
       "attributeType": "CRIMSON",
       "hp": {
-        "defaultStat": 678,
-        "incrementByLevel": 30.39
+        "defaultStat": 538,
+        "incrementByLevel": 24.12
       },
       "patternID": "8197",
       "startActionSlotNum": 6,
@@ -324,8 +324,8 @@
         819902
       ],
       "hp": {
-        "defaultStat": 756,
-        "incrementByLevel": 37.8
+        "defaultStat": 417,
+        "incrementByLevel": 20.85
       },
       "attributeList": [
         {
@@ -1116,7 +1116,7 @@
       "storyID": 8510,
       "viewid": 8510,
       "sdPortrait": 8510,
-      "nameID": 8510,
+      "nameID": 8075,
       "appearance": "8503_CryToadAppearance",
       "unitKeywordList": [],
       "level": 40,
@@ -1939,8 +1939,8 @@
       "classType": "HE",
       "attributeType": "SHAMROCK",
       "hp": {
-        "defaultStat": 792,
-        "incrementByLevel": 32.75
+        "defaultStat": 479,
+        "incrementByLevel": 19.84
       },
       "abnormalityPartList": [
         811901,
@@ -2479,8 +2479,8 @@
       "classType": "TETH",
       "attributeType": "SHAMROCK",
       "hp": {
-        "defaultStat": 23,
-        "incrementByLevel": 0.87
+        "defaultStat": 22,
+        "incrementByLevel": 0.86
       },
       "patternID": "8560",
       "aggro": 4,
@@ -2521,8 +2521,8 @@
       "classType": "TETH",
       "attributeType": "SHAMROCK",
       "hp": {
-        "defaultStat": 23,
-        "incrementByLevel": 0.87
+        "defaultStat": 22,
+        "incrementByLevel": 0.86
       },
       "patternID": "8560",
       "aggro": 4,
@@ -2563,8 +2563,8 @@
       "classType": "TETH",
       "attributeType": "SHAMROCK",
       "hp": {
-        "defaultStat": 23,
-        "incrementByLevel": 0.87
+        "defaultStat": 22,
+        "incrementByLevel": 0.86
       },
       "patternID": "8560",
       "aggro": 4,
@@ -2605,8 +2605,8 @@
       "classType": "TETH",
       "attributeType": "SHAMROCK",
       "hp": {
-        "defaultStat": 23,
-        "incrementByLevel": 0.87
+        "defaultStat": 22,
+        "incrementByLevel": 0.86
       },
       "patternID": "8560",
       "aggro": 4,
@@ -4094,8 +4094,8 @@
       "classType": "HE",
       "attributeType": "AZURE",
       "hp": {
-        "defaultStat": 232,
-        "incrementByLevel": 8.8
+        "defaultStat": 463,
+        "incrementByLevel": 19.16
       },
       "abnormalityPartList": [
         823101,
@@ -12607,8 +12607,8 @@
       "classType": "TETH",
       "attributeType": "SCARLET",
       "hp": {
-        "defaultStat": 822,
-        "incrementByLevel": 21.5
+        "defaultStat": 438,
+        "incrementByLevel": 18.13
       },
       "patternID": "8578",
       "abnormalityPartList": [
@@ -13713,7 +13713,6 @@
           810302,
           810303,
           810306,
-          810305,
           9999998
         ]
       },
@@ -15604,7 +15603,7 @@
     },
     {
       "id": 8222,
-      "nameID": 8556,
+      "nameID": 8201,
       "sdPortrait": 8556,
       "viewid": 8556,
       "originID": 8556,
@@ -16352,8 +16351,8 @@
       "classType": "TETH",
       "attributeType": "AMBER",
       "hp": {
-        "defaultStat": 521,
-        "incrementByLevel": 26.97
+        "defaultStat": 428,
+        "incrementByLevel": 17.71
       },
       "breakSection": {
         "sectionList": [
@@ -17213,8 +17212,8 @@
       "classType": "TETH",
       "attributeType": "AMBER",
       "hp": {
-        "defaultStat": 555,
-        "incrementByLevel": 28.69
+        "defaultStat": 458,
+        "incrementByLevel": 23.66
       },
       "breakSection": {
         "sectionList": [

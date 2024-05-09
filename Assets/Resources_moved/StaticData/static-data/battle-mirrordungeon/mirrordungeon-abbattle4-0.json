@@ -250,8 +250,7 @@
             }
           ],
           "bgmList": [
-            "Battle_Cp5_Ally_2",
-            "Battle_Cp5_Enemy_3"
+            "Battle_Cur_dolorem_sentis"
           ],
           "enemyPositionID": 13
         }
@@ -321,8 +320,7 @@
             }
           ],
           "bgmList": [
-            "Battle_Cp5_Ally_2",
-            "Battle_Cp5_Enemy_4"
+            "Battle_Cur_dolorem_sentis"
           ],
           "enemyPositionID": 13
         }
@@ -4536,7 +4534,7 @@
           "unitList": [
             {
               "unitID": 8274,
-              "unitCount": 2,
+              "unitCount": 1,
               "unitLevel": 40
             },
             {
@@ -4559,11 +4557,6 @@
             },
             {
               "unitID": 8276,
-              "unitCount": 1,
-              "unitLevel": 40
-            },
-            {
-              "unitID": 8274,
               "unitCount": 2,
               "unitLevel": 40
             }
@@ -4582,7 +4575,7 @@
             },
             {
               "unitID": 8276,
-              "unitCount": 3,
+              "unitCount": 2,
               "unitLevel": 40
             }
           ]
@@ -6028,7 +6021,7 @@
       "stageScriptNameAfterClear": "Cromer_Mirror",
       "eventScriptName": "Cromer",
       "abnormalityEventList": [
-        802701,
+        802901,
         803001
       ],
       "attackType": "",
@@ -6972,7 +6965,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_BandofnineSummer"
+            "mapName": "Cp4_UmbrellaFox"
           },
           "unitList": [
             {
@@ -11164,7 +11157,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -11205,7 +11198,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -11246,7 +11239,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -11297,7 +11290,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -11348,7 +11341,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -11389,7 +11382,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -11430,7 +11423,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -11471,7 +11464,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -11522,7 +11515,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -11573,7 +11566,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -12753,7 +12746,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -12982,7 +12975,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -13957,7 +13950,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -13998,7 +13991,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -14177,7 +14170,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -14218,7 +14211,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -14439,7 +14432,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Boss"
           ],
           "enemyPositionID": 42
         }
@@ -14592,7 +14585,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -14643,7 +14636,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -14694,7 +14687,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -14745,7 +14738,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -14791,7 +14784,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -15104,7 +15097,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Boss"
           ],
           "enemyPositionID": 42
         }
@@ -15423,7 +15416,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp5_HeartEntrance3"
+            "mapName": "OldRestaurant"
           },
           "unitList": [
             {
@@ -15485,7 +15478,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -15526,7 +15519,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -15567,7 +15560,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -15618,7 +15611,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -15669,7 +15662,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -15880,7 +15873,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -16099,7 +16092,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -18500,7 +18493,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_BandofnineSpring"
+            "mapName": "Cp3_B0_UnderGround"
           },
           "unitList": [
             {
@@ -18582,7 +18575,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_BandofnineSpring"
+            "mapName": "Cp3_B0_UnderGround"
           },
           "unitList": [
             {
@@ -18817,7 +18810,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_TcorStreet"
+            "mapName": "Cp3_B0_UnderGround"
           },
           "unitList": [
             {
@@ -19026,7 +19019,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_BandofnineSpring"
+            "mapName": "OldRestaurant"
           },
           "unitList": [
             {
@@ -19067,7 +19060,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_TcorStreet"
+            "mapName": "OldRestaurant"
           },
           "unitList": [
             {
@@ -19108,7 +19101,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_BandofnineSpring"
+            "mapName": "OldRestaurant"
           },
           "unitList": [
             {
@@ -19149,7 +19142,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_TcorStreet"
+            "mapName": "OldRestaurant"
           },
           "unitList": [
             {
@@ -19216,7 +19209,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -19257,7 +19250,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -19298,7 +19291,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -19349,7 +19342,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -19400,7 +19393,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -19451,7 +19444,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -19869,7 +19862,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_TcorStreet"
+            "mapName": "OldRestaurant"
           },
           "unitList": [
             {
@@ -19910,7 +19903,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_BandofnineSpring"
+            "mapName": "OldRestaurant"
           },
           "unitList": [
             {
@@ -19951,7 +19944,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_TcorStreet"
+            "mapName": "OldRestaurant"
           },
           "unitList": [
             {
@@ -19992,7 +19985,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_BandofnineSpring"
+            "mapName": "OldRestaurant"
           },
           "unitList": [
             {
@@ -20048,7 +20041,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_TcorStreet"
+            "mapName": "OldRestaurant"
           },
           "unitList": [
             {
@@ -21223,7 +21216,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_SheddingTearsBlind",
+            "mapName": "Cp4_SheddingTears",
             "mapSize": 33.33
           },
           "unitList": [
@@ -21341,8 +21334,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_SheddingTearsBlind",
-            "mapSize": 33.33
+            "mapName": "Cp4_UmbrellaFox"
           },
           "unitList": [
             {
@@ -22594,7 +22586,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -22635,7 +22627,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -22676,7 +22668,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -22722,7 +22714,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -22768,7 +22760,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Enemy"
           ]
         }
       ],
@@ -25531,7 +25523,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp3_B1_LCorpE_v2"
+            "mapName": "B2Mine_v2"
           },
           "unitList": [
             {
@@ -25669,7 +25661,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp3_B1_LCorpE_v2"
+            "mapName": "B2Mine_v2"
           },
           "unitList": [
             {
@@ -25899,7 +25891,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp3_B1_LCorpE_v2"
+            "mapName": "B2Mine_v2"
           },
           "unitList": [
             {
@@ -26045,7 +26037,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp3_B1_LCorpE_v2"
+            "mapName": "B2Mine_v2"
           },
           "unitList": [
             {
@@ -26183,7 +26175,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp3_B1_LCorpE_v2"
+            "mapName": "B2Mine_v2"
           },
           "unitList": [
             {
@@ -26413,7 +26405,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp3_B1_LCorpE_v2"
+            "mapName": "B2Mine_v2"
           },
           "unitList": [
             {
@@ -26528,7 +26520,7 @@
             }
           ],
           "bgmList": [
-            "Battle_Cp5_AhabBossBattle"
+            "Battle_AhabBossBattle_Mirror"
           ],
           "allyPositionID": 58,
           "enemyPositionID": 59
@@ -26699,7 +26691,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_TcorStreet"
+            "mapName": "B2Mine_v2"
           },
           "unitList": [
             {
@@ -26740,7 +26732,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_BandofnineSpring"
+            "mapName": "B2Mine_v2"
           },
           "unitList": [
             {
@@ -26863,7 +26855,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_TcorStreet"
+            "mapName": "B2Mine_v2"
           },
           "unitList": [
             {
@@ -30237,7 +30229,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_BandofnineSpring"
+            "mapName": "Cp3_B0_UnderGround"
           },
           "unitList": [
             {
@@ -30360,7 +30352,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_BandofnineSpring"
+            "mapName": "Cp3_B0_UnderGround"
           },
           "unitList": [
             {
@@ -30817,7 +30809,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_BandofnineSpring"
+            "mapName": "Cp3_B0_UnderGround"
           },
           "unitList": [
             {
@@ -30940,7 +30932,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_BandofnineSpring"
+            "mapName": "Cp3_B0_UnderGround"
           },
           "unitList": [
             {
@@ -31191,7 +31183,7 @@
       "stageScriptNameAfterClear": "Cromer_Mirror",
       "eventScriptName": "Cromer",
       "abnormalityEventList": [
-        802701,
+        802901,
         803001
       ],
       "attackType": "",
@@ -31291,8 +31283,7 @@
             }
           ],
           "bgmList": [
-            "Battle_Cp5_Ally_2",
-            "Battle_Cp5_Enemy_3"
+            "Battle_Cur_dolorem_sentis"
           ],
           "enemyPositionID": 13
         }
@@ -33548,7 +33539,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_SheddingTearsBlind",
+            "mapName": "Cp4_SheddingTears",
             "mapSize": 33.33
           },
           "unitList": [
@@ -33727,7 +33718,7 @@
           ],
           "bgmList": [
             "Battle_Cp2_Ally_3",
-            "Battle_Cp3_5_Enemy_2"
+            "Battle_Cp4_5_Boss"
           ],
           "enemyPositionID": 42
         }

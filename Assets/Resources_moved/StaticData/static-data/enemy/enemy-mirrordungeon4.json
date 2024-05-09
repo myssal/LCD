@@ -3292,7 +3292,7 @@
             "id": 70126,
             "nameID": 90126,
             "sdPortrait": 90126,
-            "appearance": "90126_Butler_W_1Appearance",
+            "appearance": "90126_Butler_W_1_v1Appearance",
             "associationList": [
                 "WUTHERING_HEIGHTS"
             ],
@@ -3444,7 +3444,7 @@
             "id": 70127,
             "nameID": 90127,
             "sdPortrait": 90127,
-            "appearance": "90127_Butler_W_2Appearance",
+            "appearance": "90127_Butler_W_2_v1Appearance",
             "associationList": [
                 "WUTHERING_HEIGHTS"
             ],

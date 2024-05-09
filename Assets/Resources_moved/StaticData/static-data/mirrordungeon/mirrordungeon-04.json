@@ -10,18 +10,11 @@
       "startBuffAcquireChipMultiplyer": 1,
       "startMaxPersonalityNumber": 12,
       "eventPoolOfEgoGifTierInFloor": [
-        {
-          "list": [ 1, 1 ]
-        },
-        {
-          "list": [ 1, 1, 1 ]
-        },
-        {
-          "list": [ 1, 1, 1, 1 ]
-        },
-        {
-          "list": [ 1, 1, 1, 1 ]
-        }
+        { "list": [ 1, 1, 0, 0, 0 ] },
+        { "list": [ 1, 1, 1, 0, 0 ] },
+        { "list": [ 1, 1, 1, 1, 1 ] },
+        { "list": [ 1, 1, 1, 1, 1 ] },
+        { "list": [ 1, 1, 1, 1, 1 ] }
       ],
       "randompickmaxcost": 0,
       "randompickrewardmultiplyer": 1.2,
@@ -139,23 +132,69 @@
       "floors": [
         {
           "count": 0,
+          "eventNodePercentage":20,
+          "abnormalityBattlePercentage":0,
+          "hardBattlePercentage":0,
+          "fixedEncounters": [
+            {
+              "targetSector":-2,
+              "e":11,
+              "eid":0
+            }
+          ],
           "enemyBuffPool": [ 992101, 992102, 992103, 992104, 992105 ] 
         },
         {
           "count": 1,
-          "enemyBuffPool": [ 992111, 992112, 992113, 992114, 992115, 992116 ]
-        },
-        {
-          "count": 2,
+          "eventNodePercentage":20,
+          "abnormalityBattlePercentage":12,
+          "hardBattlePercentage":8,
+          "fixedEncounters": [
+            {
+              "targetSector":1,
+              "e":10,
+              "eid":0
+            }
+          ],
           "enemyBuffPool": [ 992121, 992122, 992123, 992124, 992125, 992126, 992127 ]
         },
         {
-          "count": 3,
+          "count": 2,
+          "eventNodePercentage":20,
+          "abnormalityBattlePercentage":15,
+          "hardBattlePercentage":10,
+          "fixedEncounters": [
+            {
+              "targetSector":1,
+              "e":11,
+              "eid":0
+            }
+          ],
           "enemyBuffPool": [ 992131, 992132, 992133, 992134, 992135, 992136, 992137, 992138 ]
         },
         {
-          "count": 4,
-          "enemyBuffPool": []
+          "count": 3,
+          "eventNodePercentage":25,
+          "abnormalityBattlePercentage":18,
+          "hardBattlePercentage":12,
+          "fixedEncounters": [
+            {
+              "targetSector":1,
+              "e":10,
+              "eid":0
+            },
+            {
+              "targetSector":-3,
+              "e":10,
+              "eid":0
+            },
+            {
+              "targetSector":-2,
+              "e":11,
+              "eid":0
+            }
+          ],
+          "enemyBuffPool": [ ]
         }
       ],
       "clientConfig": {
@@ -350,7 +389,7 @@
               {
                 "type": "BATTLEPASS_POINT",
                 "id": 0,
-                "num": 27
+                "num": 30
               }
             ]
           },
@@ -373,7 +412,7 @@
               {
                 "type": "BATTLEPASS_POINT",
                 "id": 0,
-                "num": 41
+                "num": 45
               },
               {
                 "type": "ITEM",

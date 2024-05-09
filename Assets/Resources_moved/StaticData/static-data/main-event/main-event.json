@@ -17,6 +17,14 @@
       "isBannerVisible": true
     },
     {
+      "eventId": "MirrorDungeon",
+      "mainUIPhaseTypeList": [
+        "Lobby"
+      ],
+      "bannerSpriteId": "banner_MirrorDungeon4",
+      "isBannerVisible": true
+    },
+    {
       "eventId": "RailwayDungeonBanner",
       "mainUIPhaseTypeList": [
         "Lobby"

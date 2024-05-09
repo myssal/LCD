@@ -18170,6 +18170,7 @@
           },
           {
             "id": 70082,
+            "nameID": 90082,
             "sdPortrait": 8523,
             "appearance": "8502_KCorp_Grade3_FuryAppearance",
             "associationList": [ "K_CORP" ],

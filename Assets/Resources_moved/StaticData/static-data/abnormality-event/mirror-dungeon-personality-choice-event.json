@@ -2142,10 +2142,10 @@
           "exclusiveValue": 28,
           "judgementDataList": [
             {
-              "attributeType": "AMBER"
+              "attributeType": "CRIMSON"
             },
             {
-              "attributeType": "SHAMROCK"
+              "attributeType": "INDIGO"
             }
           ]
         },
@@ -2211,7 +2211,10 @@
           "exclusiveValue": 22,
           "judgementDataList": [
             {
-              "attributeType": "SCARLET"
+              "attributeType": "AZURE"
+            },
+            {
+              "attributeType": "SHAMROCK"
             }
           ]
         },

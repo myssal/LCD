@@ -11645,8 +11645,7 @@
           "bgmList": [
             "Battle_Cp3_Ally_1",
             "Battle_Cp3_Enemy_1"
-          ],
-          "enemyPositionID": 17
+          ]
         }
       ],
       "staminaCost": 0,
@@ -15501,8 +15500,8 @@
             }
           ],
           "bgmList": [
-            "Battle_Cp2_Ally_1",
-            "Battle_Cp2_Enemy_1"
+            "Battle_Cp4_Ally_3",
+            "Battle_Cp4_Enemy_3"
           ]
         }
       ],
@@ -22877,7 +22876,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp5_LccbSecret"
+            "mapName": "Cp5_DrillingVessel_Outside"
           },
           "unitList": [
             {
@@ -23262,7 +23261,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_2"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -23309,7 +23308,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_3"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -23356,7 +23355,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_4"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -23403,7 +23402,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_5"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -25207,7 +25206,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_2"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -25254,7 +25253,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_3"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -46776,27 +46775,29 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp6_Mansion_Laboratory_B2",
-            "mapSize": 20.0
+            "mapName": "Cp6_Mansion_Laboratory_B1"
           },
           "unitList": [
             {
-              "unitID": 70118,
+              "unitID": 70131,
               "unitCount": 2,
               "unitLevel": 40
             },
             {
-              "unitID": 70119,
+              "unitID": 70132,
               "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 70133,
+              "unitCount": 1,
               "unitLevel": 40
             }
           ],
           "bgmList": [
-            "Battle_Cp6_Ally_1",
-            "Battle_Cp6_Enemy_1"
-          ],
-          "allyPositionID": 65,
-          "enemyPositionID": 66
+            "Battle_Cp6_Ally_2",
+            "Battle_Cp6_Enemy_2"
+          ]
         }
       ],
       "staminaCost": 0,
@@ -47250,27 +47251,29 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp6_Mansion_Laboratory_B2",
-            "mapSize": 20.0
+            "mapName": "Cp6_Mansion_Laboratory_B1"
           },
           "unitList": [
             {
-              "unitID": 70118,
+              "unitID": 70131,
               "unitCount": 2,
               "unitLevel": 40
             },
             {
-              "unitID": 70119,
-              "unitCount": 3,
+              "unitID": 70132,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 70133,
+              "unitCount": 1,
               "unitLevel": 40
             }
           ],
           "bgmList": [
-            "Battle_Cp6_Ally_1",
-            "Battle_Cp6_Enemy_1"
-          ],
-          "allyPositionID": 65,
-          "enemyPositionID": 66
+            "Battle_Cp6_Ally_2",
+            "Battle_Cp6_Enemy_2"
+          ]
         }
       ],
       "staminaCost": 0,
@@ -51095,27 +51098,29 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp6_Mansion_Laboratory_B2",
-            "mapSize": 20.0
+            "mapName": "Cp6_Mansion_Laboratory_B1"
           },
           "unitList": [
             {
-              "unitID": 70118,
+              "unitID": 70131,
               "unitCount": 2,
               "unitLevel": 40
             },
             {
-              "unitID": 70119,
+              "unitID": 70132,
               "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 70133,
+              "unitCount": 1,
               "unitLevel": 40
             }
           ],
           "bgmList": [
-            "Battle_Cp6_Ally_1",
-            "Battle_Cp6_Enemy_1"
-          ],
-          "allyPositionID": 65,
-          "enemyPositionID": 66
+            "Battle_Cp6_Ally_2",
+            "Battle_Cp6_Enemy_2"
+          ]
         }
       ],
       "staminaCost": 0,
@@ -51569,27 +51574,29 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp6_Mansion_Laboratory_B2",
-            "mapSize": 20.0
+            "mapName": "Cp6_Mansion_Laboratory_B1"
           },
           "unitList": [
             {
-              "unitID": 70118,
+              "unitID": 70131,
               "unitCount": 2,
               "unitLevel": 40
             },
             {
-              "unitID": 70119,
-              "unitCount": 3,
+              "unitID": 70132,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 70133,
+              "unitCount": 1,
               "unitLevel": 40
             }
           ],
           "bgmList": [
-            "Battle_Cp6_Ally_1",
-            "Battle_Cp6_Enemy_1"
-          ],
-          "allyPositionID": 65,
-          "enemyPositionID": 66
+            "Battle_Cp6_Ally_2",
+            "Battle_Cp6_Enemy_2"
+          ]
         }
       ],
       "staminaCost": 0,
@@ -55314,27 +55321,29 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp6_Mansion_Laboratory_B2",
-            "mapSize": 20.0
+            "mapName": "Cp6_Mansion_Laboratory_B1"
           },
           "unitList": [
             {
-              "unitID": 70118,
+              "unitID": 70131,
               "unitCount": 2,
               "unitLevel": 40
             },
             {
-              "unitID": 70119,
+              "unitID": 70132,
               "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 70133,
+              "unitCount": 1,
               "unitLevel": 40
             }
           ],
           "bgmList": [
-            "Battle_Cp6_Ally_1",
-            "Battle_Cp6_Enemy_1"
-          ],
-          "allyPositionID": 65,
-          "enemyPositionID": 66
+            "Battle_Cp6_Ally_2",
+            "Battle_Cp6_Enemy_2"
+          ]
         }
       ],
       "staminaCost": 0,
@@ -55788,27 +55797,29 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp6_Mansion_Laboratory_B2",
-            "mapSize": 20.0
+            "mapName": "Cp6_Mansion_Laboratory_B1"
           },
           "unitList": [
             {
-              "unitID": 70118,
+              "unitID": 70131,
               "unitCount": 2,
               "unitLevel": 40
             },
             {
-              "unitID": 70119,
-              "unitCount": 3,
+              "unitID": 70132,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 70133,
+              "unitCount": 1,
               "unitLevel": 40
             }
           ],
           "bgmList": [
-            "Battle_Cp6_Ally_1",
-            "Battle_Cp6_Enemy_1"
-          ],
-          "allyPositionID": 65,
-          "enemyPositionID": 66
+            "Battle_Cp6_Ally_2",
+            "Battle_Cp6_Enemy_2"
+          ]
         }
       ],
       "staminaCost": 0,
@@ -59269,27 +59280,29 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp6_Mansion_Laboratory_B2",
-            "mapSize": 20.0
+            "mapName": "Cp6_Mansion_Laboratory_B1"
           },
           "unitList": [
             {
-              "unitID": 70118,
+              "unitID": 70131,
               "unitCount": 2,
               "unitLevel": 40
             },
             {
-              "unitID": 70119,
+              "unitID": 70132,
               "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 70133,
+              "unitCount": 1,
               "unitLevel": 40
             }
           ],
           "bgmList": [
-            "Battle_Cp6_Ally_1",
-            "Battle_Cp6_Enemy_1"
-          ],
-          "allyPositionID": 65,
-          "enemyPositionID": 66
+            "Battle_Cp6_Ally_2",
+            "Battle_Cp6_Enemy_2"
+          ]
         }
       ],
       "staminaCost": 0,
@@ -59743,27 +59756,29 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp6_Mansion_Laboratory_B2",
-            "mapSize": 20.0
+            "mapName": "Cp6_Mansion_Laboratory_B1"
           },
           "unitList": [
             {
-              "unitID": 70118,
+              "unitID": 70131,
               "unitCount": 2,
               "unitLevel": 40
             },
             {
-              "unitID": 70119,
-              "unitCount": 3,
+              "unitID": 70132,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 70133,
+              "unitCount": 1,
               "unitLevel": 40
             }
           ],
           "bgmList": [
-            "Battle_Cp6_Ally_1",
-            "Battle_Cp6_Enemy_1"
-          ],
-          "allyPositionID": 65,
-          "enemyPositionID": 66
+            "Battle_Cp6_Ally_2",
+            "Battle_Cp6_Enemy_2"
+          ]
         }
       ],
       "staminaCost": 0,
@@ -63314,27 +63329,29 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp6_Mansion_Laboratory_B2",
-            "mapSize": 20.0
+            "mapName": "Cp6_Mansion_Laboratory_B1"
           },
           "unitList": [
             {
-              "unitID": 70118,
+              "unitID": 70131,
               "unitCount": 2,
               "unitLevel": 40
             },
             {
-              "unitID": 70119,
+              "unitID": 70132,
               "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 70133,
+              "unitCount": 1,
               "unitLevel": 40
             }
           ],
           "bgmList": [
-            "Battle_Cp6_Ally_1",
-            "Battle_Cp6_Enemy_1"
-          ],
-          "allyPositionID": 65,
-          "enemyPositionID": 66
+            "Battle_Cp6_Ally_2",
+            "Battle_Cp6_Enemy_2"
+          ]
         }
       ],
       "staminaCost": 0,
@@ -63788,27 +63805,29 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp6_Mansion_Laboratory_B2",
-            "mapSize": 20.0
+            "mapName": "Cp6_Mansion_Laboratory_B1"
           },
           "unitList": [
             {
-              "unitID": 70118,
+              "unitID": 70131,
               "unitCount": 2,
               "unitLevel": 40
             },
             {
-              "unitID": 70119,
-              "unitCount": 3,
+              "unitID": 70132,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 70133,
+              "unitCount": 1,
               "unitLevel": 40
             }
           ],
           "bgmList": [
-            "Battle_Cp6_Ally_1",
-            "Battle_Cp6_Enemy_1"
-          ],
-          "allyPositionID": 65,
-          "enemyPositionID": 66
+            "Battle_Cp6_Ally_2",
+            "Battle_Cp6_Enemy_2"
+          ]
         }
       ],
       "staminaCost": 0,
@@ -66839,7 +66858,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_KCropLab_2F"
+            "mapName": "Cp5_DrillingVessel_Outside"
           },
           "unitList": [
             {
@@ -66854,8 +66873,8 @@
             }
           ],
           "bgmList": [
-            "Battle_Cp4_Ally_1",
-            "Battle_Cp4_Enemy_1"
+            "Battle_Cp5_Ally_3",
+            "Battle_Cp5_Enemy_1"
           ]
         }
       ],
@@ -67546,27 +67565,29 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp6_Mansion_Laboratory_B2",
-            "mapSize": 20.0
+            "mapName": "Cp6_Mansion_Laboratory_B1"
           },
           "unitList": [
             {
-              "unitID": 70118,
+              "unitID": 70131,
               "unitCount": 2,
               "unitLevel": 40
             },
             {
-              "unitID": 70119,
+              "unitID": 70132,
               "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 70133,
+              "unitCount": 1,
               "unitLevel": 40
             }
           ],
           "bgmList": [
-            "Battle_Cp6_Ally_1",
-            "Battle_Cp6_Enemy_1"
-          ],
-          "allyPositionID": 65,
-          "enemyPositionID": 66
+            "Battle_Cp6_Ally_2",
+            "Battle_Cp6_Enemy_2"
+          ]
         }
       ],
       "staminaCost": 0,
@@ -68020,27 +68041,29 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp6_Mansion_Laboratory_B2",
-            "mapSize": 20.0
+            "mapName": "Cp6_Mansion_Laboratory_B1"
           },
           "unitList": [
             {
-              "unitID": 70118,
+              "unitID": 70131,
               "unitCount": 2,
               "unitLevel": 40
             },
             {
-              "unitID": 70119,
-              "unitCount": 3,
+              "unitID": 70132,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 70133,
+              "unitCount": 1,
               "unitLevel": 40
             }
           ],
           "bgmList": [
-            "Battle_Cp6_Ally_1",
-            "Battle_Cp6_Enemy_1"
-          ],
-          "allyPositionID": 65,
-          "enemyPositionID": 66
+            "Battle_Cp6_Ally_2",
+            "Battle_Cp6_Enemy_2"
+          ]
         }
       ],
       "staminaCost": 0,
@@ -71157,7 +71180,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp6_Mansion_CatherineRoom"
+            "mapName": "Cp5_DrillingVessel_Outside"
           },
           "unitList": [
             {
@@ -71172,8 +71195,8 @@
             }
           ],
           "bgmList": [
-            "Battle_Cp6_Ally_2",
-            "Battle_Cp6_Enemy_2"
+            "Battle_Cp5_Ally_3",
+            "Battle_Cp5_Enemy_1"
           ]
         }
       ],
@@ -71799,27 +71822,29 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp6_Mansion_Laboratory_B2",
-            "mapSize": 20.0
+            "mapName": "Cp6_Mansion_Laboratory_B1"
           },
           "unitList": [
             {
-              "unitID": 70118,
+              "unitID": 70131,
               "unitCount": 2,
               "unitLevel": 40
             },
             {
-              "unitID": 70119,
+              "unitID": 70132,
               "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 70133,
+              "unitCount": 1,
               "unitLevel": 40
             }
           ],
           "bgmList": [
-            "Battle_Cp6_Ally_1",
-            "Battle_Cp6_Enemy_1"
-          ],
-          "allyPositionID": 65,
-          "enemyPositionID": 66
+            "Battle_Cp6_Ally_2",
+            "Battle_Cp6_Enemy_2"
+          ]
         }
       ],
       "staminaCost": 0,
@@ -72273,27 +72298,29 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp6_Mansion_Laboratory_B2",
-            "mapSize": 20.0
+            "mapName": "Cp6_Mansion_Laboratory_B1"
           },
           "unitList": [
             {
-              "unitID": 70118,
+              "unitID": 70131,
               "unitCount": 2,
               "unitLevel": 40
             },
             {
-              "unitID": 70119,
-              "unitCount": 3,
+              "unitID": 70132,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 70133,
+              "unitCount": 1,
               "unitLevel": 40
             }
           ],
           "bgmList": [
-            "Battle_Cp6_Ally_1",
-            "Battle_Cp6_Enemy_1"
-          ],
-          "allyPositionID": 65,
-          "enemyPositionID": 66
+            "Battle_Cp6_Ally_2",
+            "Battle_Cp6_Enemy_2"
+          ]
         }
       ],
       "staminaCost": 0,
@@ -76833,7 +76860,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp5.5_BackStreet"
+            "mapName": "Cp6_Mansion_Laboratory_B1"
           },
           "unitList": [
             {
@@ -77087,7 +77114,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp5.5_BackStreet"
+            "mapName": "Cp6_Mansion_Laboratory_B1"
           },
           "unitList": [
             {
@@ -77812,7 +77839,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_5"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -78155,7 +78182,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_5"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -78411,7 +78438,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_5"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -82417,7 +82444,7 @@
           "unitList": [
             {
               "unitID": 70082,
-              "unitCount": 3,
+              "unitCount": 2,
               "unitLevel": 40
             }
           ],
@@ -82458,7 +82485,7 @@
           "unitList": [
             {
               "unitID": 70082,
-              "unitCount": 3,
+              "unitCount": 2,
               "unitLevel": 40
             }
           ],
@@ -83783,7 +83810,7 @@
           "unitList": [
             {
               "unitID": 70082,
-              "unitCount": 3,
+              "unitCount": 2,
               "unitLevel": 40
             }
           ],
@@ -83824,7 +83851,7 @@
           "unitList": [
             {
               "unitID": 70082,
-              "unitCount": 3,
+              "unitCount": 2,
               "unitLevel": 40
             }
           ],
@@ -83871,7 +83898,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_3"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -84225,7 +84252,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_3"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -84271,7 +84298,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_3"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -84312,7 +84339,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_3"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -84666,7 +84693,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_3"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -84712,7 +84739,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_3"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -84753,7 +84780,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_3"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -85112,7 +85139,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_3"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -85158,7 +85185,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_3"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -85199,7 +85226,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_3"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -85553,7 +85580,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_3"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -85599,7 +85626,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_3"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -85640,7 +85667,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_3"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -85994,7 +86021,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_3"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -86040,7 +86067,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_3"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -86081,7 +86108,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_3"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -86440,7 +86467,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_3"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -86486,7 +86513,7 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_6",
-            "Battle_TGS_Ally_3"
+            "Battle_TGS_Ally_1"
           ]
         }
       ],
@@ -90510,7 +90537,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4.5_Foreshore_v1"
+            "mapName": "Cp4_NCorSquareRoom"
           },
           "unitList": [
             {
@@ -90520,8 +90547,8 @@
             }
           ],
           "bgmList": [
-            "Battle_Cp2_Ally_1",
-            "Battle_Cp4_5_Enemy"
+            "Battle_Cp4_Ally_6",
+            "Battle_Cp4_Enemy_6"
           ]
         }
       ],
@@ -91911,7 +91938,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4.5_Foreshore_v1"
+            "mapName": "Cp4_NCorSquareRoom"
           },
           "unitList": [
             {
@@ -91921,8 +91948,8 @@
             }
           ],
           "bgmList": [
-            "Battle_Cp2_Ally_1",
-            "Battle_Cp4_5_Enemy"
+            "Battle_Cp4_Ally_6",
+            "Battle_Cp4_Enemy_6"
           ]
         }
       ],

@@ -12,7 +12,7 @@
               "rewardList": [
                 {
                   "type": "GetBattleRewardCase",
-                  "probability": 0.125,
+                  "probability": 0.075,
                   "showNumber": 2,
                   "selectNumber": 1
                 }
@@ -23,7 +23,7 @@
               "rewardList": [
                 {
                   "type": "GetBattleRewardCase",
-                  "probability": 0.125,
+                  "probability": 0.10,
                   "showNumber": 3,
                   "selectNumber": 1
                 }
@@ -34,7 +34,7 @@
               "rewardList": [
                 {
                   "type": "GetBattleRewardCase",
-                  "probability": 0.125,
+                  "probability": 0.10,
                   "showNumber": 3,
                   "selectNumber": 1
                 }
@@ -71,8 +71,14 @@
               "floor": 2,
               "rewardList": [
                 {
+                  "type": "GetEgogift",
+                  "probability": 0.75,
+                  "showNumber": 1,
+                  "selectNumber": 1
+                },
+                {
                   "type": "GetBattleRewardCase",
-                  "probability": 0.25,
+                  "probability": 0.20,
                   "showNumber": 3,
                   "selectNumber": 1
                 }
@@ -89,7 +95,7 @@
                 },
                 {
                   "type": "GetBattleRewardCase",
-                  "probability": 0.25,
+                  "probability": 0.20,
                   "showNumber": 3,
                   "selectNumber": 1
                 }
@@ -138,8 +144,14 @@
               "floor": 2,
               "rewardList": [
                 {
+                  "type": "GetEgogift",
+                  "probability": 1,
+                  "showNumber": 1,
+                  "selectNumber": 1
+                },
+                {
                   "type": "GetBattleRewardCase",
-                  "probability": 0.50,
+                  "probability": 0.33,
                   "showNumber": 3,
                   "selectNumber": 1
                 }
@@ -156,7 +168,7 @@
                 },
                 {
                   "type": "GetBattleRewardCase",
-                  "probability": 0.50,
+                  "probability": 0.33,
                   "showNumber": 3,
                   "selectNumber": 1
                 }

@@ -191,8 +191,8 @@
         "Default1"
       ],
       "hp": {
-        "defaultStat": 351,
-        "incrementByLevel": 14.51
+        "defaultStat": 231,
+        "incrementByLevel": 9.58
       },
       "defCorrection": 1,
       "minSpeedList": [
@@ -283,8 +283,8 @@
         "Default1"
       ],
       "hp": {
-        "defaultStat": 154,
-        "incrementByLevel": 6.38
+        "defaultStat": 102,
+        "incrementByLevel": 4.21
       },
       "defCorrection": 1,
       "minSpeedList": [
@@ -1599,8 +1599,8 @@
         "Default1"
       ],
       "hp": {
-        "defaultStat": 718,
-        "incrementByLevel": 29.71
+        "defaultStat": 583,
+        "incrementByLevel": 24.13
       },
       "defCorrection": 2,
       "minSpeedList": [

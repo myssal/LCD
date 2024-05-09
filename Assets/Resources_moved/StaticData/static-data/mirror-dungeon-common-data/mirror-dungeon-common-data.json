@@ -153,6 +153,103 @@
 			}
 		]
 	},
+	"newEgoGiftCombineTierTable": {
+		"maximumAvailableTier": 3,
+		"combineTwo": [
+			{
+				"aTier": 1,
+				"bTier": 1,
+				"resultTier": 1
+			},
+			{
+				"aTier": 1,
+				"bTier": 2,
+				"resultTier": 1
+			},
+			{
+				"aTier": 1,
+				"bTier": 3,
+				"resultTier": 2
+			},
+			{
+				"aTier": 2,
+				"bTier": 2,
+				"resultTier": 2
+			},
+			{
+				"aTier": 2,
+				"bTier": 3,
+				"resultTier": 2
+			},
+			{
+				"aTier": 3,
+				"bTier": 3,
+				"resultTier": 3
+			}
+		],
+		"combineThree": [
+			{
+				"aTier": 1,
+				"bTier": 1,
+				"cTier": 1,
+				"resultTier": 1
+			},
+			{
+				"aTier": 1,
+				"bTier": 1,
+				"cTier": 2,
+				"resultTier": 2
+			},
+			{
+				"aTier": 1,
+				"bTier": 1,
+				"cTier": 3,
+				"resultTier": 2
+			},
+			{
+				"aTier": 1,
+				"bTier": 2,
+				"cTier": 2,
+				"resultTier": 2
+			},
+			{
+				"aTier": 1,
+				"bTier": 2,
+				"cTier": 3,
+				"resultTier": 3
+			},
+			{
+				"aTier": 1,
+				"bTier": 3,
+				"cTier": 3,
+				"resultTier": 3
+			},
+			{
+				"aTier": 2,
+				"bTier": 2,
+				"cTier": 2,
+				"resultTier": 3
+			},
+			{
+				"aTier": 2,
+				"bTier": 2,
+				"cTier": 3,
+				"resultTier": 3
+			},
+			{
+				"aTier": 2,
+				"bTier": 3,
+				"cTier": 3,
+				"resultTier": 4
+			},
+			{
+				"aTier": 3,
+				"bTier": 3,
+				"cTier": 3,
+				"resultTier": 4
+			}
+		]
+	},
 	"egoGiftCombineFixedTable": {
 		"combineFixed": [
 			{
@@ -245,6 +342,7 @@
 			}
 		]
 	},
+
 	"maxRestingCountForPersonality": 5,
 	"additionalCostForPersonalityRank": [ 25, 25, 0 ],
 	"additionalCostForNotFormerlyUsedPersonality": 25,
@@ -252,6 +350,7 @@
 	"additionalChipForNewTheme": 3,
 	"shopRefreshCostPerCount": 25,
 	"shopRefreshChipForAnyCount": 10,
+	"shopKeywordRefreshCostAdder": 125,
 	"acquireChipPerFloor": [ 5, 10, 15, 25, 40 ],
 	"startRestingCount": 0,
 	"startEgoGiftPoolCreatedMaxCount": 2,
@@ -435,5 +534,174 @@
 			"normalpool": [ 9012 ],
 			"buffpool": [ 9149, 9150 ]
 		}
-	]
+	],
+	"forcelyInsertKeywordGiftWeightBybossReward": [
+		{
+			"themeNumber": 1,
+			"weight": [ 1 ]
+		},
+		{
+			"themeNumber": 2,
+			"weight": [ 0.75, 0.25 ]
+		},
+		{
+			"themeNumber": 3,
+			"weight": [ 0.625, 0.25, 0.125 ]
+		},
+		{
+			"themeNumber": 4,
+			"weight": [ 0.4, 0.3, 0.2, 0.1 ]
+		},
+		{
+			"themeNumber": 5,
+			"weight": [ 0.4, 0.24, 0.18, 0.12, 0.06 ]
+		}
+	],
+	"battleRewardCaseTierProbs":[
+	  {
+		"conditionStr":"0:0:1",
+		"tierProbs":[ 0.66,    0.34,    0,      0,      0,      0,      0]
+	  },
+	  {
+		"conditionStr":"0:0:6",
+		"tierProbs":[ 0,      0.66,    0.34,    0,      0,      0,      0]
+	  },
+
+
+
+	  {
+		"conditionStr":"0:1:1",
+		"tierProbs":[ 0.5,   0.33,   0.17,   0,      0,      0,      0]
+	  },
+	  {
+		"conditionStr":"0:1:5",
+		"tierProbs":[ 0.5,   0.33,   0.17,   0,      0,      0,      0]
+	  },
+	  {
+		"conditionStr":"0:1:2",
+		"tierProbs":[ 0,      0.66,    0.34,    0,      0,      0,      0]
+	  },
+	  {
+		"conditionStr":"0:1:6",
+		"tierProbs":[ 0,      0.5,   0.33,   0.17,   0,      0,      0]
+	  },
+
+
+
+	  {
+		"conditionStr":"0:2:1",
+		"tierProbs":[ 0,      0.66,    0.34,    0,      0,      0,      0]
+	  },
+	  {
+		"conditionStr":"0:2:5",
+		"tierProbs":[ 0,      0.66,    0.34,    0,      0,      0,      0]
+	  },
+	  {
+		"conditionStr":"0:2:2",
+		"tierProbs":[ 0,      0.5,   0.33,   0.17,   0,      0,      0]
+	  },
+	  {
+		"conditionStr":"0:2:6",
+		"tierProbs":[ 0,      0,      0.66,    0.34,    0,      0,      0]
+	  },
+
+
+
+	  {
+		"conditionStr":"0:3:1",
+		"tierProbs":[ 0,      0.5,   0.33,   0.17,   0,      0,      0]
+	  },
+	  {
+		"conditionStr":"0:3:5",
+		"tierProbs":[ 0,      0.5,   0.33,   0.17,   0,      0,      0]
+	  },
+	  {
+		"conditionStr":"0:3:2",
+		"tierProbs":[ 0,      0,      0.66,    0.34,    0,      0,      0]
+	  },
+
+
+
+	  {
+		"conditionStr":"1:0:1",
+		"tierProbs":[ 0.4,   0.3,   0.2,   0.1,   0,      0,      0]
+	  },
+	  {
+		"conditionStr":"1:0:6",
+		"tierProbs":[ 0,      0.4,   0.3,   0.2,   0.1,   0,      0]
+	  },
+
+
+
+	  {
+		"conditionStr":"1:1:1",
+		"tierProbs":[ 0,      0.5,   0.33,   0.17,   0,      0,      0]
+	  },
+	  {
+		"conditionStr":"1:1:5",
+		"tierProbs":[ 0,      0.5,   0.33,   0.17,   0,      0,      0]
+	  },
+	  {
+		"conditionStr":"1:1:2",
+		"tierProbs":[ 0,      0.4,   0.3,   0.2,   0.1,   0,      0]
+	  },
+	  {
+		"conditionStr":"1:1:6",
+		"tierProbs":[ 0,      0,      0.5,   0.33,   0.17,   0,      0]
+	  },
+
+
+
+	  {
+		"conditionStr":"1:2:1",
+		"tierProbs":[ 0,      0.4,   0.3,   0.2,   0.1,   0,      0]
+	  },
+	  {
+		"conditionStr":"1:2:5",
+		"tierProbs":[ 0,      0.4,   0.3,   0.2,   0.1,   0,      0]
+	  },
+	  {
+		"conditionStr":"1:2:2",
+		"tierProbs":[ 0,      0,      0.5,   0.33,   0.17,   0,      0]
+	  },
+	  {
+		"conditionStr":"1:2:6",
+		"tierProbs":[ 0,      0,      0.4,   0.3,   0.2,   0.1,   0]
+	  },
+
+
+
+	  {
+		"conditionStr":"1:3:1",
+		"tierProbs":[ 0,      0,      0.5,   0.33,   0.17,   0,      0]
+	  },
+	  {
+		"conditionStr":"1:3:5",
+		"tierProbs":[ 0,      0,      0.5,   0.33,   0.17,   0,      0]
+	  },
+	  {
+		"conditionStr":"1:3:2",
+		"tierProbs":[ 0,      0,      0.4,   0.3,   0.2,   0.1,   0]
+	  },
+	  {
+		"conditionStr":"1:3:6",
+		"tierProbs":[ 0,      0,      0,      0.4,   0.3,   0.2,   0.1]
+	  },
+
+
+
+	  {
+		"conditionStr":"1:4:1",
+		"tierProbs":[ 0,      0,      0.4,   0.3,   0.2,   0.1,   0]
+	  },
+	  {
+		"conditionStr":"1:4:5",
+		"tierProbs":[ 0,      0,      0.4,   0.3,   0.2,   0.1,   0]
+	  },
+	  {
+		"conditionStr":"1:4:2",
+		"tierProbs":[ 0,      0,      0,      0.4,   0.3,   0.2,   0.1]
+	  }
+	],
+	"shopKeywordRefreshWeightMultiplier":12.5
 }

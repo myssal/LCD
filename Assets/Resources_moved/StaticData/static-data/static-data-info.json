@@ -573,8 +573,6 @@
         {
             "dataClass": "mirrordungeon",
             "fileList": [
-                "mirrordungeon-03",
-                "mirrordungeon-03-hard",
                 "mirrordungeon-04",
                 "mirrordungeon-04-hard"
             ]
@@ -582,8 +580,6 @@
         {
             "dataClass": "mirrordungeon-encounterinfo",
             "fileList": [
-                "mirrordungeon-encounterinfos-03-normal",
-                "mirrordungeon-encounterinfos-03-hard",
                 "mirrordungeon-encounterinfos-04-normal",
                 "mirrordungeon-encounterinfos-04-hard"
             ]
@@ -591,8 +587,6 @@
         {
             "dataClass": "mirrordungeon-global-encounterinfo",
             "fileList": [
-                "mirrordungeon-global-encounterinfos-3-0",
-                "mirrordungeon-global-encounterinfos-3-1",
                 "mirrordungeon-global-encounterinfos-4-0",
                 "mirrordungeon-global-encounterinfos-4-1"
             ]
@@ -1012,7 +1006,8 @@
         {
             "dataClass": "control-code",
             "fileList": [
-                "control-code"
+                "control-code",
+                "control-code2"
             ]
         },
         {

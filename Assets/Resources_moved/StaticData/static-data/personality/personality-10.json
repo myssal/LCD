@@ -833,7 +833,10 @@
                 "conditionID": "OnWinDuelAsParryingCountMultiply15AndPlus20Percent"
               },
               {
-                "conditionID": "OnKillEnemyAsLevelRatioMultiply15"
+                "conditionID": "OnKillEnemyMp15"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
               },
               {
                 "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply10"

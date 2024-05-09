@@ -6910,6 +6910,7 @@
     },
     {
       "id": 8096,
+      "sdPortrait": 8041,
       "viewid": 8041,
       "phaseIDList": 8041,
       "appearance": "8041_BrassBullAppearance",
@@ -9047,8 +9048,8 @@
       "classType": "TETH",
       "attributeType": "AMBER",
       "hp": {
-        "defaultStat": 555,
-        "incrementByLevel": 28.69
+        "defaultStat": 444,
+        "incrementByLevel": 22.98
       },
       "breakSection": {
         "sectionList": [
