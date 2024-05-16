@@ -707,6 +707,54 @@
       "requireIDList": [
         "CheckAwakenLevel4"
       ]
+    },
+    {
+      "id": 1010911,
+      "attributeStockCondition": [
+        {
+          "type": "SCARLET",
+          "value": 4
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel4"
+      ]
+    },
+    {
+      "id": 1010931,
+      "attributeStockCondition": [
+        {
+          "type": "SCARLET",
+          "value": 4
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel4"
+      ]
+    },
+    {
+      "id": 1110911,
+      "attributeStockCondition": [
+        {
+          "type": "SCARLET",
+          "value": 4
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel4"
+      ]
+    },
+    {
+      "id": 1110931,
+      "attributeStockCondition": [
+        {
+          "type": "SCARLET",
+          "value": 4
+        }
+      ],
+      "requireIDList": [
+        "CheckAwakenLevel4"
+      ]
     }
   ]
 }

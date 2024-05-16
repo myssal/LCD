@@ -119,6 +119,21 @@
             ],
             "profileId": "dieci_yisang_profile",
             "analysisId": "dieci_yisang_analysis"
+          },
+          {
+            "personalityId": 10109,
+            "releaseDay": 20240516,
+            "cv_Id": "",
+            "personalityStoryList": [
+              {
+                "storyId": "P10109",
+                "lockCondition": "gacksung",
+                "order": 1,
+                "reward":{"type":"ITEM","id":2,"num":40}
+              }
+            ],
+            "profileId": "rings_yisang_profile",
+            "analysisId": "rings_yisang_analysis"
           }
         ]
     }

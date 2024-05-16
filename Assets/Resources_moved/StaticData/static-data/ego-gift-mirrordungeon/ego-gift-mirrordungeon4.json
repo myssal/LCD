@@ -257,11 +257,11 @@
         }
       ],
       "tag": [
-        "TIER_1"
+        "TIER_3"
       ],
       "keyword": "Vibration",
       "lockType": false,
-      "price": 162
+      "price": 259
     },
     {
       "id": 9112,
@@ -1998,7 +1998,7 @@
       "tag": [
         "TIER_4"
       ],
-      "keyword": "Slash",
+      "keyword": "Breath",
       "lockType": false,
       "price": 432
     },

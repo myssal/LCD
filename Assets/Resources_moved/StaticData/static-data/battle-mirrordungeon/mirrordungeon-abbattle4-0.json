@@ -10565,6 +10565,11 @@
         "min": 6,
         "max": 6
       },
+      "battleCameraInfo": {
+        "defaultPosX": 0,
+        "defaultPosY": 0,
+        "defaultPosZ": 20
+      },
       "waveList": [
         {
           "battleMapInfo": {
@@ -18406,7 +18411,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_BandofnineSpring"
+            "mapName": "B2Mine_v3"
           },
           "unitList": [
             {
@@ -18621,7 +18626,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_TcorStreet"
+            "mapName": "B2Mine_v3"
           },
           "unitList": [
             {
@@ -18672,7 +18677,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_BandofnineSpring"
+            "mapName": "B2Mine_v3"
           },
           "unitList": [
             {
@@ -18718,7 +18723,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_TcorStreet"
+            "mapName": "B2Mine_v3"
           },
           "unitList": [
             {
@@ -18764,7 +18769,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_BandofnineSpring"
+            "mapName": "B2Mine_v3"
           },
           "unitList": [
             {
@@ -21242,8 +21247,8 @@
             "Battle_Cp4_Ally_3",
             "Battle_Cp4_Enemy_3"
           ],
-          "allyPositionID": 36,
-          "enemyPositionID": 35
+          "allyPositionID": 33,
+          "enemyPositionID": 29
         }
       ],
       "staminaCost": 0,
@@ -21359,8 +21364,7 @@
             "Battle_Cp4_Ally_6",
             "Battle_Cp4_Enemy_6"
           ],
-          "allyPositionID": 36,
-          "enemyPositionID": 35
+          "enemyPositionID": 31
         }
       ],
       "staminaCost": 0,
@@ -26773,7 +26777,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_TcorStreet"
+            "mapName": "B2Mine_v3"
           },
           "unitList": [
             {
@@ -26814,7 +26818,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_BandofnineSpring"
+            "mapName": "B2Mine_v3"
           },
           "unitList": [
             {
@@ -26901,7 +26905,7 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_BandofnineSpring"
+            "mapName": "B2Mine_v3"
           },
           "unitList": [
             {
@@ -33565,8 +33569,8 @@
             "Battle_Cp4_Ally_3",
             "Battle_Cp4_Enemy_3"
           ],
-          "allyPositionID": 36,
-          "enemyPositionID": 35
+          "allyPositionID": 33,
+          "enemyPositionID": 29
         }
       ],
       "staminaCost": 0,
@@ -33886,11 +33890,11 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp6_Mansion_StairsToLaboratory"
+            "mapName": "OldRestaurant"
           },
           "unitList": [
             {
-              "unitID": 8034,
+              "unitID": 8124,
               "unitCount": 4,
               "unitLevel": 40
             }
@@ -33928,11 +33932,11 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp6_Mansion_StairsToLaboratory"
+            "mapName": "OldRestaurant"
           },
           "unitList": [
             {
-              "unitID": 8034,
+              "unitID": 8124,
               "unitCount": 4,
               "unitLevel": 40
             }
@@ -34106,11 +34110,11 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp6_Mansion_StairsToLaboratory"
+            "mapName": "OldRestaurant"
           },
           "unitList": [
             {
-              "unitID": 8034,
+              "unitID": 8124,
               "unitCount": 4,
               "unitLevel": 40
             }
@@ -34148,11 +34152,11 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp6_Mansion_StairsToLaboratory"
+            "mapName": "OldRestaurant"
           },
           "unitList": [
             {
-              "unitID": 8034,
+              "unitID": 8124,
               "unitCount": 4,
               "unitLevel": 40
             }
@@ -34429,11 +34433,11 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_TcorStreet"
+            "mapName": "OldRestaurant"
           },
           "unitList": [
             {
-              "unitID": 8034,
+              "unitID": 8124,
               "unitCount": 4,
               "unitLevel": 40
             }
@@ -34470,11 +34474,11 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_BandofnineSpring"
+            "mapName": "OldRestaurant"
           },
           "unitList": [
             {
-              "unitID": 8034,
+              "unitID": 8124,
               "unitCount": 4,
               "unitLevel": 40
             }
@@ -34644,11 +34648,11 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_BandofnineSpring"
+            "mapName": "OldRestaurant"
           },
           "unitList": [
             {
-              "unitID": 8034,
+              "unitID": 8124,
               "unitCount": 4,
               "unitLevel": 40
             }
@@ -34685,11 +34689,11 @@
       "waveList": [
         {
           "battleMapInfo": {
-            "mapName": "Cp4_TcorStreet"
+            "mapName": "OldRestaurant"
           },
           "unitList": [
             {
-              "unitID": 8034,
+              "unitID": 8124,
               "unitCount": 4,
               "unitLevel": 40
             }

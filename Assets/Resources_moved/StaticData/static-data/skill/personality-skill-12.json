@@ -1712,8 +1712,8 @@
                 "buffKeyword": "Laceration",
                 "target": "",
                 "buffOwner": "Target",
-                "stack": 10,
-                "turn": 0,
+                "stack": 0,
+                "turn": 10,
                 "activeRound": 0,
                 "value": 1
               }

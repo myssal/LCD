@@ -29,7 +29,7 @@
         {
           "id": 101,
           "required": [ 100 ],
-          "cost": 50,
+          "cost": 0,
           "localizeId": "mirror_dungeon_4_buffs_title_2",
           "summaryDescId": "md4_buffs_summaryDesc_101",
           "effects": [
@@ -51,7 +51,7 @@
         {
           "id": 1011,
           "required": [ 101 ],
-          "cost": 75,
+          "cost": 0,
           "localizeId": "mirror_dungeon_4_buffs_title_2",
           "summaryDescId": "md4_buffs_summaryDesc_1011",
           "effects": [
@@ -71,7 +71,7 @@
         {
           "id": 1012,
           "required": [ 101 ],
-          "cost": 75,
+          "cost": 0,
           "localizeId": "mirror_dungeon_4_buffs_title_2",
           "summaryDescId": "md4_buffs_summaryDesc_1012",
           "effects": [
@@ -91,7 +91,7 @@
         {
           "id": 1013,
           "required": [ 101 ],
-          "cost": 75,
+          "cost": 0,
           "localizeId": "mirror_dungeon_4_buffs_title_2",
           "summaryDescId": "md4_buffs_summaryDesc_1013",
           "effects": [
@@ -111,7 +111,7 @@
         {
           "id": 1014,
           "required": [ 101 ],
-          "cost": 75,
+          "cost": 0,
           "localizeId": "mirror_dungeon_4_buffs_title_2",
           "summaryDescId": "md4_buffs_summaryDesc_1014",
           "effects": [
@@ -131,7 +131,7 @@
         {
           "id": 1015,
           "required": [ 101 ],
-          "cost": 75,
+          "cost": 0,
           "localizeId": "mirror_dungeon_4_buffs_title_2",
           "summaryDescId": "md4_buffs_summaryDesc_1015",
           "effects": [
@@ -151,7 +151,7 @@
         {
           "id": 1016,
           "required": [ 101 ],
-          "cost": 75,
+          "cost": 0,
           "localizeId": "mirror_dungeon_4_buffs_title_2",
           "summaryDescId": "md4_buffs_summaryDesc_1016",
           "effects": [
@@ -171,7 +171,7 @@
         {
           "id": 1017,
           "required": [ 101 ],
-          "cost": 75,
+          "cost": 0,
           "localizeId": "mirror_dungeon_4_buffs_title_2",
           "summaryDescId": "md4_buffs_summaryDesc_1017",
           "effects": [
@@ -191,7 +191,7 @@
         {
           "id": 102,
           "required": [ 101 ],
-          "cost": 75,
+          "cost": 0,
           "localizeId": "mirror_dungeon_4_buffs_title_3",
           "summaryDescId": "md4_buffs_summaryDesc_102",
           "effects": [
@@ -213,7 +213,7 @@
         {
           "id": 1021,
           "required": [ 102 ],
-          "cost": 75,
+          "cost": 0,
           "localizeId": "mirror_dungeon_4_buffs_title_3",
           "summaryDescId": "md4_buffs_summaryDesc_1021",
           "effects": [
@@ -233,7 +233,7 @@
         {
           "id": 1022,
           "required": [ 102 ],
-          "cost": 75,
+          "cost": 0,
           "localizeId": "mirror_dungeon_4_buffs_title_3",
           "summaryDescId": "md4_buffs_summaryDesc_1022",
           "effects": [
@@ -253,7 +253,7 @@
         {
           "id": 1023,
           "required": [ 102 ],
-          "cost": 75,
+          "cost": 0,
           "localizeId": "mirror_dungeon_4_buffs_title_3",
           "summaryDescId": "md4_buffs_summaryDesc_1023",
           "effects": [
@@ -273,7 +273,7 @@
         {
           "id": 103,
           "required": [ 102 ],
-          "cost": 75,
+          "cost": 0,
           "localizeId": "mirror_dungeon_4_buffs_title_4",
           "summaryDescId": "md4_buffs_summaryDesc_103",
           "effects": [
@@ -355,7 +355,7 @@
         {
           "id": 104,
           "required": [ 103 ],
-          "cost": 100,
+          "cost": 0,
           "localizeId": "mirror_dungeon_4_buffs_title_5",
           "summaryDescId": "md4_buffs_summaryDesc_104",
           "effects": [
@@ -378,7 +378,7 @@
         {
           "id": 105,
           "required": [ 104 ],
-          "cost": 150,
+          "cost": 0,
           "localizeId": "mirror_dungeon_4_buffs_title_6",
           "summaryDescId": "md4_buffs_summaryDesc_105",
           "effects": [
@@ -402,7 +402,7 @@
           "id": 106,
 
           "required": [ 105 ],
-          "cost": 200,
+          "cost": 0,
           "localizeId": "mirror_dungeon_4_buffs_title_7",
           "summaryDescId": "md4_buffs_summaryDesc_106",
           "effects": [

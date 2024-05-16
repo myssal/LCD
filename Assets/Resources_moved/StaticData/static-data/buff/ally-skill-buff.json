@@ -320,6 +320,51 @@
           }
         }
       ]
+    },
+    {
+      "id": "CanvasA",
+      "buffClass": "CountableBuff",
+      "buffType": "Negative",
+      "maxTurn": 10,
+      "canBeDespelled": true,
+      "destroyableOnZero": false,
+      "list": [
+        {
+          "ability": "CanvasBase",
+          "value": 10,
+          "buffData": {
+            "buffKeyword": "CompletedCanvasA",
+            "buffOwner": "Target",
+            "stack": 0,
+            "turn": 10,
+            "value": 0
+          }
+        },
+        {
+          "ability": "LoseStackOnRoundEnd",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "id": "CompletedCanvasA",
+      "buffClass": "CountableBuff",
+      "buffType": "Negative",
+      "maxTurn": 10,
+      "canBeDespelled": true,
+      "destroyableOnZero": false,
+      "list": [
+        {
+          "ability": "CantGetBuff",
+          "buffData": {
+            "buffKeyword": "CanvasA"
+          }
+        },
+        {
+          "ability": "LoseStackOnRoundEnd",
+          "value": 1
+        }
+      ]
     }
   ]
 }

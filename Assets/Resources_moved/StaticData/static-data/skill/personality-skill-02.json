@@ -3159,7 +3159,7 @@
               "scriptName": "GiveMpDmgOnLoseDuelSelf20"
             },
             {
-              "scriptName": "AttackDmgUp3PerNegativeBuffCountWithLimit15"
+              "scriptName": "AttackDmgUp30PerNegativeBuffCountWithLimit150"
             },
             {
               "scriptName": "GiveBuffOnKillTarget",
@@ -3231,7 +3231,7 @@
               "scriptName": "GiveMpDmgOnLoseDuelSelf20"
             },
             {
-              "scriptName": "AttackDmgUp6PerNegativeBuffCountWithLimit30"
+              "scriptName": "AttackDmgUp60PerNegativeBuffCountWithLimit300"
             },
             {
               "scriptName": "GiveBuffOnKillTarget",

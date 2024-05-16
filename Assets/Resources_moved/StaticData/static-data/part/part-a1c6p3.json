@@ -1798,7 +1798,6 @@
           "subchapterId": 9016,
           "storyIdInTheaterData": 1,
           "type": "STORY_THEATER",
-          "relatedEventId": "Walpu3",
           "uiConfig": {
             "illustId": "story-id_E061X",
             "customChapterText": 1

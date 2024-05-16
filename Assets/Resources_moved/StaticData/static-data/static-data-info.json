@@ -248,7 +248,9 @@
 				"gacha-168",
 				"gacha-169",
 				"gacha-170",
-				"gacha-171"
+				"gacha-171",
+				"gacha-172",
+				"gacha-173"
             ]
         },
         {
@@ -505,8 +507,8 @@
                 "vending-machine-1",
                 "vending-machine-2",
                 "vending-machine-3",
-                "vending-machine-91",
-                "vending-machine-4-a1c6"
+                "vending-machine-4-a1c6",
+                "vending-machine-91"
             ]
         },
         {
@@ -1177,7 +1179,8 @@
         {
           "dataClass": "guide-ui",
           "fileList": [
-            "guide-ui-mirrordungeon-egogift-combine"
+            "guide-ui-mirrordungeon-egogift-combine",
+            "guide-ui-mirrordungeon-battle-reward-card"
           ]
         }
     ]

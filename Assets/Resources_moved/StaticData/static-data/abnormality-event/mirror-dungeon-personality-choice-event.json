@@ -5740,7 +5740,7 @@
                       "resultEffect": "GetConfirmedEgogift",
                       "itemReward": {
                         "type": "EGO_GIFT",
-                        "rewardId": 9717,
+                        "rewardId": 9719,
                         "num": 1,
                         "prob": 1.0
                       }
@@ -5813,7 +5813,7 @@
                       "resultEffect": "GetConfirmedEgogift",
                       "itemReward": {
                         "type": "EGO_GIFT",
-                        "rewardId": 2035,
+                        "rewardId": 9720,
                         "num": 1,
                         "prob": 1.0
                       }

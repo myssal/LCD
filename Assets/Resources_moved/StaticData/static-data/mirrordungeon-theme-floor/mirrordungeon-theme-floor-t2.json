@@ -16,7 +16,6 @@
         {
           "dungeonIdx": 1,
           "selectableFloors": [
-            0,
             1
           ]
         }
@@ -92,6 +91,7 @@
           901018,
           901019,
           901020,
+          901021,
           901022,
           901023,
           901024,
@@ -110,7 +110,12 @@
           901038,
           901039,
           901040
-        ]
+        ],
+        "specialEventPool": [
+          971001,
+          971003
+        ],
+        "specialEventProb" : 0.75
       },
       "egoGiftPool": [
         9001,
@@ -253,7 +258,6 @@
         {
           "dungeonIdx": 1,
           "selectableFloors": [
-            0,
             1
           ]
         }
@@ -783,7 +787,15 @@
           901091,
           901095,
           901099
-        ]
+        ],
+        "specialEventPool": [
+          971012,
+          971013,
+          971014,
+          971016,
+          971017
+        ],
+        "specialEventProb" : 0.75
       },
       "egoGiftPool": [
         9001,

@@ -319,6 +319,35 @@
     {
       "eventId": 10510,
       "egoGiftList": [ 2034, 2035 ]
+    },
+
+    {
+      "eventId": 971001,
+      "egoGiftList": [ 9701, 9702 ]
+    },
+    {
+      "eventId": 971003,
+      "egoGiftList": [ 9703, 9704, 9705 ]
+    },
+    {
+      "eventId": 971012,
+      "egoGiftList": [ 9712 ]
+    },
+    {
+      "eventId": 971013,
+      "egoGiftList": [ 9713 ]
+    },
+    {
+      "eventId": 971014,
+      "egoGiftList": [ 9714, 9715 ]
+    },
+    {
+      "eventId": 971016,
+      "egoGiftList": [ 9716 ]
+    },
+    {
+      "eventId": 971017,
+      "egoGiftList": [ 9719, 9720 ]
     }
   ]
 }
