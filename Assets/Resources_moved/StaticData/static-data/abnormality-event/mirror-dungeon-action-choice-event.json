@@ -1322,6 +1322,7 @@
                   {
                     "resultForm": {
                       "resultEffectCondition1": "IncludeSkillAttribute_SHAMROCK",
+                      "resultEffectTarget": "EveryAlly",
                       "resultEffect": "RecoverMpOnly_10",
                       "resultDescId": "Choice_90101601",
                       "nextBattleID": -1

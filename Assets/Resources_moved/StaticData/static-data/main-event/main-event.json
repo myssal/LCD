@@ -1,22 +1,6 @@
 {
   "list": [
     {
-      "eventId": "Walpu3",
-      "mainUIPhaseTypeList": [
-        "Lobby",
-        "Stage"
-      ],
-      "bannerSpriteId": "banner_LibraryBook",
-      "isBannerVisible": true
-    },
-    {
-      "eventId": "Walpu3Reward",
-      "mainUIPhaseTypeList": [
-        "Stage"
-      ],
-      "isBannerVisible": true
-    },
-    {
       "eventId": "MirrorDungeon",
       "mainUIPhaseTypeList": [
         "Lobby"

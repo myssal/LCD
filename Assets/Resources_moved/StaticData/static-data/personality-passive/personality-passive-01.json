@@ -180,14 +180,22 @@
       "personalityID": 10109,
       "battlePassiveList": [
         {
+          "level": 1,
+          "passiveIDList": [
+            1010902
+          ]
+        },
+        {
           "level": 2,
           "passiveIDList": [
+            1010902,
             1010901
           ]
         },
         {
           "level": 4,
           "passiveIDList": [
+            1010902,
             1010911
           ]
         }

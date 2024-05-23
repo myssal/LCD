@@ -3932,7 +3932,7 @@
               "scriptName": "CriticalDmgUpByRatio15"
             },
             {
-              "scriptName": "atkmulMeur30And15"
+              "scriptName": "atkmulMeur50And25"
             }
           ],
           "coinList": [
@@ -4074,7 +4074,7 @@
               }
             },
             {
-              "scriptName": "atkmulMeur30And15"
+              "scriptName": "atkmulMeur50And25"
             }
           ],
           "coinList": [

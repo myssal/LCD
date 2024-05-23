@@ -4247,7 +4247,7 @@
               "scale": 2,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveRandomDebuffSinTurnHead2"
+                  "scriptName": "GiveRandomDebuffSinTurnWithoutKeywordHead2"
                 }
               ]
             },
@@ -4281,7 +4281,7 @@
               "scale": 2,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveRandomDebuffSinTurnHead2"
+                  "scriptName": "GiveRandomDebuffSinTurnWithoutKeywordHead2"
                 }
               ]
             },
@@ -4315,7 +4315,7 @@
               "scale": 3,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveRandomDebuffSinTurnHead2"
+                  "scriptName": "GiveRandomDebuffSinTurnWithoutKeywordHead2"
                 }
               ]
             },
@@ -4399,7 +4399,7 @@
                   }
                 },
                 {
-                  "scriptName": "GiveRandomDebuffSinTurn2"
+                  "scriptName": "GiveRandomDebuffSinTurnWithoutKeyword2"
                 }
               ]
             }
@@ -4440,7 +4440,7 @@
                   }
                 },
                 {
-                  "scriptName": "GiveRandomDebuffSinTurn3"
+                  "scriptName": "GiveRandomDebuffSinTurnWithoutKeyword3"
                 }
               ]
             }
@@ -4498,7 +4498,7 @@
                   }
                 },
                 {
-                  "scriptName": "GiveRandomDebuffSinTurn3"
+                  "scriptName": "GiveRandomDebuffSinTurnWithoutKeyword3"
                 }
               ]
             }
@@ -4566,7 +4566,7 @@
                   }
                 },
                 {
-                  "scriptName": "GiveRandomDebuffSinTurn3"
+                  "scriptName": "GiveRandomDebuffSinTurnWithoutKeyword3"
                 }
               ]
             },
@@ -4587,7 +4587,7 @@
                   }
                 },
                 {
-                  "scriptName": "GiveRandomDebuffSinStack2"
+                  "scriptName": "GiveRandomDebuffSinStackWithoutKeyword2"
                 }
               ]
             },
@@ -4658,7 +4658,7 @@
                   }
                 },
                 {
-                  "scriptName": "GiveRandomDebuffSinTurn3"
+                  "scriptName": "GiveRandomDebuffSinTurnWithoutKeyword3"
                 }
               ]
             },
@@ -4679,7 +4679,7 @@
                   }
                 },
                 {
-                  "scriptName": "GiveRandomDebuffSinStack2"
+                  "scriptName": "GiveRandomDebuffSinStackWithoutKeyword2"
                 }
               ]
             },

@@ -4177,7 +4177,7 @@
                   }
                 },
                 {
-                  "scriptName": "GiveRandomDebuffSinStack3"
+                  "scriptName": "GiveRandomDebuffSinStackWithoutKeyword3"
                 },
                 {
                   "scriptName": "GiveBuffOnBreakOrKillTarget",
@@ -4246,7 +4246,7 @@
                   }
                 },
                 {
-                  "scriptName": "GiveRandomDebuffSinStack3"
+                  "scriptName": "GiveRandomDebuffSinStackWithoutKeyword3"
                 },
                 {
                   "scriptName": "RingFingerOutisThirdSkillCoinAbility",
@@ -4312,7 +4312,6 @@
           "gaksungLevel": 4,
           "attributeType": "SCARLET",
           "iconID": "1110904_4",
-          "defaultValue": 4,
           "abilityScriptList": [
             {
               "scriptName": "CoinScaleAdderOnStartTurnViaBuffCheck",

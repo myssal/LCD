@@ -21245,7 +21245,8 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_3",
-            "Battle_Cp4_Enemy_3"
+            "Battle_Cp4_Enemy_3",
+            "Battle_Cp4_DongbaekBattle"
           ],
           "allyPositionID": 33,
           "enemyPositionID": 29
@@ -33567,7 +33568,8 @@
           ],
           "bgmList": [
             "Battle_Cp4_Ally_3",
-            "Battle_Cp4_Enemy_3"
+            "Battle_Cp4_Enemy_3",
+            "Battle_Cp4_DongbaekBattle"
           ],
           "allyPositionID": 33,
           "enemyPositionID": 29

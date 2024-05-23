@@ -6,7 +6,12 @@
         {
           "id": 10555,
           "minPersonalityLevel": 45,
-          "minPersonalityGacksung" : 3
+          "minPersonalityGacksung": 3
+        },
+        {
+          "id": 10557,
+          "minPersonalityLevel": 45,
+          "minPersonalityGacksung": 3
         }
       ]
     }
