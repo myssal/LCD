@@ -365,6 +365,28 @@
           "value": 1
         }
       ]
+    },
+    {
+      "id": "ShieldManagerCryingToad",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": true,
+      "list": [
+        {
+          "ability": "ShieldManagerCryingToad",
+          "value": 0.6,
+          "buffData": {
+            "buffKeyword": "Sinking",
+            "activeRound": 0,
+            "value": 4
+          }
+        },
+        {
+          "ability": "LoseStackOnRoundEnd",
+          "value": 1
+        }
+      ],
+      "categoryKeywordList": [ "SHIELD_MANAGER" ]
     }
   ]
 }

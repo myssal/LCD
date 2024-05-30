@@ -67,5 +67,7 @@
   "rollingCoinUpdateUI": true,
   "isMirrorDungeonShopShowRefreshByChipWarningPopupOnce": false,
   "isUseMirrorDungeonKeywardRefresh": true,
-  "playStoryExitStageUnlockCodeLocalSave": true
+  "playStoryExitStageUnlockCodeLocalSave": true,
+  "isResetEgoStockOnAddSinStockByDungeon": false,
+  "isUseUnitSheildValueUI": true
 }

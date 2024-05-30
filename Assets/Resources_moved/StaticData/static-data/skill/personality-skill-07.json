@@ -3323,7 +3323,7 @@
                 {
                   "scriptName": "SwitchVibrationOnSucceedAttackViaVibrationSumOfStackAndTurn",
                   "buffData": {
-                    "buffKeyword": "Vibration_Collapse",
+                    "buffKeyword": "VibrationCollapse",
                     "target": "",
                     "buffOwner": "Target",
                     "stack": 0,

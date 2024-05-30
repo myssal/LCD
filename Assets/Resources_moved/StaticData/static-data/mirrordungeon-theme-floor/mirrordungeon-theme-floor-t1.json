@@ -2745,7 +2745,8 @@
       ],
       "uiConfigs": {
         "showBossIds": [
-          8144
+          8144,
+          8182
         ],
         "packSpriteId": "Canto_IV_hard",
         "textColor": "d8e9f4",

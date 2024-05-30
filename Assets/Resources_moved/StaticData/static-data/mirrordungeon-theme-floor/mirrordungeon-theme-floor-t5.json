@@ -832,6 +832,7 @@
       "uiConfigs": {
         "showBossIds": [
           8082,
+          8182,
           8199
         ],
         "packSpriteId": "Bleed_hard",

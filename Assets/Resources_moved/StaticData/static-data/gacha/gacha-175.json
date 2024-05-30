@@ -1,13 +1,16 @@
 {
   "list": [
     {
-      "id": 1,
+      "id": 175,
+      "startDate": "2023-11-16T03:00:00.000Z",
+      "endDate": "2024-06-13T01:00:00.000Z",
       "bannerInfo": {
-        "bannerType": "DEFAULT",
-        "priority": 0,
-        "pickupIdList": [],
-        "illustList": [ "gacha_1_illust" ],
-        "videoList": []
+        "endDate": "2024-06-13T01:00:00.000Z",
+        "bannerType": "TEMPORARY_MAIN",
+        "priority": 100,
+        "pickupIdList": [ 20606, 21006 ],
+        "illustList": [ "gacha_175_illust" ],
+        "videoList": [ "20606", "21006" ]
       },
       "payments": [
         {
@@ -15,7 +18,7 @@
           "gachaUIState": "Limit",
           "requiredItemId": 1,
           "requiredNum": 13,
-          "requiredChanceId": 1,
+          "requiredChanceId": 175,
           "count": 1
         },
         {
@@ -209,14 +212,15 @@
         },
         {
           "groupType": "EGO",
+          "samplingWithoutReplacement": true,
           "occupancyCaseList": [
             {
               "occupancyCase": "DEFAULT",
-              "occupancy": 130
+              "occupancy": 65
             },
             {
               "occupancyCase": "TENTH",
-              "occupancy": 130
+              "occupancy": 65
             }
           ],
           "elementType": "EGO",
@@ -231,18 +235,56 @@
             20404,
             20503,
             20603,
-            20606,
             20704,
             20803,
             20905,
             21004,
-            21006,
             21103,
             21203,
             21205
           ]
+        },
+        {
+          "groupType": "EGO_pickup",
+          "samplingWithoutReplacement": true,
+          "occupancyCaseList": [
+            {
+              "occupancyCase": "DEFAULT",
+              "occupancy": 65
+            },
+            {
+              "occupancyCase": "TENTH",
+              "occupancy": 65
+            }
+          ],
+          "elementType": "EGO",
+          "elementIdList": [
+            20606,
+            21006
+          ]
         }
-      ]
+      ],
+      "pitySystem": {
+        "endDate": "2024-06-13T01:00:00.000Z",
+        "catalog": [
+          {
+            "element": {
+              "type": "EGO",
+              "id": 20606,
+              "num": 1
+            },
+            "requiredPityPoint": 200
+          },
+          {
+            "element": {
+              "type": "EGO",
+              "id": 21006,
+              "num": 1
+            },
+            "requiredPityPoint": 200
+          }
+        ]
+      }
     }
   ]
 }
