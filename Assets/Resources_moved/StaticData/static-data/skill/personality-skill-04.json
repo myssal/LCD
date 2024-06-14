@@ -1536,8 +1536,7 @@
           "skillMotion": "S1",
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
-          "abilityScriptList": [
-          ],
+          "abilityScriptList": [],
           "coinList": [
             {
               "operatorType": "ADD",
@@ -2857,8 +2856,7 @@
           "skillMotion": "S1",
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
-          "abilityScriptList": [
-          ],
+          "abilityScriptList": [],
           "coinList": [
             {
               "operatorType": "ADD",
@@ -3053,8 +3051,7 @@
           "skillMotion": "S2",
           "viewType": "BATTLE",
           "parryingCloseType": "NEAR",
-          "abilityScriptList": [
-          ],
+          "abilityScriptList": [],
           "coinList": [
             {
               "operatorType": "ADD",
@@ -3535,7 +3532,7 @@
             {
               "operatorType": "ADD",
               "scale": 4,
-              "actionIndex" :  2,
+              "actionIndex": 2,
               "abilityScriptList": [
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
@@ -3613,7 +3610,7 @@
           "skillLevelCorrection": 3,
           "defaultValue": 4,
           "range": 7,
-          "arearange" :  4,
+          "arearange": 4,
           "canTeamKill": false,
           "canDuel": true,
           "canChangeTarget": true,
@@ -4082,6 +4079,657 @@
           ],
           "attributeType": "SCARLET",
           "iconID": "1040804_4"
+        }
+      ]
+    },
+    {
+      "id": 1040901,
+      "skillType": "SKILL",
+      "skillTier": 1,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "SCARLET",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "skillLevelCorrection": 1,
+          "defaultValue": 2,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffOnUse",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 2,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "abilityScriptList": [
+                {
+                  "scriptName": "YurodivyRyoshuFirstSkillCoinAbility_Vibration",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Self",
+                    "buffOwner": "Target",
+                    "stack": 0,
+                    "turn": -1,
+                    "activeRound": 0,
+                    "value": 0.5,
+                    "limit": 2
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 2,
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffOnUse",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 2,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "ParryingPowerResultAdderOnStartTurnSelfViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "",
+                "buffOwner": "Self",
+                "stack": 0,
+                "turn": 5,
+                "activeRound": 0,
+                "value": 2
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "abilityScriptList": [
+                {
+                  "scriptName": "YurodivyRyoshuFirstSkillCoinAbility_Vibration",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Self",
+                    "buffOwner": "Target",
+                    "stack": 0,
+                    "turn": -1,
+                    "activeRound": 0,
+                    "value": 0.5,
+                    "limit": 3
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 3,
+          "defaultValue": 3
+        },
+        {
+          "gaksungLevel": 4,
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffOnUse",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 2,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "ParryingPowerResultAdderOnStartTurnSelfViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "",
+                "buffOwner": "Self",
+                "stack": 0,
+                "turn": 4,
+                "activeRound": 0,
+                "value": 2
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "abilityScriptList": [
+                {
+                  "scriptName": "YurodivyRyoshuFirstSkillCoinAbility_Vibration",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Self",
+                    "buffOwner": "Target",
+                    "stack": 0,
+                    "turn": -1,
+                    "activeRound": 0,
+                    "value": 1,
+                    "limit": 4
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 4,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 2,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040902,
+      "skillType": "SKILL",
+      "skillTier": 2,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "AMBER",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "skillLevelCorrection": 1,
+          "defaultValue": 3,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffOnUse",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 2,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 3
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackHead",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "YurodivyRyoshuSecondSkillCoinAbility",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "buffOwner": "Self",
+                    "target": "Target",
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 0,
+                    "limit": 5
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 2,
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffOnUse",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 2,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "CoinScaleAdderViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Self",
+                "buffOwner": "Self",
+                "stack": 0,
+                "turn": 5,
+                "value": 1,
+                "activeRound": 0
+              }
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 3,
+          "defaultValue": 4
+        },
+        {
+          "gaksungLevel": 4,
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffOnUse",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 2,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "ParryingPowerResultAdderOnStartTurnSelfViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "",
+                "buffOwner": "Self",
+                "stack": 0,
+                "turn": 4,
+                "activeRound": 0,
+                "value": 1
+              }
+            },
+            {
+              "scriptName": "CoinScaleAdderViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Self",
+                "buffOwner": "Self",
+                "stack": 0,
+                "turn": 4,
+                "value": 1,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 3
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "YurodivyRyoshuSecondSkillCoinAbility",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "buffOwner": "Self",
+                    "target": "Target",
+                    "stack": 0,
+                    "turn": 1,
+                    "activeRound": 0,
+                    "limit": 5
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040903,
+      "skillType": "SKILL",
+      "skillTier": 3,
+      "requireIDList": [
+        "CheckAwakenLevel3"
+      ],
+      "skillData": [
+        {
+          "gaksungLevel": 3,
+          "attributeType": "SHAMROCK",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "skillLevelCorrection": 1,
+          "defaultValue": 4,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "S3",
+          "viewType": "ENCOUNTER",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffOnUse",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 2,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "CoinScaleAdderOnStartTurnViaBuffCheckAndUse",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "",
+                "buffOwner": "Self",
+                "stack": 0,
+                "turn": 10,
+                "value": 1
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "cutsceneStart": true,
+              "abilityScriptList": [
+                {
+                  "scriptName": "VibrationExplosionOnSucceedAttackThenLoseTargetVibrationTurn2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 4,
+          "abilityScriptList": [
+            {
+              "scriptName": "GiveBuffOnUse",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Self",
+                "buffOwner": "",
+                "stack": 0,
+                "turn": 2,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "CoinScaleAdderOnStartTurnViaBuffCheckAndUse",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "",
+                "buffOwner": "Self",
+                "stack": 0,
+                "turn": 8,
+                "value": 1
+              }
+            },
+            {
+              "scriptName": "CoinScaleAdderViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "",
+                "buffOwner": "Target",
+                "stack": 6,
+                "turn": 0,
+                "value": 1
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Vibration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "cutsceneStart": true,
+              "abilityScriptList": [
+                {
+                  "scriptName": "VibrationExplosionOnSucceedAttackThenLoseTargetVibrationTurn1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040904,
+      "skillType": "SKILL",
+      "skillTier": 1,
+      "requireIDList": [],
+      "skillData": [
+        {
+          "gaksungLevel": 1,
+          "attributeType": "NEUTRAL",
+          "atkType": "NONE",
+          "defType": "GUARD",
+          "skillTargetType": "FRONT",
+          "targetNum": 1,
+          "mpUsage": 0,
+          "skillLevelCorrection": 1,
+          "defaultValue": 7,
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillMotion": "Default",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "AddShieldOnUseViaBuffTurnCheck",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Self",
+                "buffOwner": "Self",
+                "stack": 0,
+                "turn": 1,
+                "activeRound": 0,
+                "value": 2,
+                "limit": 5
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 6
+            }
+          ]
+        },
+        {
+          "gaksungLevel": 4,
+          "abilityScriptList": [
+            {
+              "scriptName": "AddShieldOnUseViaBuffTurnCheck",
+              "buffData": {
+                "buffKeyword": "Vibration",
+                "target": "Self",
+                "buffOwner": "Self",
+                "stack": 0,
+                "turn": 1,
+                "activeRound": 0,
+                "value": 2,
+                "limit": 10
+              }
+            }
+          ],
+          "attributeType": "AMBER",
+          "iconID": "1040904_4"
         }
       ]
     }

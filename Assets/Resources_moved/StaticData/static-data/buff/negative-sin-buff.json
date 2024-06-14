@@ -138,6 +138,24 @@
         }
       ],
       "categoryKeywordList": [ "SIN", "VIBRATION" ]
+    },
+    {
+      "id": "VibrationNesting",
+      "subIdList": [ "Vibration" ],
+      "buffClass": "CollapsableSinBuff",
+      "attributeType": "AMBER",
+      "buffType": "Negative",
+      "canBeDespelled": true,
+      "list": [
+        {
+          "ability": "Vibration"
+        },
+        {
+          "ability": "LoseTurnOnRoundEnd",
+          "value": 1
+        }
+      ],
+      "categoryKeywordList": [ "SIN", "VIBRATION" ]
     }
   ]
 }

@@ -71,6 +71,15 @@
         8161,
         8220
       ]
+    },
+    {
+      "type": "UNDEF",
+      "condition": {
+        "appliedType": "NO_CONDITION"
+      },
+      "unitIds": [
+        8277, 8278, 8279
+      ]
     }
   ]
 }

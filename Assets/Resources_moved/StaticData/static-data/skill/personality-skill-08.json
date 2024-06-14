@@ -3118,7 +3118,7 @@
                   }
                 },
                 {
-                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffTurnSelf_Vibration5",
+                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffTurn_Vibration5",
                   "buffData": {
                     "buffKeyword": "Vulnerable",
                     "buffOwner": "Self",
@@ -3147,7 +3147,7 @@
                   }
                 },
                 {
-                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffTurnSelf_Vibration5",
+                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffTurn_Vibration5",
                   "buffData": {
                     "buffKeyword": "Vulnerable",
                     "buffOwner": "Self",

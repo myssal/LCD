@@ -117,6 +117,15 @@
       "list": [
 
       ]
+    },
+    {
+      "id": "FusionVibration",
+      "buffClass": "TypoOnlyBuff",
+      "buffType": "Neutral",
+      "canBeDespelled": false,
+      "list": [
+
+      ]
     }
   ]
 }

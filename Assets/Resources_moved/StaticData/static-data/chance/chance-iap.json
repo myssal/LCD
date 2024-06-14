@@ -129,6 +129,11 @@
       "max": 1,
       "resetTimeType": "WEEKLY"
     },
+    {
+      "id": 1150,
+      "max": 1,
+      "resetTimeType": "WEEKLY"
+    },
 
 
     {
@@ -173,6 +178,21 @@
     },
     {
       "id": 1149,
+      "max": 1,
+      "resetTimeType": "MONTHLY"
+    },
+    {
+      "id": 1151,
+      "max": 1,
+      "resetTimeType": "MONTHLY"
+    },
+    {
+      "id": 1152,
+      "max": 1,
+      "resetTimeType": "MONTHLY"
+    },
+    {
+      "id": 1153,
       "max": 1,
       "resetTimeType": "MONTHLY"
     },

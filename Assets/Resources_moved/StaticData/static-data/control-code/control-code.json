@@ -69,5 +69,8 @@
   "isUseMirrorDungeonKeywardRefresh": true,
   "playStoryExitStageUnlockCodeLocalSave": true,
   "isResetEgoStockOnAddSinStockByDungeon": false,
-  "isUseUnitSheildValueUI": true
+  "isUseUnitSheildValueUI": true,
+  "isCreateBlurMaterial": true,
+  "isBlockForceInitEgoStock": true,
+  "adjustEnemySubUnitLevelStageIds": [ 2066331 ]
 }

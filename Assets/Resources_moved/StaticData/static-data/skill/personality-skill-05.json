@@ -1123,7 +1123,7 @@
                   }
                 },
                 {
-                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffTurnSelf_Charge3",
+                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffTurn_Charge3",
                   "buffData": {
                     "buffKeyword": "SlashTakeDamageUp",
                     "target": "Target",
@@ -1208,7 +1208,7 @@
                   }
                 },
                 {
-                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffTurnSelf_Charge3",
+                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffTurn_Charge3",
                   "buffData": {
                     "buffKeyword": "SlashTakeDamageUp",
                     "target": "Target",
@@ -1238,7 +1238,7 @@
               }
             },
             {
-              "scriptName": "GiveBuffOnSuccessAttackUsingBuffTurnSelf_Charge3",
+              "scriptName": "GiveBuffOnSuccessAttackUsingBuffTurn_Charge3",
               "buffData": {
                 "buffKeyword": "SlashTakeDamageUp",
                 "target": "Target",
@@ -1282,7 +1282,7 @@
               "scale": 1,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffTurnSelf_Charge2",
+                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffTurn_Charge2",
                   "buffData": {
                     "buffKeyword": "DefenseDown",
                     "target": "Target",
@@ -1299,7 +1299,7 @@
               "scale": 1,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffTurnSelf_Charge2",
+                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffTurn_Charge2",
                   "buffData": {
                     "buffKeyword": "DefenseDown",
                     "target": "Target",
@@ -1316,7 +1316,7 @@
               "scale": 1,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffTurnSelf_Charge2",
+                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffTurn_Charge2",
                   "buffData": {
                     "buffKeyword": "DefenseDown",
                     "target": "Target",
@@ -1334,7 +1334,7 @@
               "cutsceneStart": true,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffTurnSelf_Charge2",
+                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffTurn_Charge2",
                   "buffData": {
                     "buffKeyword": "DefenseDown",
                     "target": "Target",
@@ -1371,7 +1371,7 @@
               "scale": 2,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffTurnSelf_Charge2",
+                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffTurn_Charge2",
                   "buffData": {
                     "buffKeyword": "DefenseDown",
                     "target": "Target",
@@ -1388,7 +1388,7 @@
               "scale": 2,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffTurnSelf_Charge2",
+                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffTurn_Charge2",
                   "buffData": {
                     "buffKeyword": "DefenseDown",
                     "target": "Target",
@@ -1405,7 +1405,7 @@
               "scale": 2,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffTurnSelf_Charge2",
+                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffTurn_Charge2",
                   "buffData": {
                     "buffKeyword": "DefenseDown",
                     "target": "Target",
@@ -1423,7 +1423,7 @@
               "cutsceneStart": true,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffTurnSelf_Charge2",
+                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffTurn_Charge2",
                   "buffData": {
                     "buffKeyword": "DefenseDown",
                     "target": "Target",
@@ -2745,7 +2745,7 @@
                   }
                 },
                 {
-                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffTurnSelf_Charge2",
+                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffTurn_Charge2",
                   "buffData": {
                     "buffKeyword": "Laceration",
                     "target": "Target",
@@ -2756,7 +2756,7 @@
                   }
                 },
                 {
-                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffTurnSelf_Charge3",
+                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffTurn_Charge3",
                   "buffData": {
                     "buffKeyword": "Laceration",
                     "target": "Target",
@@ -2784,7 +2784,7 @@
                   }
                 },
                 {
-                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffTurnSelf_Charge2",
+                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffTurn_Charge2",
                   "buffData": {
                     "buffKeyword": "Laceration",
                     "target": "Target",
@@ -2795,7 +2795,7 @@
                   }
                 },
                 {
-                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffTurnSelf_Charge3",
+                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffTurn_Charge3",
                   "buffData": {
                     "buffKeyword": "Laceration",
                     "target": "Target",
@@ -2847,7 +2847,7 @@
                   }
                 },
                 {
-                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffTurnSelf_Charge2",
+                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffTurn_Charge2",
                   "buffData": {
                     "buffKeyword": "Laceration",
                     "target": "Target",
@@ -2858,7 +2858,7 @@
                   }
                 },
                 {
-                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffTurnSelf_Charge3",
+                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffTurn_Charge3",
                   "buffData": {
                     "buffKeyword": "Laceration",
                     "target": "Target",
@@ -2886,7 +2886,7 @@
                   }
                 },
                 {
-                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffTurnSelf_Charge2",
+                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffTurn_Charge2",
                   "buffData": {
                     "buffKeyword": "Laceration",
                     "target": "Target",
@@ -2897,7 +2897,7 @@
                   }
                 },
                 {
-                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffTurnSelf_Charge3",
+                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffTurn_Charge3",
                   "buffData": {
                     "buffKeyword": "Laceration",
                     "target": "Target",

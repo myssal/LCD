@@ -1,0 +1,34 @@
+{
+  "list": [
+    {
+      "id": 8280,
+      "unitScriptID": "ShadowAbnormality",
+      "unitKeywordList": [ "SHADOW_ENEMY" ],
+      "classType": "ZAYIN",
+      "attributeType": "AZURE",
+      "isOriginNormalEnemy": true,
+      "hasMp": true,
+      "patternID": "ShadowEnemy_EgoTest",
+      "startActionSlotNum": 1,
+      "maxActionSlotNum": 1,
+      "abnormalityPartList": [
+        828001
+      ],
+      "overridePersonalityId": 10206,
+      "attributeList": [
+        {
+          "skillId": 1020601,
+          "number": 3
+        },
+        {
+          "skillId": 1020602,
+          "number": 1
+        },
+        {
+          "skillId": 1020603,
+          "number": 1
+        }
+      ]
+    }
+  ]
+}

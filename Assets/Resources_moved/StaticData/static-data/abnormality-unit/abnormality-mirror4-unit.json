@@ -16364,7 +16364,7 @@
       "panicType": 1011,
       "lowMorale": -25,
       "panic": -45,
-      "patternID": "EgoAwaken_Dongbaek",
+      "patternID": "EgoAwaken_Dongbaek_Mirror",
       "phaseIDList": [
         8142,
         81422

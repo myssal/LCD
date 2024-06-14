@@ -604,6 +604,21 @@
       "id": 137,
       "condition": "GetEGO",
       "conditionRefId": 20606
+    },
+    {
+      "id": 138,
+      "condition": "GetPersonality",
+      "conditionRefId": 10609
+    },
+    {
+      "id": 139,
+      "condition": "GetPersonality",
+      "conditionRefId": 10409
+    },
+    {
+      "id": 140,
+      "condition": "GetEGO",
+      "conditionRefId": 20206
     }
   ]
 }

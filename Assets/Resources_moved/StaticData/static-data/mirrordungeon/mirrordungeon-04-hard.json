@@ -141,7 +141,8 @@
           "isActive": true
         },
         "refreshShop": {
-          "isActive": true
+          "isActive": true,
+          "shopKeywordRefreshCostAdder": 125
         }
       },
 
@@ -150,7 +151,7 @@
       "floors": [
         {
           "count": 0,
-          "eventNodePercentage":20,
+          "eventNodePercentage":0.20,
           "abnormalityBattlePercentage":0,
           "hardBattlePercentage":0,
           "fixedEncounters": [
@@ -164,9 +165,9 @@
         },
         {
           "count": 1,
-          "eventNodePercentage":20,
-          "abnormalityBattlePercentage":12,
-          "hardBattlePercentage":8,
+          "eventNodePercentage":0.20,
+          "abnormalityBattlePercentage":0.12,
+          "hardBattlePercentage":0.08,
           "fixedEncounters": [
             {
               "targetSector":1,
@@ -178,9 +179,9 @@
         },
         {
           "count": 2,
-          "eventNodePercentage":20,
-          "abnormalityBattlePercentage":15,
-          "hardBattlePercentage":10,
+          "eventNodePercentage":0.20,
+          "abnormalityBattlePercentage":0.15,
+          "hardBattlePercentage":0.10,
           "fixedEncounters": [
             {
               "targetSector":1,
@@ -192,9 +193,9 @@
         },
         {
           "count": 3,
-          "eventNodePercentage":25,
-          "abnormalityBattlePercentage":18,
-          "hardBattlePercentage":12,
+          "eventNodePercentage":0.25,
+          "abnormalityBattlePercentage":0.18,
+          "hardBattlePercentage":0.12,
           "fixedEncounters": [
             {
               "targetSector":1,
@@ -211,9 +212,9 @@
         },
         {
           "count": 4,
-          "eventNodePercentage":25,
-          "abnormalityBattlePercentage":18,
-          "hardBattlePercentage":12,
+          "eventNodePercentage":0.25,
+          "abnormalityBattlePercentage":0.18,
+          "hardBattlePercentage":0.12,
           "fixedEncounters": [
             {
               "targetSector":1,

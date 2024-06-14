@@ -7530,7 +7530,7 @@
               "unitLevel": 40
             }
           ],
-          "subUnitList":[
+          "subUnitList": [
             {
               "unitID": 8091,
               "unitCount": 1,
@@ -15202,7 +15202,7 @@
               "unitLevel": 40
             }
           ],
-          "subUnitList":[
+          "subUnitList": [
             {
               "unitID": 8091,
               "unitCount": 1,
@@ -22535,7 +22535,7 @@
               "unitLevel": 40
             }
           ],
-          "subUnitList":[
+          "subUnitList": [
             {
               "unitID": 8091,
               "unitCount": 1,
@@ -27012,7 +27012,7 @@
               "unitLevel": 40
             }
           ],
-          "subUnitList":[
+          "subUnitList": [
             {
               "unitID": 8091,
               "unitCount": 1,
@@ -31804,7 +31804,7 @@
               "unitLevel": 40
             }
           ],
-          "subUnitList":[
+          "subUnitList": [
             {
               "unitID": 8091,
               "unitCount": 1,
@@ -32398,7 +32398,7 @@
               "unitLevel": 40
             }
           ],
-          "subUnitList":[
+          "subUnitList": [
             {
               "unitID": 8091,
               "unitCount": 1,
@@ -37251,6 +37251,277 @@
       "abnormalityEventList": [
         855001
       ],
+      "attackType": "",
+      "attributeType": ""
+    },
+    {
+      "id": 2066321,
+      "stageLevel": 40,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp6.5-1_DampishAlley_v1"
+          },
+          "unitList": [
+            {
+              "unitID": 8341,
+              "unitCount": 4,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp6_5_TKT_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "stageScriptNameAfterClear": "FilterAddForce_Abnormality_NonMapFilter",
+      "attackType": "",
+      "attributeType": ""
+    },
+    {
+      "id": 2066322,
+      "stageLevel": 40,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp6.5-1_DampishAlley_v1"
+          },
+          "unitList": [
+            {
+              "unitID": 8342,
+              "unitCount": 4,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp6_5_TKT_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "stageScriptNameAfterClear": "FilterAddForce_Abnormality_NonMapFilter",
+      "attackType": "",
+      "attributeType": ""
+    },
+    {
+      "id": 2066323,
+      "stageLevel": 40,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp6.5-1_DampishAlley"
+          },
+          "unitList": [
+            {
+              "unitID": 8340,
+              "unitCount": 4,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp6_5_TKT_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "stageScriptNameAfterClear": "FilterAddForce_Abnormality_NonMapFilter",
+      "attackType": "",
+      "attributeType": ""
+    },
+    {
+      "id": 2066324,
+      "stageLevel": 40,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp6.5-1_DampishAlley"
+          },
+          "unitList": [
+            {
+              "unitID": 8340,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 8341,
+              "unitCount": 2,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp6_5_TKT_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "stageScriptNameAfterClear": "FilterAddForce_Abnormality_NonMapFilter",
+      "attackType": "",
+      "attributeType": ""
+    },
+    {
+      "id": 2066325,
+      "stageLevel": 40,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp6.5-1_DampishAlley"
+          },
+          "unitList": [
+            {
+              "unitID": 8341,
+              "unitCount": 2,
+              "unitLevel": 40
+            },
+            {
+              "unitID": 8342,
+              "unitCount": 2,
+              "unitLevel": 40
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp6_5_TKT_Enemy"
+          ]
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "stageScriptNameAfterClear": "FilterAddForce_Abnormality_NonMapFilter",
+      "attackType": "",
+      "attributeType": ""
+    },
+    {
+      "id": 2066331,
+      "stageLevel": 40,
+      "stageType": "Abnormality",
+      "participantInfo": {
+        "min": 6,
+        "max": 6
+      },
+      "waveList": [
+        {
+          "battleMapInfo": {
+            "mapName": "Cp6.5-1_ClockBoss"
+          },
+          "unitList": [
+            {
+              "unitID": 8277,
+              "unitCount": 1,
+              "unitLevel": 43
+            },
+            {
+              "unitID": 8279,
+              "unitCount": 3,
+              "unitLevel": 43
+            }
+          ],
+          "subUnitList": [
+            {
+              "unitID": 8278,
+              "unitCount": 1,
+              "unitLevel": 45,
+              "isHide": true
+            }
+          ],
+          "bgmList": [
+            "Battle_Cp6_5_TKT_Boss"
+          ],
+          "allyPositionID": 84,
+          "enemyPositionID": 85
+        }
+      ],
+      "staminaCost": 0,
+      "recommendedLevel": 40,
+      "turnLimit": 99,
+      "questlist": [
+        {
+          "args": [
+            "10"
+          ],
+          "localizeId": 1
+        }
+      ],
+      "rewardList": [],
+      "stageScriptNameAfterClear": "8278MD",
       "attackType": "",
       "attributeType": ""
     }

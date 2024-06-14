@@ -1802,8 +1802,15 @@
           "relatedEventId": "Walpu3",
           "uiConfig": {
             "illustId": "story-id_E061X",
-            "customChapterText": 1
+            "customChapterText": 1,
+            "mapAreaId": 9109
           }
+        },
+        {
+          "chapterId": 91,
+          "subchapterId": 9109,
+          "type": "SUB",
+          "relatedEventId": "TKT"
         }
       ]
     },
@@ -2293,6 +2300,144 @@
             }
           ],
           "relatedMainEventId": "Walpu3"
+        },
+        {
+          "id": 9109,
+          "illustSprName": "9109",
+          "region": "t",
+          "sprName": "chapter6.5_tkt",
+          "subChapterNumber": "6.5",
+          "mapSizeRow": 2,
+          "mapSizeColoumn": 6,
+          "unlockCondition": {
+            "unlockCode": 106
+          },
+          "stageNodeList": [
+            {
+              "nodeId": 910901,
+              "stageId": 910901,
+              "posx": 819,
+              "posy": 920,
+              "upper": 1,
+              "stageNodeType": "STORY"
+            },
+            {
+              "nodeId": 910902,
+              "stageId": 910902,
+              "posx": 1416,
+              "posy": 1070,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 910903,
+              "stageId": 910903,
+              "posx": 1904,
+              "posy": 1214,
+              "upper": 1,
+              "stageNodeType": "STORY"
+            },
+            {
+              "nodeId": 910904,
+              "stageId": 910904,
+              "posx": 2380,
+              "posy": 1438,
+              "upper": 1,
+              "stageNodeType": "STORY"
+            },
+            {
+              "nodeId": 910905,
+              "stageId": 910905,
+              "posx": 3038,
+              "posy": 1871,
+              "upper": 1,
+              "stageNodeType": "STORY"
+            },
+            {
+              "nodeId": 910906,
+              "stageId": 910906,
+              "posx": 3434,
+              "posy": 2290,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 910907,
+              "stageId": 910907,
+              "posx": 3847,
+              "posy": 2529,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 910908,
+              "stageId": 910908,
+              "posx": 4372,
+              "posy": 2823,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 910909,
+              "stageId": 910909,
+              "posx": 5612,
+              "posy": 2832,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 910910,
+              "stageId": 910910,
+              "posx": 6169,
+              "posy": 2702,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 910911,
+              "stageId": 910911,
+              "posx": 6463,
+              "posy": 2213,
+              "upper": 1,
+              "stageNodeType": "STORY"
+            },
+            {
+              "nodeId": 910912,
+              "stageId": 910912,
+              "posx": 6360,
+              "posy": 1625,
+              "upper": 1,
+              "stageNodeType": "STORY"
+            },
+            {
+              "nodeId": 910913,
+              "stageId": 910913,
+              "posx": 6814,
+              "posy": 1198,
+              "upper": 1,
+              "stageNodeType": "STORY"
+            },
+            {
+              "nodeId": 910914,
+              "stageId": 910914,
+              "posx": 8274,
+              "posy": 1301,
+              "upper": 1,
+              "stageNodeType": "NORMAL"
+            },
+            {
+              "nodeId": 910915,
+              "stageId": 910901,
+              "posx": 10586,
+              "posy": 996,
+              "upper": 1,
+              "stageNodeType": "DUNGEON"
+            }
+          ],
+          "nextMainchapterid": -1,
+          "nextSubchapterid": -1,
+          "lastnodeid": 910915,
+          "relatedMainEventId": "TKT"
         }
       ]
     }

@@ -42,8 +42,8 @@
       ],
       "startDate": "2024-01-01T03:00:00.000Z",
       "startDateForUI": "2024-02-01T03:00:00.000Z",
-      "endDate": "2024-06-20T01:00:00.000Z",
-      "endDateforUI": "2024-06-20T01:00:00.000Z",
+      "endDate": "2024-12-31T01:00:00.000Z",
+      "endDateforUI": "2024-12-31T01:00:00.000Z",
       "bannerRewards": [
         {
           "requiredConditions": [

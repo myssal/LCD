@@ -119,6 +119,21 @@
             ],
             "profileId": "butler_ryoshu_profile",
             "analysisId": "butler_ryoshu_analysis"
+          },
+          {
+            "personalityId": 10409,
+            "releaseDay": 20240613,
+            "cv_Id": "",
+            "personalityStoryList": [
+              {
+                "storyId": "P10409",
+                "lockCondition": "gacksung",
+                "order": 2,
+                "reward":{"type":"ITEM","id":2,"num":40}
+              }
+            ],
+            "profileId": "yuro_ryoshu_profile",
+            "analysisId": "yuro_ryoshu_analysis"
           }
         ]
     }

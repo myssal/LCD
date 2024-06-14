@@ -8527,7 +8527,7 @@
       "panicType": 1011,
       "lowMorale": -10,
       "panic": -45,
-      "patternID": "Dongbaek_UmbrellaFox",
+      "patternID": "Dongbaek_UmbrellaFox_Mirror",
       "abnormalityPartList": [
         814301
       ],

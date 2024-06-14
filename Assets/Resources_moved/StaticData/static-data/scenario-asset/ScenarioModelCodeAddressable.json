@@ -2831,6 +2831,203 @@
       "enNickName": "Sinner #7",
       "staringSide": "left",
       "nameTagColor": "#4e3076"
+    },
+    {
+      "name": "탐정홍루",
+      "krname": "홍루",
+      "jpname": "ホンル",
+      "enname": "Hong Lu",
+      "fileName": "HongLu_detect",
+      "nickName": "6번 수감자",
+      "jpNickName": "囚人6番",
+      "enNickName": "Sinner #6",
+      "staringSide": "middle",
+      "bottomYPos": -50,
+      "portraitSpritePath": "StoryLog_HongLu_detect",
+      "nameTagColor": "#5bffde"
+    },
+    {
+      "name": "탐정로쟈",
+      "krname": "로쟈",
+      "jpname": "ロージャ",
+      "enname": "Rodion",
+      "fileName": "Rodion_detect",
+      "nickName": "9번 수감자",
+      "jpNickName": "囚人9番",
+      "enNickName": "Sinner #9",
+      "staringSide": "left",
+      "bottomYPos": 10,
+      "portraitSpritePath": "StoryLog_Rodion_detect",
+      "nameTagColor": "#820000"
+    },
+    {
+      "name": "탐정료슈",
+      "krname": "료슈",
+      "jpname": "良秀",
+      "enname": "Ryōshū",
+      "fileName": "Ryoshu_detect",
+      "nickName": "4번 수감자",
+      "jpNickName": "囚人4番",
+      "enNickName": "Sinner #4",
+      "staringSide": "right",
+      "portraitSpritePath": "StoryLog_Ryoshu_detect",
+      "nameTagColor": "#cf0000"
+    },
+    {
+      "name": "T사대표",
+      "krname": "T사 대표",
+      "fileName": "T_assistant",
+      "portraitSpritePath": "StoryLog_T_assistant",
+      "textSpeed":1.5,
+      "nameTagColor": "#96693b"
+    },
+    {
+      "name": "진짜T사대표",
+      "krname": "T사 대표",
+      "fileName": "T_DP",
+      "portraitSpritePath": "StoryLog_T_DP",
+      "textSpeed":1.8,
+      "nameTagColor": "#96693b"
+    },
+    {
+      "name": "범블",
+      "krname": "범블",
+      "jpname": "バンブル",
+      "enname": "Bumble",
+      "fileName": "Bumble",
+      "portraitSpritePath": "StoryLog_bumble",
+      "textSpeed":2,
+      "nameTagColor": "#96693b"
+    },
+    {
+      "name": "T사4등급",
+      "krname": "T사4등급",
+      "fileName": "T_grade4",
+      "portraitSpritePath": "StoryLog_T_grade3",
+      "nameTagColor": "#96693b"
+    },
+    {
+      "name": "T사사무직",
+      "krname": "T사사무직",
+      "fileName": "T_officer",
+      "portraitSpritePath": "StoryLog_T_officer",
+      "nameTagColor": "#96693b"
+    },
+    {
+      "name": "시간살인마",
+      "krname": "시간 살인마",
+      "jpname": "良時間殺人鬼",
+      "enname": "The Time Ripper",
+      "fileName": "TimeRipper_normal",
+      "nickName": "뒤틀림",
+      "jpNickName": "囚ねじれ",
+      "enNickName": "Distortion",
+      "portraitSpritePath": "StoryLog_TimeRipper_normal",
+      "bottomYPos": -120,
+      "nameTagColor": "#040001",
+      "nameFontColor": "#FFFFFF"
+    },
+    {
+      "name": "시간살인마변신",
+      "krname": "시간 살인마",
+      "jpname": "時間殺人鬼",
+      "enname": "The Time Ripper",
+      "fileName": "TimeRipper_trans",
+      "nickName": "뒤틀림",
+      "jpNickName": "ねじれ",
+      "enNickName": "Distortion",
+      "portraitSpritePath": "StoryLog_TimeRipper_trans",
+      "scale": 0.8,
+      "bottomYPos": 170,
+      "nameTagColor": "#040001",
+      "nameFontColor": "#FFFFFF"
+    },
+    {
+      "name": "유로지비대장",
+      "krname": "유로지비 대장",
+      "jpname": "ユロージヴィ隊長",
+      "enname": "Yurodiviye Captain",
+      "fileName": "Yurodivy_Leader",
+      "nickName": "20구 유로지비",
+      "jpNickName": "20区 ユロージヴィ",
+      "enNickName": "District 20 Yurodivy",
+      "portraitSpritePath": "StoryLog_Yurodivy_Leader",
+      "nameTagColor": "#c8c8c0"
+    },
+    {
+      "name": "유로지비멤버1",
+      "krname": "유로지비 멤버",
+      "fileName": "Yurodivy_1",
+      "portraitSpritePath": "StoryLog_Yurodivy_1",
+      "nameTagColor": "#c8c8c0"
+    },
+    {
+      "name": "유로지비멤버2",
+      "krname": "유로지비 멤버",
+      "fileName": "Yurodivy_2",
+      "portraitSpritePath": "StoryLog_Yurodivy_2",
+      "nameTagColor": "#c8c8c0"
+    },
+    {
+      "name": "시살동생",
+      "krname": "동생",
+      "fileName": "RipperBro",
+      "textSpeed":0.3,
+      "portraitSpritePath": "StoryLog_RipperBro",
+      "nameTagColor": "#96693b"
+    },
+    {
+      "name": "감속더미",
+      "krname": "감속더미",
+      "fileName": "Nodong",
+      "textSpeed":0.3,
+      "nameTagColor": "#96693b"
+    },
+    {
+      "name": "돈키T3",
+      "krname": "돈키T3",
+      "fileName": "DonQuiT3",
+      "nameTagColor": "#96693b"
+    },
+    {
+      "name": "다친유로지비대장",
+      "krname": "유로지비 대장",
+      "jpname": "ユロージヴィ隊長",
+      "enname": "Yurodiviye Captain",
+      "fileName": "Yurodivy_LeaderH",
+      "nickName": "20구 유로지비",
+      "jpNickName": "20区 ユロージヴィ",
+      "enNickName": "District 20 Yurodivy",
+      "portraitSpritePath": "StoryLog_Yurodivy_Leader",
+      "nameTagColor": "#c8c8c0"
+    },
+    {
+      "name": "마이",
+      "krname": "마이",
+      "fileName": "T_newbie",
+      "portraitSpritePath": "StoryLog_T_newbie",
+      "nameTagColor": "#96693b"
+    },
+    {
+      "name": "T사2등급",
+      "krname": "T사2등급",
+      "fileName": "T_grade2",
+      "portraitSpritePath": "StoryLog_T_grade2",
+      "nameTagColor": "#96693b"
+    },
+    {
+      "name": "다친시간살인마변신",
+      "krname": "시간 살인마",
+      "jpname": "時間殺人鬼",
+      "enname": "The Time Ripper",
+      "fileName": "TimeRipper_transH",
+      "nickName": "뒤틀림",
+      "jpNickName": "ねじれ",
+      "enNickName": "Distortion",
+      "portraitSpritePath": "StoryLog_TimeRipper_trans",
+      "scale": 0.8,
+      "bottomYPos": 170,
+      "nameTagColor": "#96693b"
     }
   ]
 }

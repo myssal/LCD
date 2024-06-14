@@ -46,119 +46,6 @@
 			{
 				"aTier": 1,
 				"bTier": 1,
-				"mismatchedAttributeResult": 1,
-				"matchedAttributeResult": 2
-			},
-			{
-				"aTier": 1,
-				"bTier": 2,
-				"mismatchedAttributeResult": 1,
-				"matchedAttributeResult": 2
-			},
-			{
-				"aTier": 1,
-				"bTier": 3,
-				"mismatchedAttributeResult": 2,
-				"matchedAttributeResult": 2
-			},
-			{
-				"aTier": 2,
-				"bTier": 2,
-				"matchedAttributeResult": 2,
-				"mismatchedAttributeResult": 2
-			},
-			{
-				"aTier": 2,
-				"bTier": 3,
-				"matchedAttributeResult": 2,
-				"mismatchedAttributeResult": 2
-			},
-			{
-				"aTier": 3,
-				"bTier": 3,
-				"mismatchedAttributeResult": 3,
-				"matchedAttributeResult": 3
-			}
-		],
-		"combineThree": [
-			{
-				"aTier": 1,
-				"bTier": 1,
-				"cTier": 1,
-				"mismatchedAttributeResult": 1,
-				"matchedAttributeResult": 2
-			},
-			{
-				"aTier": 1,
-				"bTier": 1,
-				"cTier": 2,
-				"mismatchedAttributeResult": 1,
-				"matchedAttributeResult": 2
-			},
-			{
-				"aTier": 1,
-				"bTier": 1,
-				"cTier": 3,
-				"mismatchedAttributeResult": 2,
-				"matchedAttributeResult": 2
-			},
-			{
-				"aTier": 1,
-				"bTier": 2,
-				"cTier": 2,
-				"mismatchedAttributeResult": 2,
-				"matchedAttributeResult": 2
-			},
-			{
-				"aTier": 1,
-				"bTier": 2,
-				"cTier": 3,
-				"mismatchedAttributeResult": 2,
-				"matchedAttributeResult": 3
-			},
-			{
-				"aTier": 1,
-				"bTier": 3,
-				"cTier": 3,
-				"mismatchedAttributeResult": 3,
-				"matchedAttributeResult": 3
-			},
-			{
-				"aTier": 2,
-				"bTier": 2,
-				"cTier": 2,
-				"mismatchedAttributeResult": 3,
-				"matchedAttributeResult": 3
-			},
-			{
-				"aTier": 2,
-				"bTier": 2,
-				"cTier": 3,
-				"mismatchedAttributeResult": 3,
-				"matchedAttributeResult": 3
-			},
-			{
-				"aTier": 2,
-				"bTier": 3,
-				"cTier": 3,
-				"mismatchedAttributeResult": 3,
-				"matchedAttributeResult": 4
-			},
-			{
-				"aTier": 3,
-				"bTier": 3,
-				"cTier": 3,
-				"mismatchedAttributeResult": 4,
-				"matchedAttributeResult": 4
-			}
-		]
-	},
-	"newEgoGiftCombineTierTable": {
-		"maximumAvailableTier": 3,
-		"combineTwo": [
-			{
-				"aTier": 1,
-				"bTier": 1,
 				"resultTier": 1
 			},
 			{
@@ -339,6 +226,51 @@
 				"aEgoGiftId": 9713,
 				"bEgoGiftId": 9715,
 				"resultEgoGiftId": 9718
+			},
+
+
+
+			{
+				"aEgoGiftId": 2036,
+				"bEgoGiftId": 2039,
+				"resultEgoGiftId": 2043
+			},
+			{
+				"aEgoGiftId": 2036,
+				"bEgoGiftId": 2040,
+				"resultEgoGiftId": 2044
+			},
+			{
+				"aEgoGiftId": 2037,
+				"bEgoGiftId": 2039,
+				"resultEgoGiftId": 2045
+			},
+			{
+				"aEgoGiftId": 2037,
+				"bEgoGiftId": 2040,
+				"resultEgoGiftId": 2046
+			},
+
+
+			{
+				"aEgoGiftId": 9721,
+				"bEgoGiftId": 9724,
+				"resultEgoGiftId": 9728
+			},
+			{
+				"aEgoGiftId": 9721,
+				"bEgoGiftId": 9725,
+				"resultEgoGiftId": 9729
+			},
+			{
+				"aEgoGiftId": 9722,
+				"bEgoGiftId": 9724,
+				"resultEgoGiftId": 9730
+			},
+			{
+				"aEgoGiftId": 9722,
+				"bEgoGiftId": 9725,
+				"resultEgoGiftId": 9731
 			}
 		]
 	},
@@ -350,7 +282,6 @@
 	"additionalChipForNewTheme": 3,
 	"shopRefreshCostPerCount": 25,
 	"shopRefreshChipForAnyCount": 10,
-	"shopKeywordRefreshCostAdder": 125,
 	"acquireChipPerFloor": [ 5, 10, 15, 25, 40 ],
 	"startRestingCount": 0,
 	"startEgoGiftPoolCreatedMaxCount": 2,

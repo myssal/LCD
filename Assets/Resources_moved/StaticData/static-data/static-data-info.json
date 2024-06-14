@@ -57,7 +57,8 @@
             "abnormality-part-ycgd",
             "abnormality-part-a1c6p2",
             "abnormality-part-a1c6p3",
-            "abnormality-part-wp3"
+            "abnormality-part-wp3",
+            "abnormality-part-tkt"
           ]
         },
         {
@@ -79,7 +80,8 @@
             "abnormality-unit-ycgd",
             "abnormality-unit-a1c6p2",
             "abnormality-unit-a1c6p3",
-            "abnormality-unit-wp3"
+            "abnormality-unit-wp3",
+            "abnormality-unit-tkt"
           ]
         },
         {
@@ -121,7 +123,8 @@
             "buff-enemy-a1c6p2",
             "buff-enemy-a1c6p3",
             "buff-enemy-wp3",
-            "special-buff"
+            "special-buff",
+            "buff-tkt"
           ]
         },
         {
@@ -131,7 +134,8 @@
             "panic-buff-a1c6p1",
             "panic-buff-a1c6p2",
             "panic-buff-a1c6p3",
-            "panic-overwrite-buff"
+            "panic-overwrite-buff",
+            "panic-buff-tkt"
           ]
         },
         {
@@ -195,11 +199,10 @@
             "ego-gift-mirrordungeon2",
             "ego-gift-mirrordungeon3",
             "ego-gift-mirrordungeon4",
-            "ego-gift-story-reuse-at-mirrordungeon4",
             "ego-gift-hellschickendungeon",
             "hidden-ego-gift-mirrordungeon",
             "ego-gift-story-ycgd",
-            "ego-gift-mirrordungeon4"
+            "ego-gift-story-tkt"
           ]
         },
         {
@@ -217,7 +220,8 @@
             "enemy-a1c6p1",
             "enemy-a1c6p2",
             "enemy-a1c6p3",
-            "enemy-mirrordungeon4"
+            "enemy-mirrordungeon4",
+            "enemy-tkt"
           ]
         },
         {
@@ -231,7 +235,9 @@
                 "gacha-6",
                 "gacha-7",
 				"gacha-174",
-				"gacha-175"
+				"gacha-175",
+				"gacha-176",
+				"gacha-177"
             ]
         },
         {
@@ -249,6 +255,7 @@
                 "item-piece",
                 "item-piece-a1c5",
                 "item-20000-event",
+                "item-20000-event-a1c6",
                 "item-piece-a1c6",
                 "item-1100-season-randompackage-a1c6",
                 "item-1200-season-optionalpackage-a1c6",
@@ -273,7 +280,8 @@
             "passive-enemy-event1",
             "passive-enemy-refraction3",
             "passive-enemy-ycgd",
-            "passive-enemy-wp3"
+            "passive-enemy-wp3",
+            "passive-enemy-tkt"
           ]
         },
         {
@@ -367,7 +375,9 @@
             "skill-abnormality-a1c6p2",
             "skill-abnormality-a1c6p3",
             "ego-skill-a1c6p3",
-            "skill-abnormality-wp3"
+            "skill-abnormality-wp3",
+            "skill-enemy-tkt",
+            "skill-abnormality-tkt"
           ]
         },
         {
@@ -389,7 +399,8 @@
             "storybattle-a1c6p1",
             "storybattle-a1c6p2",
             "storybattle-a1c6p3",
-            "storybattle-wp3"
+            "storybattle-wp3",
+            "storybattle-tkt"
           ]
         },
         {
@@ -403,7 +414,8 @@
                 "dungeonbattle-a1c5p1",
                 "dungeonbattle-a1c5p2",
                 "dungeonbattle-a1c5p3",
-                "dungeonbattle-ycgd"
+                "dungeonbattle-ycgd",
+                "dungeonbattle-tkt"
             ]
         },
         {
@@ -417,7 +429,8 @@
             "abbattle-a1c5p1",
             "abbattle-a1c5p2",
             "abbattle-a1c5p3",
-            "abbattle-ycgd"
+            "abbattle-ycgd",
+            "abbattle-tkt"
           ]
         },
         {
@@ -456,7 +469,8 @@
                 "stagenodereward91-8",
                 "stagenodereward-a1c6p1",
                 "stagenodereward-a1c6p2",
-                "stagenodereward-a1c6p3"
+                "stagenodereward-a1c6p3",
+                "stagenodereward-tkt"
             ]
         },
         {
@@ -472,7 +486,8 @@
             "fileList": [
                 "dungeon",
                 "dungeon-a1c5p3",
-                "dungeon-ycgd"
+                "dungeon-ycgd",
+                "dungeon-tkt"
             ]
         },
         {
@@ -631,7 +646,8 @@
               "storytheater-other-9014",
               "storytheater-other-9107",
               "storytheater-other-9015",
-              "storytheater-other-9016"
+              "storytheater-other-9016",
+              "storytheater-other-9109"
             ]
         },
         {
@@ -797,7 +813,8 @@
                 "mirror-abnormality-part-status-ui-position",
                 "ab-part-status-ui-position-a1c5p1",
                 "ab-part-status-ui-position-a1c5p2",
-                "ab-part-status-ui-position-a1c5p3"
+                "ab-part-status-ui-position-a1c5p3",
+                "ab-part-status-ui-position-tkt"
             ]
         },
         {
@@ -820,7 +837,8 @@
             "fileList": [
                 "stage-progress-reward",
                 "stage-progress-reward-a1c5p3",
-                "stage-progress-reward-a1c6p3"
+                "stage-progress-reward-a1c6p3",
+                "stage-progress-reward-tkt"
             ]
         },
         {
@@ -925,14 +943,16 @@
             "dataClass": "story-mirror-dungeon",
             "fileList": [
                 "hells-chicken-dungeon",
-                "ycgd-dungeon"
+                "ycgd-dungeon",
+                "tkt-dungeon"
             ]
         },
         {
             "dataClass": "story-mirror-dungeon-acquire-cost-in-battle",
             "fileList": [
                 "hells-chicken-dungeon-acquire-cost-in-battle",
-                "ycgd-dungeon-acquire-cost-in-battle"
+                "ycgd-dungeon-acquire-cost-in-battle",
+                "tkt-dungeon-acquire-cost-in-battle"
             ]
         },
         {
@@ -945,7 +965,8 @@
             "dataClass": "story-mirror-dungeon-egogift-droppool",
             "fileList": [
                 "hells-chicken-dungeon-egogift-droppool",
-                "ycgd-dungeon-egogift-droppool"
+                "ycgd-dungeon-egogift-droppool",
+                "tkt-dungeon-egogift-droppool"
             ]
         },
         {
@@ -956,14 +977,17 @@
                 "hells-chicken-dungeon-generatenodepool-event-1-1",
                 "hells-chicken-dungeon-generatenodepool-event-1-2",
                 "ycgd-dungeon-generatenodepool-1-1",
-                "ycgd-dungeon-generatenodepool-event-1-1"
+                "ycgd-dungeon-generatenodepool-event-1-1",
+                "tkt-dungeon-generatenodepool-1-1",
+                "tkt-dungeon-generatenodepool-event-1-1"
             ]
         },
         {
             "dataClass": "story-mirror-dungeon-encounterinfo",
             "fileList": [
                 "hells-chicken-dungeon-encounterinfos-01",
-                "ycgd-dungeon-encounterinfos-01"
+                "ycgd-dungeon-encounterinfos-01",
+                "tkt-dungeon-encounterinfos-01"
             ]
         },
         {
@@ -1044,9 +1068,8 @@
         {
             "dataClass": "event",
             "fileList": [
-                "ycgd-event",
                 "limbus-1st-gift-240227",
-                "limbus-1st-anniversary-attendance"
+                "tkt-event"
             ]
         },
         {
@@ -1102,7 +1125,7 @@
             "dataClass": "unlockcode",
             "fileList": [
                 "unlockcode-subchapter",
-                "unlockcode-a1c6p3"
+                "unlockcode-subchapter-tkt9109"
             ]
         },
         {

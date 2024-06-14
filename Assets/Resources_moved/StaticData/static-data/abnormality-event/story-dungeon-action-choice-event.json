@@ -2812,6 +2812,237 @@
           }
         ]
       }
+    },
+    {
+      "id": 10511,
+      "eventType": "EVENT",
+      "canSkip": false,
+      "actionEvent": {
+        "eachOptionList": [
+          {
+            "index": 0,
+            "cantSelectInThisCase": "None",
+            "resultList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": 1051101
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "cantSelectInThisCase": "None",
+            "resultList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": 1051102
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 10512,
+      "eventType": "EVENT",
+      "canSkip": false,
+      "actionEvent": {
+        "eachOptionList": [
+          {
+            "index": 0,
+            "cantSelectInThisCase": "None",
+            "resultList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": 1051201
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "cantSelectInThisCase": "None",
+            "resultList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffect": "Nothing",
+                      "nextBattleID": -1
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 10513,
+      "eventType": "EVENT",
+      "canSkip": false,
+      "actionEvent": {
+        "eachOptionList": [
+          {
+            "index": 0,
+            "cantSelectInThisCase": "None",
+            "resultList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": 1051301
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "cantSelectInThisCase": "None",
+            "resultList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": 1051302
+              }
+            ]
+          },
+          {
+            "index": 2,
+            "cantSelectInThisCase": "None",
+            "resultList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffect": "Nothing",
+                      "nextBattleID": -1
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 10514,
+      "eventType": "EVENT",
+      "canSkip": false,
+      "actionEvent": {
+        "eachOptionList": [
+          {
+            "index": 0,
+            "cantSelectInThisCase": "None",
+            "resultList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": 1051401
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "cantSelectInThisCase": "None",
+            "resultList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffect": "Nothing",
+                      "nextBattleID": -1
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 10515,
+      "eventType": "EVENT",
+      "canSkip": false,
+      "actionEvent": {
+        "eachOptionList": [
+          {
+            "index": 0,
+            "cantSelectInThisCase": "None",
+            "resultList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": 1051501
+              }
+            ]
+          },
+          {
+            "index": 1,
+            "cantSelectInThisCase": "None",
+            "resultList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffect": "Nothing",
+                      "nextBattleID": -1
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 10516,
+      "eventType": "EVENT",
+      "canSkip": false,
+      "actionEvent": {
+        "eachOptionList": [
+          {
+            "index": 0,
+            "cantSelectInThisCase": "None",
+            "resultList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffect": "MirrorDungeonAcquireCost",
+                      "nextBattleID": -1,
+                      "itemReward": {
+                        "type": "MIRRORDUNGEON_COST",
+                        "num": 600,
+                        "prob": 1.0
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }

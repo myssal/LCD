@@ -801,6 +801,106 @@
           "number": 1
         }
       ]
+    },
+    {
+      "id": 10609,
+      "appearance": "10609_Honglu_YurodivyAppearance",
+      "associationList": [ "YURODIVY" ],
+      "characterId": 6,
+      "panicType": 9999,
+      "season": 4,
+      "additionalAttachment": "EVENT",
+      "defenseSkillIDList": [
+        1060904
+      ],
+      "panicSkillOnErosion": 1000104,
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "rank": 3,
+      "hp": {
+        "defaultStat": 70,
+        "incrementByLevel": 2.4
+      },
+      "defCorrection": 0,
+      "minSpeedList": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "maxSpeedList": [
+        6,
+        6,
+        7,
+        7
+      ],
+      "uniqueAttribute": "AZURE",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          70,
+          40,
+          20
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.5
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1060901,
+          "number": 3
+        },
+        {
+          "skillId": 1060902,
+          "number": 2
+        },
+        {
+          "skillId": 1060903,
+          "number": 1
+        }
+      ]
     }
   ]
 }

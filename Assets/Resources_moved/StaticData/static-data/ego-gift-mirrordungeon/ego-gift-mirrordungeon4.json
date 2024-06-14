@@ -2019,6 +2019,205 @@
       "keyword": "Slash",
       "lockType": false,
       "price": 432
+    },
+
+
+    
+    {
+      "id": 9721,
+      "iconId": 2036,
+      "attributeType": "SCARLET",
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 2036,
+          "abilityIDList": [ 97211, 97212 ]
+        }
+      ],
+      "tag": [
+        "TIER_2"
+      ],
+      "keyword": "Vibration",
+      "lockType": false,
+      "price": 196
+    },
+    {
+      "id": 9722,
+      "iconId": 2037,
+      "attributeType": "AZURE",
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 2037,
+          "abilityIDList": [ 97221, 97222 ]
+        }
+      ],
+      "tag": [
+        "TIER_2"
+      ],
+      "keyword": "Vibration",
+      "lockType": false,
+      "price": 205
+    },
+    {
+      "id": 9723,
+      "iconId": 2038,
+      "attributeType": "INDIGO",
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 2038,
+          "abilityIDList": [ 97231, 97232 ]
+        }
+      ],
+      "tag": [
+        "TIER_2"
+      ],
+      "lockType": false,
+      "price": 198
+    },
+    {
+      "id": 9724,
+      "iconId": 2039,
+      "attributeType": "SHAMROCK",
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 2039,
+          "abilityIDList": [ 97241, 97242 ]
+        }
+      ],
+      "tag": [
+        "TIER_2"
+      ],
+      "keyword": "Vibration",
+      "lockType": false,
+      "price": 202
+    },
+    {
+      "id": 9725,
+      "iconId": 2040,
+      "attributeType": "VIOLET",
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 2040,
+          "abilityIDList": [ 97251, 97252 ]
+        }
+      ],
+      "tag": [
+        "TIER_2"
+      ],
+      "keyword": "Vibration",
+      "lockType": false,
+      "price": 207
+    },
+    {
+      "id": 9726,
+      "iconId": 2041,
+      "attributeType": "VIOLET",
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 2041,
+          "abilityIDList": [ 97261, 97262 ]
+        }
+      ],
+      "tag": [
+        "TIER_3"
+      ],
+      "keyword": "Vibration",
+      "lockType": false,
+      "price": 245
+    },
+    {
+      "id": 9727,
+      "iconId": 2042,
+      "attributeType": "CRIMSON",
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 2042,
+          "abilityIDList": [ 97271, 97272 ]
+        }
+      ],
+      "tag": [
+        "TIER_3"
+      ],
+      "lockType": false,
+      "price": 250
+    },
+    {
+      "id": 9728,
+      "iconId": 2043,
+      "attributeType": "SCARLET",
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 2043,
+          "abilityIDList": [ 97281, 97282, 97283 ]
+        }
+      ],
+      "tag": [
+        "TIER_4"
+      ],
+      "keyword": "Vibration",
+      "lockType": false,
+      "price": 400
+    },
+    {
+      "id": 9729,
+      "iconId": 2044,
+      "attributeType": "AMBER",
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 2044,
+          "abilityIDList": [ 97291, 97292, 97293 ]
+        }
+      ],
+      "tag": [
+        "TIER_4"
+      ],
+      "keyword": "Vibration",
+      "lockType": false,
+      "price": 400
+    },
+    {
+      "id": 9730,
+      "iconId": 2045,
+      "attributeType": "VIOLET",
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 2045,
+          "abilityIDList": [ 97301, 97302, 97303 ]
+        }
+      ],
+      "tag": [
+        "TIER_4"
+      ],
+      "keyword": "Vibration",
+      "lockType": false,
+      "price": 400
+    },
+    {
+      "id": 9731,
+      "iconId": 2046,
+      "attributeType": "AZURE",
+      "upgradeDataList": [
+        {
+          "upgradeLevel": 0,
+          "localizeID": 2046,
+          "abilityIDList": [ 97311, 97312, 97313 ]
+        }
+      ],
+      "tag": [
+        "TIER_4"
+      ],
+      "keyword": "Vibration",
+      "lockType": false,
+      "price": 400
     }
   ]
 }

@@ -1,0 +1,13 @@
+{
+  "list": [
+    {
+      "id": 828001,
+      "defCorrection": -3,
+      "isDestroyable": "false",
+      "skillCancelable": "false",
+      "canVanish": "false",
+      "canChangeSpriteOnDestoryed": "false",
+      "partType": "BODY"
+    }
+  ]
+}

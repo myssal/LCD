@@ -728,7 +728,7 @@
               "scale": 7,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffTurnAbnormalitySelf_Charge2",
+                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffTurn_Charge2",
                   "buffData": {
                     "buffKeyword": "Combustion",
                     "target": "Target",
@@ -745,7 +745,7 @@
               "scale": 7,
               "abilityScriptList": [
                 {
-                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffTurnAbnormalitySelf_Charge2",
+                  "scriptName": "GiveBuffOnSuccessAttackUsingBuffTurn_Charge2",
                   "buffData": {
                     "buffKeyword": "Combustion",
                     "target": "Target",

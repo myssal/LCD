@@ -5842,6 +5842,526 @@
           }
         ]
       }
+    },
+
+
+ 
+    {
+      "id": 97102101,
+      "canSkip": false,
+      "eventType": "COIN_EVENT",
+      "personalityEvent": {
+        "participantInfo": {
+          "min": 1,
+          "max": 1
+        },
+        "silenceCharacterUniqueIdList": [],
+        "adderInfo": [],
+        "judgement": {
+          "upDownType": 1,
+          "inclusiveValue": 12,
+          "exclusiveValue": 24,
+          "judgementDataList": [
+            {
+              "attributeType": "SHAMROCK"
+            },
+            {
+              "attributeType": "INDIGO"
+            }
+          ]
+        },
+        "eventResults": [
+          {
+            "eventResult": "SUCCESS",
+            "eventResultDataList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffect": "GetConfirmedEgogift",
+                      "itemReward": {
+                        "type": "EGO_GIFT",
+                        "rewardId": 9721,
+                        "num": 1,
+                        "prob": 1.0
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "eventResult": "FAILURE",
+            "eventResultDataList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffectTarget": "ChosenPersonality",
+                      "resultEffect": "LoseMpOnly_15"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 97102102,
+      "canSkip": false,
+      "eventType": "COIN_EVENT",
+      "personalityEvent": {
+        "participantInfo": {
+          "min": 1,
+          "max": 1
+        },
+        "silenceCharacterUniqueIdList": [],
+        "adderInfo": [],
+        "judgement": {
+          "upDownType": 1,
+          "inclusiveValue": 12,
+          "exclusiveValue": 24,
+          "judgementDataList": [
+            {
+              "attributeType": "AZURE"
+            },
+            {
+              "attributeType": "AMBER"
+            }
+          ]
+        },
+        "eventResults": [
+          {
+            "eventResult": "SUCCESS",
+            "eventResultDataList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffect": "GetConfirmedEgogift",
+                      "itemReward": {
+                        "type": "EGO_GIFT",
+                        "rewardId": 9722,
+                        "num": 1,
+                        "prob": 1.0
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "eventResult": "FAILURE",
+            "eventResultDataList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffectTarget": "ChosenPersonality",
+                      "resultEffect": "LoseMpOnly_15"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 97102201,
+      "canSkip": false,
+      "eventType": "COIN_EVENT",
+      "personalityEvent": {
+        "participantInfo": {
+          "min": 1,
+          "max": 1
+        },
+        "silenceCharacterUniqueIdList": [],
+        "adderInfo": [],
+        "judgement": {
+          "upDownType": 1,
+          "inclusiveValue": 12,
+          "exclusiveValue": 24,
+          "judgementDataList": [
+            {
+              "attributeType": "AZURE"
+            },
+            {
+              "attributeType": "AMBER"
+            }
+          ]
+        },
+        "eventResults": [
+          {
+            "eventResult": "SUCCESS",
+            "eventResultDataList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffect": "GetConfirmedEgogift",
+                      "itemReward": {
+                        "type": "EGO_GIFT",
+                        "rewardId": 9723,
+                        "num": 1,
+                        "prob": 1.0
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "eventResult": "FAILURE",
+            "eventResultDataList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffectTarget": "ChosenPersonality",
+                      "resultEffect": "LoseMpOnly_15"
+                    }
+                  },
+                  {
+                    "resultForm": {
+                      "resultEffect": "MirrorDungeonLossCost",
+                      "itemReward": {
+                        "type": "MIRRORDUNGEON_COST",
+                        "num": 50,
+                        "prob": 1.0
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 97102301,
+      "canSkip": false,
+      "eventType": "COIN_EVENT",
+      "personalityEvent": {
+        "participantInfo": {
+          "min": 1,
+          "max": 1
+        },
+        "silenceCharacterUniqueIdList": [],
+        "adderInfo": [],
+        "judgement": {
+          "upDownType": 1,
+          "inclusiveValue": 13,
+          "exclusiveValue": 26,
+          "judgementDataList": [
+            {
+              "attributeType": "INDIGO"
+            },
+            {
+              "attributeType": "SHAMROCK"
+            }
+          ]
+        },
+        "eventResults": [
+          {
+            "eventResult": "SUCCESS",
+            "eventResultDataList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffect": "GetConfirmedEgogift",
+                      "itemReward": {
+                        "type": "EGO_GIFT",
+                        "rewardId": 9725,
+                        "num": 1,
+                        "prob": 1.0
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "eventResult": "FAILURE",
+            "eventResultDataList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffect": "Nothing"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 97102302,
+      "canSkip": false,
+      "eventType": "COIN_EVENT",
+      "personalityEvent": {
+        "participantInfo": {
+          "min": 1,
+          "max": 1
+        },
+        "silenceCharacterUniqueIdList": [],
+        "adderInfo": [],
+        "judgement": {
+          "upDownType": 1,
+          "inclusiveValue": 13,
+          "exclusiveValue": 26,
+          "judgementDataList": [
+            {
+              "attributeType": "AMBER"
+            },
+            {
+              "attributeType": "SCARLET"
+            }
+          ]
+        },
+        "eventResults": [
+          {
+            "eventResult": "SUCCESS",
+            "eventResultDataList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffect": "GetConfirmedEgogift",
+                      "itemReward": {
+                        "type": "EGO_GIFT",
+                        "rewardId": 9724,
+                        "num": 1,
+                        "prob": 1.0
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "eventResult": "FAILURE",
+            "eventResultDataList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffect": "Nothing"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 97102401,
+      "canSkip": false,
+      "eventType": "COIN_EVENT",
+      "personalityEvent": {
+        "participantInfo": {
+          "min": 1,
+          "max": 1
+        },
+        "silenceCharacterUniqueIdList": [],
+        "adderInfo": [
+          {
+            "correctionCase": "SpecificAssociation_YURODIVY",
+            "adder": 7
+          },
+          {
+            "correctionCase": "SpecificUnit_Rodion",
+            "adder": 7
+          }
+        ],
+        "judgement": {
+          "upDownType": 1,
+          "inclusiveValue": 15,
+          "exclusiveValue": 30,
+          "judgementDataList": [
+            {
+              "attributeType": "CRIMSON"
+            },
+            {
+              "attributeType": "VIOLET"
+            },
+            {
+              "attributeType": "SHAMROCK"
+            }
+          ]
+        },
+        "eventResults": [
+          {
+            "eventResult": "SUCCESS",
+            "eventResultDataList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffect": "GetConfirmedEgogift",
+                      "itemReward": {
+                        "type": "EGO_GIFT",
+                        "rewardId": 9726,
+                        "num": 1,
+                        "prob": 1.0
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "resultIndex": 1,
+                "resultCondition": "",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffectTarget": "EveryAlly",
+                      "resultEffect": "RecoverHpMpSameAmount_25"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "eventResult": "FAILURE",
+            "eventResultDataList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffect": "Nothing"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 97102501,
+      "canSkip": false,
+      "eventType": "COIN_EVENT",
+      "personalityEvent": {
+        "participantInfo": {
+          "min": 1,
+          "max": 1
+        },
+        "silenceCharacterUniqueIdList": [],
+        "adderInfo": [],
+        "judgement": {
+          "upDownType": 1,
+          "inclusiveValue": 13,
+          "exclusiveValue": 26,
+          "judgementDataList": [
+            {
+              "attributeType": "AMBER"
+            },
+            {
+              "attributeType": "SHAMROCK"
+            },
+            {
+              "attributeType": "INDIGO"
+            }
+          ]
+        },
+        "eventResults": [
+          {
+            "eventResult": "SUCCESS",
+            "eventResultDataList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffect": "GetConfirmedEgogift",
+                      "itemReward": {
+                        "type": "EGO_GIFT",
+                        "rewardId": 9727,
+                        "num": 1,
+                        "prob": 1.0
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "eventResult": "FAILURE",
+            "eventResultDataList": [
+              {
+                "resultIndex": 0,
+                "resultCondition": "Prob_1",
+                "nextEventID": -1,
+                "eventResultDataList": [
+                  {
+                    "resultForm": {
+                      "resultEffect": "Nothing"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }

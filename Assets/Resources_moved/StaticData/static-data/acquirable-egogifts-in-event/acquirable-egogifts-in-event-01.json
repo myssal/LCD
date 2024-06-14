@@ -348,6 +348,27 @@
     {
       "eventId": 971017,
       "egoGiftList": [ 9719, 9720 ]
+    },
+
+    {
+      "eventId": 10511,
+      "egoGiftList": [ 2036, 2037 ]
+    },
+    {
+      "eventId": 10512,
+      "egoGiftList": [ 2038 ]
+    },
+    {
+      "eventId": 10513,
+      "egoGiftList": [ 2039, 2040 ]
+    },
+    {
+      "eventId": 10514,
+      "egoGiftList": [ 2041 ]
+    },
+    {
+      "eventId": 10515,
+      "egoGiftList": [ 2042 ]
     }
   ]
 }

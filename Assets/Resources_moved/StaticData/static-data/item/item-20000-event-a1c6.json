@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 20017,
+
+      "ignoreExcess": true,
+
+      "spriteStr": "tkt_event_item_1"
+    },
+    {
+      "id": 20018,
+
+      "autoTransformable": true,
+      "autoTransformTargetElement": {
+        "type": "ITEM",
+        "id": 20017,
+        "num": 20
+      },
+      "ignoreExcess": true,
+
+      "spriteStr": "tkt_event_item_2"
+    }
+  ]
+}
