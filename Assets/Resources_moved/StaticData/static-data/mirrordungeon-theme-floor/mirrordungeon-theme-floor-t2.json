@@ -204,6 +204,7 @@
         9704,
         9705
       ],
+      "excludeSpecificEgoGiftFromUpEgs":true,
       "mapGenSequence": [
         {
           "type": "CREATE_EMPTY_MD4_FLOOR",

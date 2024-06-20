@@ -1117,10 +1117,16 @@
               "scriptName": "GetIgnoreNaturalBreakOnUse"
             },
             {
+              "scriptName": "GiveIgnoreNaturalBreakOnUseTarget"
+            },
+            {
               "scriptName": "827807"
             },
             {
               "scriptName": "DistoryIgnoreNaturalBreak"
+            },
+            {
+              "scriptName": "DestroyIgnoreNaturalBreakTarget"
             }
           ],
           "coinList": [

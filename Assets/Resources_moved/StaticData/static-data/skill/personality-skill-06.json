@@ -3793,7 +3793,7 @@
                 "target": "",
                 "buffOwner": "Self",
                 "stack": 0,
-                "turn": 10,
+                "turn": 6,
                 "activeRound": 0,
                 "value": 1
               }
@@ -3889,7 +3889,7 @@
                 "target": "",
                 "buffOwner": "Self",
                 "stack": 0,
-                "turn": 8,
+                "turn": 5,
                 "activeRound": 0,
                 "value": 1
               }

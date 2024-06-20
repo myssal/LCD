@@ -24,7 +24,7 @@
     {
       "id": "TimeRentalTwo",
       "iconId": "TimeRental",
-      "buffClass": "CountableBuff",
+      "buffClass": "TimeRentalTwo",
       "attributeType": "AMBER",
       "buffType": "Positive",
       "canBeDespelled": true,

@@ -2690,7 +2690,7 @@
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
-                    "buffKeyword": "Sinking",
+                    "buffKeyword": "Laceration",
                     "target": "Target",
                     "stack": 8,
                     "turn": 0,
