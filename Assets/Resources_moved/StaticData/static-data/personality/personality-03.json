@@ -813,6 +813,105 @@
           "number": 1
         }
       ]
+    },
+    {
+      "id": 10309,
+      "appearance": "10309_Donquixote_TCorpAppearance",
+      "associationList": [
+        "T_CORP"
+      ],
+      "characterId": 3,
+      "panicType": 9999,
+      "season": 0,
+      "defenseSkillIDList": [
+        1030904
+      ],
+      "panicSkillOnErosion": 1000104,
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "rank": 3,
+      "hp": {
+        "defaultStat": 95,
+        "incrementByLevel": 3.26
+      },
+      "defCorrection": 4,
+      "minSpeedList": [
+        3,
+        3,
+        4,
+        4
+      ],
+      "maxSpeedList": [
+        6,
+        6,
+        7,
+        7
+      ],
+      "uniqueAttribute": "SHAMROCK",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          50
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 2
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1030901,
+          "number": 3
+        },
+        {
+          "skillId": 1030902,
+          "number": 2
+        },
+        {
+          "skillId": 1030903,
+          "number": 1
+        }
+      ]
     }
   ]
 }

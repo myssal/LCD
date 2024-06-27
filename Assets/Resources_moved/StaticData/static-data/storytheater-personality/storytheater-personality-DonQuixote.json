@@ -119,6 +119,19 @@
             ],
             "profileId": "blade_donquixote_profile",
             "analysisId": "blade_donquixote_analysis"
+          },
+          {
+            "personalityId": 10309,
+            "releaseDay": 20240627,
+            "cv_Id": "",
+            "personalityStoryList": [
+              {
+                "storyId": "P10309",
+                "lockCondition": "gacksung",
+                "order": 1,
+                "reward":{"type":"ITEM","id":2,"num":40}
+              }
+            ]
           }
         ]
     }

@@ -155,6 +155,57 @@
         {
         }
       ]
+    },
+    {
+      "id": "TimeSuspend",
+      "buffClass": "TimeSuspend",
+      "buffType": "Negative",
+      "canBeDespelled": true,
+      "list": [
+        {
+          "ability": "TimeSuspend"
+        }
+      ]
+    },
+    {
+      "id": "VibrationChainPersonality",
+      "iconId": "VibrationChain",
+      "subIdList": [
+        "Vibration"
+      ],
+      "buffClass": "SinBuff",
+      "attributeType": "AMBER",
+      "buffType": "Negative",
+      "canBeDespelled": true,
+      "list": [
+        {
+          "ability": "Vibration"
+        },
+        {
+          "ability": "VibrationChainPersonality"
+        },
+        {
+          "ability": "LoseTurnOnRoundEnd",
+          "value": 1
+        }
+      ],
+      "categoryKeywordList": [
+        "SIN",
+        "VIBRATION"
+      ]
+    },
+    {
+      "id": "TimeRentalTwoPersonality",
+      "iconId": "TimeRental",
+      "buffClass": "TimeRentalTwoPersonality",
+      "attributeType": "AMBER",
+      "buffType": "Positive",
+      "canBeDespelled": true,
+      "list": [
+        {
+          "ability": "TimeRentalTwoPersonality"
+        }
+      ]
     }
   ]
 }

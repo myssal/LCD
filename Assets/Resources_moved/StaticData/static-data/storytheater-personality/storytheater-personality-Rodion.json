@@ -119,7 +119,20 @@
          ],
          "profileId": "liu_rodion_profile",
          "analysisId": "liu_rodion_analysis"
-         }     
+         },
+         {
+          "personalityId": 10909,
+          "releaseDay": 20240627,
+          "cv_Id": "",
+          "personalityStoryList": [
+            {
+              "storyId": "P10909",
+              "lockCondition": "gacksung",
+              "order": 2,
+              "reward":{"type":"ITEM","id":2,"num":40}
+            }
+          ]
+          }      
         ]
     }
   ]
