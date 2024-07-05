@@ -366,7 +366,7 @@
               "scale": 8,
               "abilityScriptList": [
                 {
-                  "scriptName": "HealSelfOnSuccessAttackByDmgRatio40"
+                  "scriptName": "HealAbnormalityNSelfOnSuccessAttackByDmgRatio40"
                 }
               ]
             }
@@ -381,7 +381,7 @@
               "scale": 8,
               "abilityScriptList": [
                 {
-                  "scriptName": "HealSelfOnSuccessAttackByDmgRatio60"
+                  "scriptName": "HealAbnormalityNSelfOnSuccessAttackByDmgRatio60"
                 }
               ]
             }
@@ -427,7 +427,7 @@
               "scale": 4,
               "abilityScriptList": [
                 {
-                  "scriptName": "HealSelfOnSuccessAttackByDmgRatio20"
+                  "scriptName": "HealAbnormalityNSelfOnSuccessAttackByDmgRatio20"
                 },
                 {
                   "scriptName": "GiveBuffOnSucceedAttackHead",
@@ -458,7 +458,7 @@
               "scale": 4,
               "abilityScriptList": [
                 {
-                  "scriptName": "HealSelfOnSuccessAttackByDmgRatio30"
+                  "scriptName": "HealAbnormalityNSelfOnSuccessAttackByDmgRatio30"
                 },
                 {
                   "scriptName": "GiveBuffOnSucceedAttackHead",

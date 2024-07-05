@@ -252,7 +252,7 @@
               "scale": 10,
               "abilityScriptList": [
                 {
-                  "scriptName": "HealSelfOnSATByHpRatio3"
+                  "scriptName": "HealAbnormalityNSelfOnSATByHpRatio3"
                 },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
@@ -324,7 +324,7 @@
               "scale": 10,
               "abilityScriptList": [
                 {
-                  "scriptName": "HealSelfOnSuccessAttackByHpRatio3"
+                  "scriptName": "HealAbnormalityNSelfOnSuccessAttackByHpRatio3"
                 },
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",

@@ -151,7 +151,7 @@
               "scriptName": "AttackDmgUpByRatio10IfHpRatioLessThan25"
             },
             {
-              "scriptName": "HealHpOnKillTargetEveryAllyByRatio10"
+              "scriptName": "HealHpOnKillTargetEveryAllyAbnoNPartByRatio10"
             }
           ],
           "skillMotion": "Default",
@@ -172,7 +172,7 @@
               "scriptName": "AttackDmgUpByRatio20IfHpRatioLessThan25"
             },
             {
-              "scriptName": "HealHpOnKillTargetEveryAllyByRatio15"
+              "scriptName": "HealHpOnKillTargetEveryAllyAbnoNPartByRatio15"
             },
             {
               "scriptName": "GiveBuffOnKillTarget",
@@ -200,7 +200,7 @@
               "scriptName": "AttackDmgUpByRatio40IfHpRatioLessThan25"
             },
             {
-              "scriptName": "HealHpOnKillTargetEveryAllyByRatio15"
+              "scriptName": "HealHpOnKillTargetEveryAllyAbnoNPartByRatio15"
             },
             {
               "scriptName": "GiveBuffOnKillTarget",
@@ -741,7 +741,7 @@
                   }
                 },
                 {
-                  "scriptName": "HealSelfOnSuccessAttackByRatio30"
+                  "scriptName": "HealAbnormalityNSelfOnSuccessAttackByDmgRatio30"
                 }
               ]
             }
@@ -785,7 +785,7 @@
                   }
                 },
                 {
-                  "scriptName": "HealSelfOnSuccessAttackByRatio50"
+                  "scriptName": "HealAbnormalityNSelfOnSuccessAttackByDmgRatio50"
                 }
               ]
             }
@@ -829,7 +829,7 @@
                   }
                 },
                 {
-                  "scriptName": "HealSelfOnSuccessAttackByRatio50"
+                  "scriptName": "HealAbnormalityNSelfOnSuccessAttackByDmgRatio50"
                 }
               ]
             }

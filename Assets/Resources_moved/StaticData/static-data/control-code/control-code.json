@@ -72,5 +72,17 @@
   "isUseUnitSheildValueUI": true,
   "isCreateBlurMaterial": true,
   "isBlockForceInitEgoStock": true,
-  "adjustEnemySubUnitLevelStageIds": [ 2066331 ]
+  "adjustEnemySubUnitLevelStageIds": [ 2066331 ],
+  "contentList": [
+    {
+      "targetId": 99999,
+      "targetIntegers": [ 25, 10 ]
+    },
+    {
+      "targetId": 11009,
+      "targetIntegers": [ 40, 20 ]
+    }
+  ],
+  "isSendblog": true,
+  "battleLogCheckSize": 4194304
 }

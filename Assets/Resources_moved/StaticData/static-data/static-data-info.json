@@ -29,7 +29,9 @@
             "sdungeon-coin-choice-event-a1c5p3",
             "sdungeon-action-choice-event-a1c5p3",
             "battle-coin-choice-event-a1c6p2",
-            "battle-coin-choice-event-a1c6p3"
+            "battle-coin-choice-event-a1c6p3",
+            "abnormality-action-choice-event_Refraction4",
+            "abnormality-personality-choice-event-Refraction4"
           ]
         },
         {
@@ -46,6 +48,7 @@
             "abnormality-refraction-part",
             "abnormality-refraction2-part",
             "abnormality-refraction3-part",
+            "abnormality-refraction4-part",
             "abnormality-part91-4",
             "abnormality-part-a1c5p1",
             "abnormality-part-a1c5p2",
@@ -58,7 +61,9 @@
             "abnormality-part-a1c6p2",
             "abnormality-part-a1c6p3",
             "abnormality-part-wp3",
-            "abnormality-part-tkt"
+            "abnormality-part-tkt",
+            "abnormality-shadowenemy-part",
+            "abnormality-refraction4-part"
           ]
         },
         {
@@ -69,6 +74,7 @@
             "abnormality-refraction-unit",
             "abnormality-refraction2-unit",
             "abnormality-refraction3-unit",
+            "abnormality-refraction4-unit",
             "abnormality-unit91-4",
             "abnormality-unit-a1c5p1",
             "abnormality-unit-a1c5p2",
@@ -81,7 +87,9 @@
             "abnormality-unit-a1c6p2",
             "abnormality-unit-a1c6p3",
             "abnormality-unit-wp3",
-            "abnormality-unit-tkt"
+            "abnormality-unit-tkt",
+            "abnormality-shadowenemy-unit",
+            "abnormality-refraction4-unit"
           ]
         },
         {
@@ -124,7 +132,9 @@
             "buff-enemy-a1c6p3",
             "buff-enemy-wp3",
             "special-buff",
-            "buff-tkt"
+            "buff-tkt",
+            "buff-enemy-refraction4",
+            "buff-player-refraction4"
           ]
         },
         {
@@ -283,7 +293,8 @@
             "passive-enemy-refraction3",
             "passive-enemy-ycgd",
             "passive-enemy-wp3",
-            "passive-enemy-tkt"
+            "passive-enemy-tkt",
+            "passive-enemy-refraction4"
           ]
         },
         {
@@ -379,7 +390,8 @@
             "ego-skill-a1c6p3",
             "skill-abnormality-wp3",
             "skill-enemy-tkt",
-            "skill-abnormality-tkt"
+            "skill-abnormality-tkt",
+            "abnormality-refraction4-skill"
           ]
         },
         {
@@ -649,7 +661,8 @@
               "storytheater-other-9107",
               "storytheater-other-9015",
               "storytheater-other-9016",
-              "storytheater-other-9109"
+              "storytheater-other-9109",
+              "storytheater-other-9017"
             ]
         },
         {
@@ -906,7 +919,8 @@
             "fileList": [
                 "railway-dungeon-01",
                 "railway-dungeon-02",
-                "railway-dungeon-03"
+                "railway-dungeon-03",
+                "railway-dungeon-04"
             ]
         },
         {
@@ -914,7 +928,8 @@
             "fileList": [
                 "battle-railway-dungeon-01",
                 "battle-railway-dungeon-02",
-                "battle-railway-dungeon-03"
+                "battle-railway-dungeon-03",
+                "battle-railway-dungeon-04"
             ]
         },
         {
@@ -1015,8 +1030,7 @@
         {
             "dataClass": "control-code",
             "fileList": [
-                "control-code",
-                "control-code2"
+                "control-code"
             ]
         },
         {
@@ -1187,6 +1201,12 @@
             "guide-ui-mirrordungeon-egogift-combine",
             "guide-ui-mirrordungeon-battle-reward-card"
           ]
-        }
+        },
+      {
+        "dataClass": "buff-by-formation",
+        "fileList": [
+          "buff-by-formation-01"
+        ]
+      }
     ]
 }

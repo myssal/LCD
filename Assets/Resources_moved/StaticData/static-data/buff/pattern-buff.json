@@ -789,7 +789,6 @@
       "id": "KnowledgeExplored",
       "buffClass": "NonvolatileBuff",
       "buffType": "Neutral",
-      "maxStack": 3,
       "canBeDespelled": false,
       "list": [
         {

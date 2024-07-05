@@ -1672,8 +1672,8 @@
               "stageNodeType": "NORMAL"
             }
           ],
-          "nextMainchapterid": -1,
-          "nextSubchapterid": -1,
+          "nextMainchapterid": 91,
+          "nextSubchapterid": 9109,
           "lastnodeid": 10648
         }
       ],
@@ -1811,6 +1811,16 @@
           "subchapterId": 9109,
           "type": "SUB",
           "relatedEventId": "TKT"
+        },
+        {
+          "subchapterId": 9017,
+          "storyIdInTheaterData": 1,
+          "type": "MINI_STORY",
+          "uiConfig": {
+            "illustId": "story-id_E063X",
+            "customChapterText": "2",
+            "mapAreaId": 9109
+          }
         }
       ]
     },

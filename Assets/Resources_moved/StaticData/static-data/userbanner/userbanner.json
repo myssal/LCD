@@ -199,6 +199,23 @@
     {
       "id": 38,
       "effectId": 8
+    },
+    {
+      "id": 39,
+      "value1Text": {
+        "prefix": "<material=\"ExcelsiorSans/ExcelsiorSans SDF UserBanner RailwayDungeon Line4\"><color=#41caff>"
+      },
+      "value1Max": 999,
+      "positionType": "MIDDLE_BOTTOM"
+    },
+    {
+      "id": 40,
+      "value1Text": {
+        "prefix": "<material=\"ExcelsiorSans/ExcelsiorSans SDF UserBanner RailwayDungeon Line4\"><color=#41caff>"
+      },
+      "value1Max": 999,
+      "positionType": "MIDDLE_BOTTOM",
+      "effectId": 9
     }
   ]
 }

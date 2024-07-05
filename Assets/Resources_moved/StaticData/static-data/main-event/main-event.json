@@ -1,6 +1,14 @@
 {
   "list": [
     {
+      "eventId": "RailwayDungeonBanner",
+      "mainUIPhaseTypeList": [
+        "Lobby"
+      ],
+      "bannerSpriteId": "banner_RailwayLine4",
+      "isBannerVisible": true
+    },
+    {
       "eventId": "TKT",
       "mainUIPhaseTypeList": [
         "Lobby",
@@ -23,14 +31,7 @@
       "bannerSpriteId": "banner_MirrorDungeon4",
       "isBannerVisible": true
     },
-    {
-      "eventId": "RailwayDungeonBanner",
-      "mainUIPhaseTypeList": [
-        "Lobby"
-      ],
-      "bannerSpriteId": "banner_RailwayLine3",
-      "isBannerVisible": true
-    },
+
     {
       "eventId": "RemainMembership",
       "mainUIPhaseTypeList": [

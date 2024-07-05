@@ -1819,7 +1819,7 @@
               "cutsceneStart": true,
               "abilityScriptList": [
                 {
-                  "scriptName": "HealSelfOnSuccessAttackByDmgRatio50"
+                  "scriptName": "HealAbnormalityNSelfOnSuccessAttackByDmgRatio50"
                 }
               ]
             }
@@ -1856,7 +1856,7 @@
               "cutsceneStart": true,
               "abilityScriptList": [
                 {
-                  "scriptName": "HealSelfOnSuccessAttackByDmgRatio50AddValuePerBuffStack",
+                  "scriptName": "HealAbnormalityNSelfOnSuccessAttackByDmgRatio50AddValuePerBuffStack",
                   "buffData": {
                     "buffOwner": "Target",
                     "buffKeyword": "NailPersonality",
@@ -3174,7 +3174,7 @@
                 {
                   "scriptName": "GiveBuffOnSucceedAttack",
                   "buffData": {
-                    "buffKeyword": "AttackDown",
+                    "buffKeyword": "Laceration",
                     "target": "Target",
                     "buffOwner": "",
                     "stack": 1,

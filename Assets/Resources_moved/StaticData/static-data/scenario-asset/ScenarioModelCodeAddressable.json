@@ -3028,6 +3028,11 @@
       "scale": 0.8,
       "bottomYPos": 170,
       "nameTagColor": "#96693b"
+    },
+    {
+      "name": "질투죄종",
+      "krname": "질투죄종오티스",
+      "fileName": "Jsin_Outis"
     }
   ]
 }

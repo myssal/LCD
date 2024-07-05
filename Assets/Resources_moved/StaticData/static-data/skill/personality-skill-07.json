@@ -2982,7 +2982,16 @@
               "scriptName": "AddTauntOnUse2"
             },
             {
-              "scriptName": "1070704(limit:1)"
+              "scriptName": "GiveBuffOnBattleStartByDeuplicateStack_Breath(limit:1)",
+              "buffData": {
+                "buffKeyword": "DefenseUp",
+                "target": "Self",
+                "buffOwner": "Self",
+                "stack": -1,
+                "turn": 0,
+                "activeRound": 0,
+                "limit": 10
+              }
             }
           ],
           "coinList": [
@@ -3006,7 +3015,16 @@
               "scriptName": "AddTauntOnUse5"
             },
             {
-              "scriptName": "1070704(limit:1)"
+              "scriptName": "GiveBuffOnBattleStartByDeuplicateStack_Breath(limit:1)",
+              "buffData": {
+                "buffKeyword": "DefenseUp",
+                "target": "Self",
+                "buffOwner": "Self",
+                "stack": -1,
+                "turn": 0,
+                "activeRound": 0,
+                "limit": 10
+              }
             }
           ],
           "coinList": [
